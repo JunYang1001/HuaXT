@@ -1,0 +1,29 @@
+<!--pages/paper_list/paper_list.wxml-->
+<view>
+<image src="../image/index.png"  class="img"></image>
+<view class="page">
+  <view class="page-title" style = "color: #B17844;">请选择题库：</view>
+  <view class="flex-box">
+    <view class="flex-item"><view class="item btn_color" bindtap="toPaperPage" data-paperId="1001">环己酮初级选择题</view></view>
+    <view class="flex-item"><view class="item btn_color" bindtap="toPaperPage" data-paperId="1002">环己酮初级判断题</view></view>
+    <view class="flex-item item-last"><view class="item btn_color" bindtap="toPaperPage" data-paperId="1003">环己酮初级简答题</view></view>
+    <!-- <view class="flex-item"><view class="item bc_green">302</view></view> -->
+  </view>
+    <view class="flex-box">
+    <view class="flex-item"><view class="item btn_color" bindtap="toPaperPage" data-paperId="2001">环己酮中级选择题</view></view>
+    <view class="flex-item"><view class="item btn_color" bindtap="toPaperPage" data-paperId="2002">环己酮中级判断题</view></view>
+    <view class="flex-item item-last"><view class="item btn_color" bindtap="toPaperPage" data-paperId="2003">环己酮中级简答题</view></view>
+    <!-- <view class="flex-item"><view class="item bc_green">302</view></view> -->
+  </view>
+     <view class="flex-box">
+    <view class="flex-item"><view class="item btn_color" bindtap="toPaperPage" data-paperId="3001">旭阳环己酮装置选择题</view></view>
+    <view class="flex-item"><view class="item btn_color" bindtap="toPaperPage" data-paperId="3002">旭阳环己酮装置判断题</view></view>
+    <view class="flex-item item-last"><view class="item btn_color" bindtap="toPaperPage" data-paperId="3003">旭阳环己酮装置简答题</view></view>
+    <!-- <view class="flex-item"><view class="item bc_green">302</view></view> -->
+  </view>
+  <view>
+  <text>题库试题：Tips</text>
+  </view>
+</view>
+</view>
+
