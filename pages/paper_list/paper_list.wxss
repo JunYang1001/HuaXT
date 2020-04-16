@@ -1,4 +1,15 @@
 /* pages/paper_list/paper_list.wxss */
+
+.page-title {
+  padding-top: 20rpx;
+  padding-left: 40rpx;
+  margin-bottom: 20rpx;
+  font-size: 16px;
+}
+.weui-flex__item{
+  padding-top: 20rpx;
+}
+/* pages/paper_list/paper_list.wxss */
 .img {
   width: 100%;
 height: 100%;
@@ -39,6 +50,6 @@ z-index: -1;  /*z-index: -1，可以让图片置于最底层，不会影响其�
   flex: 1;
 }
 .btn_color{
-  background-color: #78C2C4;
+  background-color: #06ae56;
  
 }

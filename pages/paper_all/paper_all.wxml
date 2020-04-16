@@ -1,4 +1,5 @@
 <!--pages/paper_all/paper_all.wxml-->
 <import src="../common/python-list.wxml" />
 <loading hidden="{{!isLoading}}">加载中...</loading>
-<template wx:if="{{!isLoading}}" is="question-list" data="{{answers,layerlayer,swiper}}" />
+<template wx:if="{{shortanswer}}" is="question-list" data="{{answers,layerlayer,swiper}}" />
+<template wx:else is="Shortanswer" data="{{answers,layerlayer,swiper}}" />

@@ -19,6 +19,12 @@ Page({
       url: '../paper_all/paper_all?paperId='+paperId
     })
   },
+  toJudgePaperPage: function(e){
+    let paperId = e.currentTarget.dataset['paperid'];
+    wx.navigateTo({
+      url: '../paper_judge/paper_judge?paperId='+paperId+'&index='+e.currentTarget.dataset['index']
+    })
+  },
   /**
    * 生命周期函数--监听页面加载
    */
@@ -73,5 +79,6 @@ Page({
    */
   onShareAppMessage: function () {
 
-  }
+  },
+ 
 })

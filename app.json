@@ -1,13 +1,15 @@
 {
   "pages": [
+   
     "pages/index/index",
     "pages/paper_list/paper_list",
-   "pages/paper_all/paper_all"
+    "pages/paper_all/paper_all"
+   
    
   ],
   "window": {
     "backgroundTextStyle": "light",
-    "navigationBarBackgroundColor": "#30337A",
+    "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "化小题",
     "navigationBarTextStyle": "black"
   },

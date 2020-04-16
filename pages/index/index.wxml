@@ -1,29 +1,14 @@
 <!--index.wxml-->
-<view class="main" >
-<view style="background: url({{background}}) center center no-repeat; width:100%; height:100%; background-size: cover; top:50px; justify-content: center;">
-  <view class="header"></view>
+<view class="container">
   <view class="userinfo">
-    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo" style='top: 50px'> 获取头像昵称 </button>
+    <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
     <block wx:else>
-      <view class="userinfo-avator-wrap">
-        <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" background-size="cover"></image>
-      </view>
+      <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
       <text class="userinfo-nickname">{{userInfo.nickName}}</text>
     </block>
   </view>
-  <view class="usermotto">
-    <text class="masked" style="text_align: center">{{motto}}</text>
-    
-
-    <!-- <navigator style = "color: #5DAC81;padding-top: 100rpx;padding-bottom: 20rpx;font-size: x-large;" url="../paper_list/paper_list" hover-class="navigator-hover">{{enter}}</navigator> -->
   
-   <navigator style = "color: #5DAC81;padding-top: 100rpx;padding-bottom: 20rpx;font-size: x-large;" url="../paper_list/paper_list" hover-class="navigator-hover">题库</navigator>
-
-   <navigator style = "color: #F75C2F; padding: 20rpx;font-size: x-large;" url="../../packageA/pages/wrong_set/wrong_set" hover-class="navigator-hover">错题集</navigator>
-   
-   <navigator style = "color: #7DB9DE;padding: 20rpx; margin-bottom: 300rpx;font-size: x-large; " url="../../packageA/pages/collection/collection" hover-class="navigator-hover">收藏夹</navigator>
-
-   
+  	<view class="button-sp-area">
+  	<a class="weui-btn weui-btn_primary" bindtap="topaperList">{{motto}}</a>
   </view>
-</view>
 </view>

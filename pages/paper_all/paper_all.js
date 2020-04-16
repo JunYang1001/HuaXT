@@ -37,7 +37,8 @@ Page({
    * 页面的初始数据
    */
   data: {
-    papertype:'101',
+    shortanswer:true,
+    papertype:'',
     background: '/pages/image/index.png',
     userInfo: {},
     hasUserInfo: false,
@@ -79,21 +80,21 @@ Page({
   },
 
   //多选逻辑
-  tapCheckbox: function (e) {
-    let thisOption = e.currentTarget.dataset.option
-    let list = this.data.answers.allList[thisOption[2]].options.map(function (option, i) {
-      if (thisOption[1] == i) {
-        if (option.class != 'active') {
-          option.Select = true
-        }
-        else {
-          option.Select = false
-        }
-      }
-      return option
-    })
-    this.data.answers.allList[this.data.swiper.active].options = list
-  },
+  // tapCheckbox: function (e) {
+  //   let thisOption = e.currentTarget.dataset.option
+  //   let list = this.data.answers.allList[thisOption[2]].options.map(function (option, i) {
+  //     if (thisOption[1] == i) {
+  //       if (option.class != 'active') {
+  //         option.Select = true
+  //       }
+  //       else {
+  //         option.Select = false
+  //       }
+  //     }
+  //     return option
+  //   })
+  //   this.data.answers.allList[this.data.swiper.active].options = list
+  // },
 
   //单选答案判断逻辑
   tapSelect: function (e) {
@@ -103,7 +104,7 @@ Page({
     }
     this.data.isFirst = false
     let bool = true
-    let correct = this.data.answers.allList[this.data.swiper.active]['answer ']
+    let correct = this.data.answers.allList[this.data.swiper.active]['answer']
     let data = this.data.answers.allList[this.data.swiper.active].options.map((option, i) => {
       if (option.Select && option.label != correct) {
         option.class = 'error'
@@ -160,16 +161,99 @@ Page({
     if (this.data.answers.activeNum + 1 < this.data.answers.allList.length) {
       var suc = this.onSwiper('left');
       if (!bool) {
-        wx.showModal({
-          showCancel: false,//是否显示取消按钮
-          title: '错误答案',
-          content: '正确答案为' + correct,
-          success: function (res) {
-            if (res.confirm) {
-              console.log('错误答案')
+       switch(this.data.papertype)
+       {
+         case "1001":
+          wx.showModal({
+            showCancel: false,//是否显示取消按钮
+            title: '选择错误',
+            content: '正确答案为' + correct,
+            success: function (res) {
+              if (res.confirm) {
+                console.log('错误答案')
+              }
             }
-          }
-        })
+          })
+           break;
+           case "1002":
+             var temp=this.data.answers.allList[this.data.swiper.active]['answer']
+             var Parsing=this.data.answers.allList[this.data.swiper.active-1]['Parsing']
+            if(correct=="T")
+            {
+              temp="对"
+            }else
+            {
+              temp="错"
+            }
+             // this.data.answers.allList[this.data.swiper.active]['Parsing']
+            wx.showModal({
+              showCancel: false,//是否显示取消按钮
+              title: '选择错误',
+              content: '正确答案为：' + temp+'。\n'+Parsing ,
+              success: function (res) {
+                if (res.confirm) {
+                  console.log('错误答案')
+                }
+              }
+            })
+             break;
+             case "2001":
+              wx.showModal({
+                showCancel: false,//是否显示取消按钮
+                title: '选择错误',
+                content: '正确答案为' + correct,
+                success: function (res) {
+                  if (res.confirm) {
+                    console.log('错误答案')
+                  }
+                }
+              })
+               break;
+               case "2002":
+             var temp=this.data.answers.allList[this.data.swiper.active]['answer']
+             var Parsing=this.data.answers.allList[this.data.swiper.active-1]['Parsing']
+            if(correct=="T")
+            {
+              temp="对"
+            }else
+            {
+              temp="错"
+            }
+             // this.data.answers.allList[this.data.swiper.active]['Parsing']
+            wx.showModal({
+              showCancel: false,//是否显示取消按钮
+              title: '选择错误',
+              content: '正确答案为：' + temp+'。\n'+Parsing ,
+              success: function (res) {
+                if (res.confirm) {
+                  console.log('错误答案')
+                }
+              }
+            })
+             break;
+             case "3001":
+              wx.showModal({
+                showCancel: false,//是否显示取消按钮
+                title: '选择错误',
+                content: '正确答案为' + correct,
+                success: function (res) {
+                  if (res.confirm) {
+                    console.log('错误答案')
+                  }
+                }
+              })
+               break;
+       }
+        // wx.showModal({
+        //   showCancel: false,//是否显示取消按钮
+        //   title: '错误答案',
+        //   content: '正确答案为' + correct,
+        //   success: function (res) {
+        //     if (res.confirm) {
+        //       console.log('错误答案')
+        //     }
+        //   }
+        // })
       }
       setTimeout(() => this.onSwiper('left'), 200)
     } else {
@@ -210,106 +294,106 @@ Page({
   },
 
   //多选答案判断逻辑
-  tapConfirm: function (e) {
-    if (!this.data.isFirst || this.data.answers.allList[this.data.answers.start + this.data.swiper.active].isAnswer) {
-      //return false
-    }
-    this.data.isFirst = false
-    let bool = true
-    let correct = this.data.answers.allList[this.data.swiper.active]['a']
-    let ans = ""
-    let data = this.data.answers.allList[this.data.swiper.active].options.map((option, i) => {
-      if (option.Select) {
-        ans += option.label
-      }
-      return (option)
-    })
-    if (ans != correct) {
-      bool = false
-    }
-    var problem = this.data.answers.allList[this.data.answers.start + this.data.swiper.active]
+  // tapConfirm: function (e) {
+  //   if (!this.data.isFirst || this.data.answers.allList[this.data.answers.start + this.data.swiper.active].isAnswer) {
+  //     //return false
+  //   }
+  //   this.data.isFirst = false
+  //   let bool = true
+  //   let correct = this.data.answers.allList[this.data.swiper.active]['a']
+  //   let ans = ""
+  //   let data = this.data.answers.allList[this.data.swiper.active].options.map((option, i) => {
+  //     if (option.Select) {
+  //       ans += option.label
+  //     }
+  //     return (option)
+  //   })
+  //   if (ans != correct) {
+  //     bool = false
+  //   }
+  //   var problem = this.data.answers.allList[this.data.answers.start + this.data.swiper.active]
 
-    //判断数组中是否包含该题目
-    var result_suc = contains(pro_suc, problem.id + 10000);
-    var result_wro = contains(pro_wro, problem.id + 10000);
+  //   //判断数组中是否包含该题目
+  //   var result_suc = contains(pro_suc, problem.id + 10000);
+  //   var result_wro = contains(pro_wro, problem.id + 10000);
 
-    if (bool) {
-      problem.isAnswer = 1
-      if (result_suc == -1)
-        pro_suc.push(problem.id + 10000)
-      if (result_wro > -1)
-        pro_wro.splice(result_wro, 1);
-      this.data.answers.success++
-    } else {
-      problem.isAnswer = 2
-      if (result_suc > -1)
-        pro_suc.splice(result_suc, 1)
-      if (result_wro == -1)
-        pro_wro.push(problem.id + 10000);
-      this.data.answers.error++
-    }
-    //将错误的题目和正确的题目加入缓存
-    wx.setStorageSync("success", pro_suc)
-    wx.setStorageSync("wrong", pro_wro)
+  //   if (bool) {
+  //     problem.isAnswer = 1
+  //     if (result_suc == -1)
+  //       pro_suc.push(problem.id + 10000)
+  //     if (result_wro > -1)
+  //       pro_wro.splice(result_wro, 1);
+  //     this.data.answers.success++
+  //   } else {
+  //     problem.isAnswer = 2
+  //     if (result_suc > -1)
+  //       pro_suc.splice(result_suc, 1)
+  //     if (result_wro == -1)
+  //       pro_wro.push(problem.id + 10000);
+  //     this.data.answers.error++
+  //   }
+  //   //将错误的题目和正确的题目加入缓存
+  //   wx.setStorageSync("success", pro_suc)
+  //   wx.setStorageSync("wrong", pro_wro)
 
-    success2 = this.data.answers.success * 10
-    problem.options = data
-    this.data.answers.isShowTip = !bool
-    this.setData(this.data)
-    var points = success2 - 5 * (10 - error_s / 5)
-    var num = this.data.answers.success;
-    //延迟加载滑动
-    if (this.data.answers.activeNum + 1 < this.data.answers.allList.length) {
-      if (!bool) {
-        wx.showModal({
-          showCancel: false,//是否显示取消按钮
-          title: '错误答案',
-          content: '正确答案为' + correct,
-          success: function (res) {
-            if (res.confirm) {
-              console.log('错误答案')
-            }
-          }
-        })
-      }
-      setTimeout(() => this.onSwiper('left'), 200)
-    } else {
-      // 结束了
-      //console.log(collectionData.data.pro);
-      //wx.setStorageSync(, )
-      if (num > 11) {
-        wx.showModal({
-          showCancel: false,//是否显示取消按钮
-          title: '这是最后一题了',
-          content: '恭喜你通过了测验！\n你答对了' + num + '道题',
-          success: function (res) {
-            if (res.confirm) {
-              wx.redirectTo({
-                url: '../../../pages/index/index'
-              })
-            }
-          }
-        })
-      } else {
-        var text;
-        if (bool) text = "按确定返回主页"
-        else text = '正确答案为' + correct
-        wx.showModal({
-          title: '这是最后一题了',
-          showCancel: false,//是否显示取消按钮
-          content: text,
-          success: function (res) {
-            if (res.confirm) {
-              //console.log('用户点击确定')
-              wx.redirectTo({
-                url: '../../../pages/index/index'
-              })
-            }
-          }
-        })
-      }
-    }
-  },
+  //   success2 = this.data.answers.success * 10
+  //   problem.options = data
+  //   this.data.answers.isShowTip = !bool
+  //   this.setData(this.data)
+  //   var points = success2 - 5 * (10 - error_s / 5)
+  //   var num = this.data.answers.success;
+  //   //延迟加载滑动
+  //   if (this.data.answers.activeNum + 1 < this.data.answers.allList.length) {
+  //     if (!bool) {
+  //       wx.showModal({
+  //         showCancel: false,//是否显示取消按钮
+  //         title: '错误答案',
+  //         content: '正确答案为' + correct,
+  //         success: function (res) {
+  //           if (res.confirm) {
+  //             console.log('错误答案')
+  //           }
+  //         }
+  //       })
+  //     }
+  //     setTimeout(() => this.onSwiper('left'), 200)
+  //   } else {
+  //     // 结束了
+  //     //console.log(collectionData.data.pro);
+  //     //wx.setStorageSync(, )
+  //     if (num > 11) {
+  //       wx.showModal({
+  //         showCancel: false,//是否显示取消按钮
+  //         title: '这是最后一题了',
+  //         content: '恭喜你通过了测验！\n你答对了' + num + '道题',
+  //         success: function (res) {
+  //           if (res.confirm) {
+  //             wx.redirectTo({
+  //               url: '../../../pages/index/index'
+  //             })
+  //           }
+  //         }
+  //       })
+  //     } else {
+  //       var text;
+  //       if (bool) text = "按确定返回主页"
+  //       else text = '正确答案为' + correct
+  //       wx.showModal({
+  //         title: '这是最后一题了',
+  //         showCancel: false,//是否显示取消按钮
+  //         content: text,
+  //         success: function (res) {
+  //           if (res.confirm) {
+  //             //console.log('用户点击确定')
+  //             wx.redirectTo({
+  //               url: '../../../pages/index/index'
+  //             })
+  //           }
+  //         }
+  //       })
+  //     }
+  //   }
+  // },
 
   //页码切换列表效果
   pageClick: function () {
@@ -531,14 +615,88 @@ Page({
     if (this.$isLock) {
       this.isLockCall = function () {
         this.data.swiper.active = this.data.answers.activeNum - this.data.answers.start
-        this.data.answers.allList = questionData.data_all
+        switch ( this.data.papertype ) {
+          case "1001":
+            this.data.answers.allList = questionData.data_all
+            break;
+          case "1002":
+            this.data.answers.allList = questionData.data_all1002
+            break;
+            case "1003":
+              this.data.shortanswer=false
+              this.data.answers.allList = questionData.data_all1003
+            break;
+            case "2001":
+              this.data.answers.allList = questionData.data_all2001
+              break;
+              case "2002":
+            this.data.answers.allList = questionData.data_all2002
+            break;
+            case "2003":
+              this.data.shortanswer=false
+              this.data.answers.allList = questionData.data_all2003
+            break;
+            case "3001":
+              this.data.answers.allList = questionData.data_all3001
+              break;
+              case "3002":
+                this.data.shortanswer=false
+                this.data.answers.allList = questionData.data_all3002
+              break;
+              case "3002":
+                this.data.shortanswer=false
+                this.data.answers.allList = questionData.data_all13002
+              break;
+              case "3003":
+                this.data.shortanswer=false
+                this.data.answers.allList = questionData.data_all3003
+              break;
+          default:
+            console.log("default");
+        }
+        //this.data.answers.allList = questionData.data_all
         this.data.isLoading = false
         this.data.isFirst = true
         this.setData(this.data)
       }
     } else {
       this.data.swiper.active = this.data.answers.activeNum - this.data.answers.start
-      this.data.answers.allList = questionData.data_all
+      switch ( this.data.papertype ) {
+        case "1001":
+          this.data.answers.allList = questionData.data_all
+          break;
+        case "1002":
+          this.data.answers.allList = questionData.data_all1002
+          break;
+          case "1003":
+            this.data.shortanswer=false
+            this.data.answers.allList = questionData.data_all1003
+          break;
+          case "2001":
+            this.data.answers.allList = questionData.data_all2001
+            break;
+            case "2002":
+            this.data.answers.allList = questionData.data_all2002
+            break;
+            case "2003":
+              this.data.shortanswer=false
+              this.data.answers.allList = questionData.data_all2003
+            break;
+            case "3001":
+              this.data.answers.allList = questionData.data_all3001
+              break;
+              case "3002":
+                this.data.shortanswer=false
+                this.data.answers.allList = questionData.data_all3002
+              break;
+              case "3003":
+                this.data.shortanswer=false
+                this.data.answers.allList = questionData.data_all3003
+              break;
+        default:
+          console.log("default");
+      }
+     // this.data.answers.allList = questionData.data_all
       this.data.isLoading = false
       this.data.isFirst = true
       this.setData(this.data)
@@ -614,17 +772,60 @@ switch ( this.data.papertype ) {
     break;
   case "1002":
     for (var i = 0; i < questionData.data_all1002.length; i++) {
-      if (contains(data_c, questionData.data_all[i].id) == -1) {
-        questionData.data_all[i].isStore = false
+      if (contains(data_c, questionData.data_all1002[i].id) == -1) {
+        questionData.data_all1002[i].isStore = false
       } else {
-        questionData.data_all[i].isStore = true
+        questionData.data_all1002[i].isStore = true
       }
     }
     this.data.answers.allList = questionData.data_all1002
     break;
     case "1003":
-    console.log("var exp");
+      this.data.shortanswer=false
+      this.data.answers.allList = questionData.data_all1003
     break;
+    case "2001":
+    for (var i = 0; i < questionData.data_all2001.length; i++) {
+      if (contains(data_c, questionData.data_all2001[i].id) == -1) {
+        questionData.data_all2001[i].isStore = false
+      } else {
+        questionData.data_all2001[i].isStore = true
+      }
+    }
+    this.data.answers.allList = questionData.data_all2001
+    break;
+    case "2002":
+      for (var i = 0; i < questionData.data_all2002.length; i++) {
+        if (contains(data_c, questionData.data_all2002[i].id) == -1) {
+          questionData.data_all2002[i].isStore = false
+        } else {
+          questionData.data_all2002[i].isStore = true
+        }
+      }
+      this.data.answers.allList = questionData.data_all2002
+      break;
+      case "2003":
+        this.data.shortanswer=false
+        this.data.answers.allList = questionData.data_all2003
+      break;
+      case "3001":
+        for (var i = 0; i < questionData.data_all3001.length; i++) {
+          if (contains(data_c, questionData.data_all3001[i].id) == -1) {
+            questionData.data_all3001[i].isStore = false
+          } else {
+            questionData.data_all3001[i].isStore = true
+          }
+        }
+        this.data.answers.allList = questionData.data_all3001
+        break;
+        case "3002":
+          this.data.shortanswer=false
+          this.data.answers.allList = questionData.data_all3002
+        break;
+        case "3003":
+          this.data.shortanswer=false
+          this.data.answers.allList = questionData.data_all3003
+        break;
   default:
     console.log("default");
 }

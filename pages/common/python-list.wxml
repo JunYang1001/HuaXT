@@ -12,7 +12,7 @@
 </template>
 
 <!-- 渲染普通的多选数据 -->
-<template name="checkbox">
+<!-- <template name="checkbox">
   <view class="container">
     <block wx:for="{{item.options}}" wx:for-item="subItem" wx:key="index">
       <view class="list {{subItem.class}}" data-option="{{[subItem,index,idx]}}" bindtap="tapCheckbox">
@@ -24,7 +24,7 @@
     </block>
   </view>
   <view class="btn" bindtap="tapConfirm" >确定</view>
-</template>
+</template> -->
 
 <!-- 题目选择模层 -->
 <template name="layer">
@@ -72,11 +72,29 @@
   <view hidden="{{!layerlayer.isLayerShow}}" class="footer-layer" bindtap="layerFooterClick"></view>
   <view class="footer" animation="{{layerlayer.layerAnimation}}">
     <view class="count">
-      <view class="collect active" wx:if="{{answers.allList[answers.activeNum].isStore==true}}" bindtap="collectList">收藏</view>
-      <view class="collect" wx:else bindtap="collectList">收藏</view>
+      <!-- <view class="collect active" wx:if="{{answers.allList[answers.activeNum].isStore==true}}" bindtap="collectList">收藏</view>
+      <view class="collect" wx:else bindtap="collectList">收藏</view> -->
       <view class="page" bindtap='pageClick'>{{answers.activeNum + 1}}/{{answers.allList.length}}</view>
     
     </view>
     <template is="layer" data="{{answers,layerlayer}}" />
   </view>
+</template>
+
+<template name="Shortanswer">
+ 	<view class="weui-panel weui-panel_access">
+			<view class="weui-panel__hd">简答题、计算题、论述题</view>
+		 <block wx:for="{{answers.allList}}" wx:for-index="idx" wx:key="idx">
+      <view class="weui-panel__bd">
+				<view class="weui-media-box weui-media-box_text">
+					<view class="page__desc" style="font-size: 40rpx;" >{{item.question}}</view>
+					<view class="page__desc" style="font-size: 40rpx;">{{item.answer}}</view>
+				</view>
+			</view>
+      <view class="container">
+     <!-- 分割线 -->
+      <view class="divLine"></view>
+     </view>
+		 </block>
+		</view>
 </template>
