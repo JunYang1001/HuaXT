@@ -1,0 +1,1128 @@
+[{
+  "id": 1,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "质量单位换算1吨等于100kg。",
+  "Parsing": "正确答案：质量单位换算1吨等于1000kg。"
+},
+{
+  "id": 2,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "质量单位换算100克等于0.1kg。",
+  "Parsing": ""
+},
+{
+  "id": 3,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "国际单位制中的基本物理量不包括物质的量。正确答案：国际单位制中的基本物理量包括物质的量。",
+  "Parsing": ""
+},
+{
+  "id": 4,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "摩尔质量就是1摩尔物质的量。",
+  "Parsing": ""
+},
+{
+  "id": 5,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "重量是物体受重力的大小的度量，重量和质量不同，单位是牛顿。",
+  "Parsing": ""
+},
+{
+  "id": 6,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "单位数量的物体所具有的质量称为物体的密度。",
+  "Parsing": "正确答案：单位体积的物体所具有的质量称为物体的密度。"
+},
+{
+  "id": 7,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "对于理想气体，如果它的温度不变，则密度同压力成正比;",
+  "Parsing": "如果它的压力不变，则密度同温度成反比。"
+},
+{
+  "id": 8,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "当温度不变时，一定质量的理想气体自己和它所受的压力成反比。",
+  "Parsing": ""
+},
+{
+  "id": 9,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "气体的标准状态并不是一个固定条件，是随温度和压力的变化而变化。",
+  "Parsing": "正确答案：气体的标准状态是一个固定条件，不随温度和压力的变化而变化。"
+},
+{
+  "id": 10,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "长度是国际单位制中的七个基本物理量的量纲之一，符号为m。",
+  "Parsing": ""
+},
+{
+  "id": 11,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "1公顷等于1000平方米。",
+  "Parsing": "正确答案：1公顷等于10000平方米。"
+},
+{
+  "id": 12,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "体积是指物质或物体所占空间的大小，占据一特定容积的物质的量。",
+  "Parsing": ""
+},
+{
+  "id": 13,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "物体的受力面积与所受的压力之比叫做压强。",
+  "Parsing": "正确答案：物体所受的压力与受力面积之比叫做压强。"
+},
+{
+  "id": 14,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "物理学中把垂直作用在物体表面上并指向表面的力叫做压力。",
+  "Parsing": ""
+},
+{
+  "id": 15,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "在化合物中正、负化合价代数和等于零，这是求化合价的准则。",
+  "Parsing": ""
+},
+{
+  "id": 16,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "化学式是用元素符号表示物质组成的式子。分子晶体的化学式叫做分子式。分子式包含化学式。",
+  "Parsing": "正确答案：化学式是用元素符号表示物质组成的式子。分子晶体的化学式叫做分子式。化学式包含分子式。"
+},
+{
+  "id": 17,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "真空度=绝压-大气压。",
+  "Parsing": "正确答案：真空度=大气压-绝压。"
+},
+{
+  "id": 18,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "原子指化学反应不可再分的基本微粒，原子在化学反应中不可分割。",
+  "Parsing": ""
+},
+{
+  "id": 19,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "熔点是固体将其物态由固态转变（熔化）",
+  "Parsing": "为液态的温度。"
+},
+{
+  "id": 20,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "同一种液体，一定温度对应一定的饱和蒸气压。",
+  "Parsing": ""
+},
+{
+  "id": 21,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "单位时间内流过某一段管道的流体的体积，称为该横截面的体积流量。",
+  "Parsing": ""
+},
+{
+  "id": 22,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "1千克某种固体（气体）",
+  "Parsing": "燃料完全燃烧放出的热量称为该燃料的热值。"
+},
+{
+  "id": 23,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "气体吸收是利用各组分溶解度的不同来分离气体混合物的一种操作。",
+  "Parsing": ""
+},
+{
+  "id": 24,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "蒸馏是利用互溶液体混合物中各组分溶解度不同而分离成较纯组分的一种操作。",
+  "Parsing": "正确答案：蒸馏是利用互溶液体混合物中各组分挥发度不同而分离成较纯组分的一种操作。"
+},
+{
+  "id": 25,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "在烷精馏操作中，塔顶冷凝下来的物料不采出做为回流全部返回塔顶的操作称为全回流。",
+  "Parsing": ""
+},
+{
+  "id": 26,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "化工生产的特点是：高温、高压、高腐蚀、易燃、易爆、易中毒。",
+  "Parsing": ""
+},
+{
+  "id": 27,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "环己酮氧化装置的特点是大循环量，低转化率。",
+  "Parsing": ""
+},
+{
+  "id": 28,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "轻一塔再沸器所用蒸汽压力为",
+  "Parsing": "1.1MPa。"
+},
+{
+  "id": 29,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "轻二塔再沸器所用蒸汽压力为",
+  "Parsing": "0.4MPa。"
+},
+{
+  "id": 30,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "正确答案：轻二塔再沸器所用蒸汽压力为",
+  "question": "1.1MPa。",
+  "Parsing": ""
+},
+{
+  "id": 31,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "酮塔再沸器所用蒸汽压力为",
+  "Parsing": "0.4MPa。"
+},
+{
+  "id": 32,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "醇塔再沸器所用蒸汽压力为1.8MPa。",
+  "Parsing": "正确答案：醇塔再沸器所用蒸汽压力为"
+},
+{
+  "id": 33,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "1.1MPa。",
+  "question": "",
+  "Parsing": ""
+},
+{
+  "id": 34,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "醇二塔再沸器所用蒸汽压力为1.1MPa。",
+  "Parsing": "正确答案：醇二塔再沸器所用蒸汽压力为"
+},
+{
+  "id": 35,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "1.8MPa。",
+  "question": "",
+  "Parsing": ""
+},
+{
+  "id": 36,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "环己酮的分子式为C6H10O。",
+  "Parsing": ""
+},
+{
+  "id": 37,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "环己醇的分子式为C6H11OH。",
+  "Parsing": ""
+},
+{
+  "id": 38,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "苯的分子式为C6H12。",
+  "Parsing": "正确答案：苯的分子式为C6H6。"
+},
+{
+  "id": 39,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "液氨，又称为无水氨，是一种无色、有臭味的液体，其分子式为NH3。",
+  "Parsing": ""
+},
+{
+  "id": 40,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "加氢的汽水分离器副产0.1MPa的蒸汽。",
+  "Parsing": "正确答案：加氢的汽水分离器副产0.4MPa的蒸汽。"
+},
+{
+  "id": 41,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "加氢反应、脱氢反应都属于放热反应。",
+  "Parsing": "正确答案：加氢反应属于放热反应，脱氢反应属于吸热反应。"
+},
+{
+  "id": 42,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "氧化反应、分解反应都属于放热反应。",
+  "Parsing": ""
+},
+{
+  "id": 43,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "给苯加热的设备有苯预热器、苯汽化器。",
+  "Parsing": ""
+},
+{
+  "id": 44,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "苯加氢岗位有三个反应器，它们是并联连接的。",
+  "Parsing": "正确答案：苯加氢岗位有三个反应器，它们是串联连接的。"
+},
+{
+  "id": 45,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "苯加氢反应的大部分苯在后反应器反应。",
+  "Parsing": "正确答案：苯加氢反应的大部分苯在前反应器反应。"
+},
+{
+  "id": 46,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "苯加氢反应的苯来自罐区苯槽，经苯加料泵增压，经流量调节进入苯汽化器，加热后进入苯预热器。",
+  "Parsing": "正确答案：苯加氢反应的苯来自罐区苯槽，经苯加料泵增压，经流量调节进入苯预热器，加热后进入苯汽化器。"
+},
+{
+  "id": 47,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "苯加氢反应调节系统压力的加氢尾气或现场排空，或去制氢的气柜。",
+  "Parsing": ""
+},
+{
+  "id": 48,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "加氢第一冷凝器及冷却器用循环水冷却。",
+  "Parsing": "正确答案：加氢第一冷凝器用循环水冷却，冷却器用冷冻水冷却。"
+},
+{
+  "id": 49,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "加氢大部分尾气去分离器，分离后去混合氢缓冲罐。",
+  "Parsing": "正确答案：加氢大部分尾气去分离器，分离后去循环氢缓冲罐。"
+},
+{
+  "id": 50,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "加氢氢气循环压缩机进口来自循环氢缓冲罐，出口去混合氢缓冲罐。",
+  "Parsing": ""
+},
+{
+  "id": 51,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "酮二塔的作用是除掉环己酮中的重组分。",
+  "Parsing": "正确答案：酮二塔的作用是除掉环己酮中的轻组分。"
+},
+{
+  "id": 52,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "脱氢醇转化泵槽的粗醇酮分别送往氧化的尾气吸收塔和干燥塔做为吸收液用。",
+  "Parsing": "正确答案：脱氢醇转化泵槽的粗醇酮分别送往氧化的尾气吸收塔做为吸收液用。"
+},
+{
+  "id": 53,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "环己醇由环己醇泵从环己醇储槽中提取，经醇转化预热器与脱氢反应器来的醇酮蒸汽进行热交换。",
+  "Parsing": ""
+},
+{
+  "id": 54,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "精馏岗位轻一塔底液由底液泵送往酮二塔。",
+  "Parsing": "正确答案：精馏岗位轻一塔底液由底液泵送往酮塔。"
+},
+{
+  "id": 55,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "精馏岗位轻二塔底液由底液泵送往酮二塔。",
+  "Parsing": ""
+},
+{
+  "id": 56,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "精馏岗位酮塔加料来自轻一塔底液和酮二塔底液。",
+  "Parsing": ""
+},
+{
+  "id": 57,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "精馏岗位酮塔底液由底液泵送往酮二塔。",
+  "Parsing": "正确答案：精馏岗位酮塔底液由底液泵送往醇塔。"
+},
+{
+  "id": 58,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "酮二塔塔顶采出可以去溶剂酮罐也可以去粗醇酮罐",
+  "Parsing": "。"
+},
+{
+  "id": 59,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "酮塔塔顶除回流外作为产品环己酮采出至环己酮储罐。",
+  "Parsing": "正确答案：酮塔塔顶除回流外作为产品环己酮采出至环己酮缓冲罐。"
+},
+{
+  "id": 60,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "醇二塔（搅拌釜）",
+  "Parsing": "底液由醇塔底液泵送往X油储罐，或直接送往废碱焚烧装置做为燃料。"
+},
+{
+  "id": 61,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "醇转化泵槽的粗醇酮一路经干燥塔加料泵送往干燥塔进行脱水处理。",
+  "Parsing": ""
+},
+{
+  "id": 62,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "若苯加氢生产的环己烷质量不合格，可送至苯罐。",
+  "Parsing": ""
+},
+{
+  "id": 63,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "实现精馏操作的必要条件是多次部分汽化和多次部分冷凝",
+  "Parsing": "。"
+},
+{
+  "id": 64,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "苯加氢系统引入氢气前必须先用氮气置换系统至含氧＜5％。",
+  "Parsing": "正确答案：苯加氢系统引入氢气前必须先用氮气置换系统至含氧＜2％。"
+},
+{
+  "id": 65,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "轻二塔顶部产品是轻质油，塔顶产品中环己酮的含量应小25％。",
+  "Parsing": "正确答案：轻二塔顶部产品是轻质油，塔顶产品中环己酮的含量应小15％。"
+},
+{
+  "id": 66,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "精馏岗位水封槽内工艺水经泵增压后，全部送往氧化废水汽提塔。",
+  "Parsing": "正确答案：精馏岗位水封槽内工艺水经泵增压后，一部分送往氧化废水汽提塔，一部分送往氧化工艺水管线。"
+},
+{
+  "id": 67,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "酮、醇塔抽真空时，水封槽须有液位形成液封，防止空气抽入影响抽真空。",
+  "Parsing": ""
+},
+{
+  "id": 68,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "苯是黄色透明液体，具有特殊芳香气味的有毒液体，微溶于水。",
+  "Parsing": ""
+},
+{
+  "id": 69,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "环己酮是一种无色或浅黄色、有樟脑气味的透明液体。",
+  "Parsing": "正确答案：环己酮是一种无色或浅黄色、有强烈刺激性臭味的透明液体。"
+},
+{
+  "id": 70,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "环己烷是浅黄色、有强烈刺激性臭味的无色液体。",
+  "Parsing": "正确答案：环己烷是有刺激性气味的无色液体。"
+},
+{
+  "id": 71,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "精馏岗位要求醇塔塔釜产品X油中含环己醇含量要求≤8%。",
+  "Parsing": "正确答案：精馏岗位要求醇塔塔釜产品X油中含环己醇含量要求≤5%。"
+},
+{
+  "id": 72,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "加氢反应器热点温度要求",
+  "Parsing": "<220℃"
+},
+{
+  "id": 73,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "。",
+  "question": "",
+  "Parsing": ""
+},
+{
+  "id": 74,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "脱氢岗位一类工艺指标要求脱氢反应器热点温度≤210",
+  "Parsing": "℃。"
+},
+{
+  "id": 75,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "正确答案：脱氢岗位一类工艺指标要求脱氢反应器热点温度≥210℃。",
+  "question": "",
+  "Parsing": ""
+},
+{
+  "id": 76,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "环己酮氧化反应的特点是大循环量﹑低转化率。",
+  "Parsing": ""
+},
+{
+  "id": 77,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "为氧化岗位提供空气的是螺杆压缩机。",
+  "Parsing": "正确答案：为氧化岗位提供空气的是离心式空压机。"
+},
+{
+  "id": 78,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "溴化锂机组的制冷剂是水，吸收剂是溴化锂溶液。",
+  "Parsing": ""
+},
+{
+  "id": 79,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "氮气通常状况下是一种无色、无味、无臭、无毒的气体，约占大气总量的78.12",
+  "Parsing": "%（体积分数）"
+},
+{
+  "id": 80,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "，是空气的主要成份。",
+  "question": "",
+  "Parsing": ""
+},
+{
+  "id": 81,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "中间罐区的储罐与氧化工段相关的罐为环己醇罐和粗醇酮罐。",
+  "Parsing": "正确答案：中间罐区的储罐与氧化工段相关的罐为环己烷罐和粗醇酮罐。"
+},
+{
+  "id": 82,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "国内常见的环己酮生产工艺主要有环己烷无催化氧化法和环己烯水合法。",
+  "Parsing": ""
+},
+{
+  "id": 83,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "环己酮的生产工序的先后顺序是加氢—氧化—分解—烷精馏—皂化—精馏—脱氢。",
+  "Parsing": ""
+},
+{
+  "id": 84,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "环己酮生产所用的主要原料有苯、氢气、液碱。",
+  "Parsing": ""
+},
+{
+  "id": 85,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "脱氢反应主要是指环己醇在脱氢反应器中反应生成环己酮和氢气，脱氢转化率90%左右。",
+  "Parsing": "正确答案：脱氢反应主要是指环己醇在脱氢反应器中反应生成环己酮和氢气，脱氢转化率50%左右。"
+},
+{
+  "id": 86,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "分解工序分为一段分解、二段分解，分解反应在一定的温度压力下进行，需要加入分解催化剂醋酸钴。",
+  "Parsing": ""
+},
+{
+  "id": 87,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "分解反应是在油相中完成的，分解完成后需要进行废碱液分离。",
+  "Parsing": "正确答案：分解反应是在碱水相中完成的，分解完成后需要进行废碱液分离。"
+},
+{
+  "id": 88,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "环己酮常用公用工程中，所用空气有两种分别是工厂风和仪表风。",
+  "Parsing": ""
+},
+{
+  "id": 89,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "环己酮公用工程所用水有5种，分别是一次水、循环水、冷冻水、脱盐水和消防水。",
+  "Parsing": ""
+},
+{
+  "id": 90,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "环己酮装置的中压氮气主要供给氧化工段使用。",
+  "Parsing": ""
+},
+{
+  "id": 91,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "由加氢和氧化岗位副产，装置内减压制备的蒸汽只有0.4MPa蒸汽。",
+  "Parsing": "正确答案：由加氢和氧化岗位副产，装置内减压制备的蒸汽有0.4MPa蒸汽和0.1MPa蒸汽。"
+},
+{
+  "id": 92,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "用于装置区冷凝器，机泵冷却用水的只有循环水。",
+  "Parsing": "正确答案：用于装置区冷凝器，机泵冷却用水的有循环水和冷冻水。"
+},
+{
+  "id": 93,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "冷冻水由溴化锂机组制备，循环水需要经过凉水塔通过风机进行降温。",
+  "Parsing": ""
+},
+{
+  "id": 94,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "氧化反应系统中环己烷的蒸发受温度和压力的直接影响。",
+  "Parsing": ""
+},
+{
+  "id": 95,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "尾气吸收系统吸收的气体全部来自冷却洗涤塔顶的氧化尾气。",
+  "Parsing": "正确答案：尾气吸收系统吸收的气体来自冷却洗涤塔顶的氧化尾气和尾气压缩机的烷塔不凝气体。"
+},
+{
+  "id": 96,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "在分解工序中氧化液中的过氧化物分解成环己酮、环己醇",
+  "Parsing": "，有机酸被中和、酯类被皂化。"
+},
+{
+  "id": 97,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "废碱分离系统是将分解液中的有机相与反应完的无机碱水相分离。",
+  "Parsing": ""
+},
+{
+  "id": 98,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "皂化精制岗位可以将低分子的醛类转化成高沸物，使其能较容易的从精馏中除去。",
+  "Parsing": ""
+},
+{
+  "id": 99,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "经浓缩后的废碱排至废碱焚烧装置，回收其中的氢氧化钠。",
+  "Parsing": "正确答案：经浓缩后的废碱排至废碱焚烧装置，回收其中的碳酸钠。"
+},
+{
+  "id": 100,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "氧化加料冷环己烷一路经102E0203a、102E0203b冷却后经FPV122201调节进入冷却洗涤塔中部",
+  "Parsing": "，一路直接经TPV122202调节阀进入冷却洗涤塔顶部。"
+},
+{
+  "id": 101,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "正确答案：氧化加料冷环己烷一路经102E0203a、102E0203b冷却后经FPV122201调节进入冷却洗涤塔顶部",
+  "question": "，一路直接经TPV122202调节阀进入冷却洗涤塔中部。",
+  "Parsing": ""
+},
+{
+  "id": 102,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "碱液循环泵的循环碱大部分来自自循环",
+  "Parsing": "，约25m3/h的新循环碱由二段分解后的循环碱经3#废碱分液离器分离后供给。"
+},
+{
+  "id": 103,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "正确答案：碱液循环泵的循环碱大部分来自自循环",
+  "question": "，约25m3/h的新循环碱由二段分解后的循环碱经1#废碱分液离器分离后供给。",
+  "Parsing": ""
+},
+{
+  "id": 104,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "2#分解分离器下部碱水相经调节后与消泡剂混合，进入废碱预热器预热，然后去废碱闪蒸罐",
+  "Parsing": "。"
+},
+{
+  "id": 105,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "分解静置罐的不凝气体经分解尾气冷却器用冷冻水冷却。",
+  "Parsing": ""
+},
+{
+  "id": 106,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "1#废碱液分离器分离的高碱度的碱水相大部分返回一段分解的碱液循环泵入口进行循环，用于提高二段分解碱水的相比，多余部分返回一段分解的分解加压泵入口。",
+  "Parsing": "正确答案：1#废碱液分离器分离的高碱度的碱水相大部分返回二段分解的分解加压泵入口进行循环，用于提高二段分解碱水的相比，多余部分返回一段分解的碱液循环泵入口。"
+},
+{
+  "id": 107,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "尾气吸收塔底部的物料经液位调节可进入精制混合器，也可进行入分解加压泵进口。",
+  "Parsing": ""
+},
+{
+  "id": 108,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "进入废水汽提塔的废水全部来自加氢工段水封槽泵。",
+  "Parsing": "正确答案：进入废水汽提塔的废水来自烷塔回流槽废水泵及加氢工段水封槽泵。"
+},
+{
+  "id": 109,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "经汽提后的废水经废水冷却器冷却后，再经调节后直接送往污水处理的生化装置。",
+  "Parsing": "正确答案：经汽提后的废水经废水冷却器冷却后，再经调节后直接送往事故水池，在经污水泵送往污水处理的生化装置。"
+},
+{
+  "id": 110,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "配制分解触媒时，溶剂是水，溶质是醋酸钴。",
+  "Parsing": ""
+},
+{
+  "id": 111,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "环己烷氧化阻垢添加剂组分环己烷、",
+  "Parsing": "HEDP酯"
+},
+{
+  "id": 112,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "。",
+  "question": "",
+  "Parsing": ""
+},
+{
+  "id": 113,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "溴化锂机组运行开机时，必须先开冷冻水泵，再开循环水泵；稀释停机后，必须先停冷冻水泵，再停循环水泵，否则会造成冻管。",
+  "Parsing": "正确答案：溴化锂机组运行开机时，必须先开冷冻水泵，再开循环水泵；稀释停机后，必须先停循环水泵，再停冷冻水泵，否则会造成冻管。"
+},
+{
+  "id": 114,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "烷塔全回流操作时，为平衡烷一、烷二、烷三各塔底液位，可启动冷烷泵给一二三塔打回流。",
+  "Parsing": "正确答案：烷塔全回流操作时，为平衡烷一、烷二、烷三各塔底液位，可启动热烷泵给一二三塔打回流。"
+},
+{
+  "id": 115,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "烷塔全回流操作时，也可通过烷四塔回流泵向初馏塔打回流，再由初馏塔底液泵送至烷一塔，平衡各塔釜的液位。",
+  "Parsing": ""
+},
+{
+  "id": 116,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "烷五塔塔釜液经泵增压进入102X0236与在102X0234中混合稀释的碱水一同进入精制混合器下部进行皂化反应。",
+  "Parsing": ""
+},
+{
+  "id": 117,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "降温冷烷泵送往氧化釜的环己烷来自热烷槽。",
+  "Parsing": "正确答案：降温冷烷泵送往氧化釜的环己烷来自回流槽。"
+},
+{
+  "id": 118,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "环己烷大循环的开车、停车退料过程中，回流槽液位会上升，可启用返烷泵或烷四塔回流泵向罐区退烷。",
+  "Parsing": ""
+},
+{
+  "id": 119,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "氧化反应在减量的过程中，必须遵循先减液体量，后减气体量的原则，决不可反其道而行之。",
+  "Parsing": "正确答案：氧化反应在减量的过程中，必须遵循先减空气量，后减液体量的原则，决不可反其道而行之。"
+},
+{
+  "id": 120,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "环己烷精馏系统的目的是除去氧化液中的轻组份环己烷，烷精馏后的产品是粗醇酮。",
+  "Parsing": ""
+},
+{
+  "id": 121,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "氧化工序开车前烷塔首先运转，回流要求全回流",
+  "Parsing": "，待正常后氧化工序再开车。"
+},
+{
+  "id": 122,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "烷塔采用的是“三效蒸馏”，即只有烷一塔通入蒸汽加热，其余三个塔利用前面塔蒸出的二次蒸汽进行加热。",
+  "Parsing": "正确答案：烷塔采用的是“四效蒸馏”，即只有烷一塔通入蒸汽加热，其余三个塔利用前面塔蒸出的二次蒸汽进行加热。"
+},
+{
+  "id": 123,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "氧化反应温度1#至5#氧化釜依次递增。",
+  "Parsing": "正确答案：氧化反应温度1#至5#氧化釜依次递减。"
+},
+{
+  "id": 124,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "苯加氢产生的废气主要组成是氮气和氢气，排放方式：间断排放，处理方法：排至煤气柜回收利用。",
+  "Parsing": ""
+},
+{
+  "id": 125,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "环己酮装置废水的处理方法是通过废水汽提塔汽提，回收其中的有机物。",
+  "Parsing": ""
+},
+{
+  "id": 126,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "生产经营单位应当向从业人员如实告知作业场所和工作岗位存在的危险因素、防范措施以及事故应急措施。",
+  "Parsing": ""
+},
+{
+  "id": 127,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "安全阀防爆膜起跳时会产生噪声。",
+  "Parsing": ""
+},
+{
+  "id": 128,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "精馏系统抽真空时，回流槽的下料管应该有水封。",
+  "Parsing": ""
+},
+{
+  "id": 129,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "机泵的润滑油工作必须做到定质、定量、定点、定期、定人的五定标准。",
+  "Parsing": ""
+},
+{
+  "id": 130,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "检修设备时安全防护措施不落实，不准开始检修。",
+  "Parsing": ""
+},
+{
+  "id": 131,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "系统压力越低，环己烷蒸发量越大。",
+  "Parsing": ""
+},
+{
+  "id": 132,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "介质的沸点是一定的，不会随压力的影响而变化。",
+  "Parsing": "正确答案：介质的沸点会随压力的影响而变化。"
+},
+{
+  "id": 133,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "环己烷和水的共沸点应为这两种介质沸点的平均数。",
+  "Parsing": "正确答案：环己烷和水的共沸点并不是这两种介质沸点的平均数。"
+},
+{
+  "id": 134,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "离心泵出口流量增大，扬程减小，轴功率上升。",
+  "Parsing": ""
+},
+{
+  "id": 135,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "岗位交接班记录不属于运行记录。",
+  "Parsing": ""
+},
+{
+  "id": 136,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "高处作业人员不得站在不牢固的结构物上进行作业，可以在高处休息。正确答案：高处作业人员不得站在不牢固的结构物上进行作业，也不可以在高处休息。",
+  "Parsing": ""
+},
+{
+  "id": 137,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "引起闪燃的最高温度称为闪点。",
+  "Parsing": "正确答案：引起闪燃的最低温度称为闪点。"
+},
+{
+  "id": 138,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "脱氢工序采用负压操作。",
+  "Parsing": "正确答案：脱氢工序采用常压操作。"
+},
+{
+  "id": 139,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "装置设备热紧是为了减少装置泄漏。",
+  "Parsing": ""
+},
+{
+  "id": 140,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "疏水罐投用增加了能耗。",
+  "Parsing": "正确答案：疏水罐投用节约了能耗。"
+},
+{
+  "id": 141,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "由于氧化、烷塔设备使用压力不同，故应进行分段试压。",
+  "Parsing": ""
+},
+{
+  "id": 142,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "在空气通入氧化釜之前必须用氮气对管线进行吹扫。",
+  "Parsing": ""
+},
+{
+  "id": 143,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "初馏塔底液经底液泵加压后与分解液换热后进入烷一塔。",
+  "Parsing": "正确答案：初馏塔底液经底液泵加压后与氧化液换热后进入烷一塔。"
+},
+{
+  "id": 144,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "屏蔽泵是机泵一体结构，具有无泄漏的特点。",
+  "Parsing": ""
+},
+{
+  "id": 145,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "物体带有静电，其周围形成电场，在放电时产生的电火花很容易引起爆炸。",
+  "Parsing": ""
+},
+{
+  "id": 146,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "测量液体压力时，取压点应在管道下部，使导压管内部不积存气体。",
+  "Parsing": ""
+},
+{
+  "id": 147,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "测量误差只能用绝对误差来表示。",
+  "Parsing": "正确答案：测量误差只能用相对误差和绝对误差来表示。"
+},
+{
+  "id": 148,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "玻璃板式液位计具有结构复杂测量准确等优点。",
+  "Parsing": "正确答案：玻璃板式液位计具有结构简单测量不准确等特点。"
+},
+{
+  "id": 149,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "热电阻通常都由电阻体、绝缘体、保护管和接线盒四部分组成。",
+  "Parsing": ""
+},
+{
+  "id": 150,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "流量计按测量方式一般可分为：速度式流量计、容积式流量计、质量流量计三类。",
+  "Parsing": ""
+},
+{
+  "id": 151,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "转子流量计的锥管必须垂直安装，不可倾斜。",
+  "Parsing": ""
+},
+{
+  "id": 152,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "仪表检修、停车在拆卸仪表前不需停仪表电源或气源。",
+  "Parsing": "正确答案：仪表检修、停车在拆卸仪表前需要停仪表电源或气源。"
+},
+{
+  "id": 153,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "UPS是不间断电源装置的简称。",
+  "Parsing": ""
+},
+{
+  "id": 154,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "在充满可燃气体的环境中，可以使用手动电动工具。",
+  "Parsing": "正确答案：在充满可燃气体的环境中，不可以使用手动电动工具。"
+},
+{
+  "id": 155,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "对于容易产生静电的场所，应保持地面潮湿，或者铺设导电性能好的地板。",
+  "Parsing": ""
+},
+{
+  "id": 156,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "有人低压触电时，应该立即将他拉开。",
+  "Parsing": "正确答案：有人低压触电时，可以用木棍等绝缘体将他与电分开。"
+},
+{
+  "id": 157,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "雷击时，如果作业人员孤立处于暴露区并感到头发竖起时，应该立即双膝下蹲，向前弯曲，双手抱膝。",
+  "Parsing": ""
+},
+{
+  "id": 158,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "电流通过人体内部，使人的心脏、肺等内部器官受到损伤是电伤。",
+  "Parsing": "正确答案：电流通过人体内部，使人的心脏、肺等内部器官受到损伤不是电伤，而是电击。"
+},
+{
+  "id": 159,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（√）",
+  "question": "在使用手电钻、电砂轮等手持电动工具时，为保证安全，应该装设漏电保护器。",
+  "Parsing": ""
+},
+{
+  "id": 160,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "对于在易燃、易爆、易灼伤及有静电发生的场所作业的工人，可以发放和使用化纤防护用品。",
+  "Parsing": "正确答案：对于在易燃、易爆、易灼伤及有静电发生的场所作业的工人，不可以发放和使用化纤防护用品，可以发放纯棉工作服。"
+},
+{
+  "id": 161,
+  "type": "判断","options": [{"label": "T","text": "对"}, {"label": "F", "text": "错"}],
+  "answer": "（×）",
+  "question": "人体触电致死，是由于肝脏受到严重伤害。",
+  "Parsing": "正确答案：人体触电致死，是由于心脏受到严重伤害。"
+}
+]

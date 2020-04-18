@@ -1,0 +1,3364 @@
+[{
+		"id": "1",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "轻质油含环己酮10%wt表示100克轻质油含环己酮1g。",
+		"Parsing": "正确答案：轻质油含环己酮10%wt表示100克轻质油含环己酮10g."
+	},
+	{
+		"id": "2",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "\"化工常见单位1ppm表示百万分之一。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "3",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "\"分子的摩尔质量数值上等于该分子的分子量。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "4",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "每摩尔物质含有阿伏伽德罗常数个微粒，即6.022×10²³个微粒。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "5",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "在地球引力下，质量为1牛顿的物质的重量为9.8千克。",
+		"Parsing": "正确答案：在地球引力下，重量为9.8牛顿的物质的质量为1千克。"
+
+	},
+	{
+		"id": "6",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "固态或液态物质的密度，在温度和压力变化时，只发生很小的变化。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "7",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "\"我们所知道的N₂、O₂等都是理想气体。",
+		"Parsing": "正确答案：我们所知道的N₂、O₂等都不是理想气体。"
+
+	},
+	{
+		"id": "8",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "真实气体在使用PV=nRT方程式计算时，不存在误差。",
+		"Parsing": "正确答案：真实气体在使用PV=nRT方程式计算时，存在误差。"
+
+	},
+	{
+		"id": "9",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "空气是由氮气和氧气两种气体组成的混合物。",
+		"Parsing": "\"正确答案：空气是主要由氮气和氧气两种气体组成的混合物还有其他气体。"
+
+	},
+	{
+		"id": "10",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "\"pH值的使用范围一般在0-14之间，超过此范围时用物质的量浓度表示更为方便。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "11",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "\"pH范围在0~14之间，只适用于稀溶液。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "12",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "1atm=0.1MPa=100KPa=1bar=100米水柱。",
+		"Parsing": "正确答案：1atm≈0.1MPa=100KPa=1bar≈10米水柱。"
+
+	},
+	{
+		"id": "13",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "\"绝对压强=表压+大气压。",
+		"Parsing": ""
+	},
+	{
+		"id": "14",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "当液体上方的压强有变化时，其他各点的压强将发生大小不同的变化。",
+		"Parsing": "\"正确答案：当液体上方的压强有变化时，其他各点的压强将发生大小相同的变化。"
+
+	},
+	{
+		"id": "15",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "\"质量流速仅与质量流量和管道的横截面积有关，而与流体的温度、压强无关。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "16",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "单位时间内通过导管任一横截面积的流体体积，称为体积流量。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "17",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "液体的黏度随温度升高而降低，气体的黏度则反之。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "18",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "摄氏温度和的关系：℃=°K+273.15。",
+		"Parsing": "正确答案：摄氏温度和的关系：°K=℃+273.15。"
+
+	},
+	{
+		"id": "19",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "\"在一定压强下,晶体物质的熔点和凝固点都相同。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "20",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "沸点随外界压力变化而改变，低，沸点高。",
+		"Parsing": "正确答案：沸点随外界压力变化而改变，低，沸点低。"
+
+	},
+	{
+		"id": "21",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "物理反应是指的状态或存在的形式发生了改变，物质本身的性质也发生了。",
+		"Parsing": "正确答案：物理反应是指的状态或存在的形式发生了改变，物质本身的性质没发生。"
+
+
+	},
+	{
+		"id": "22",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "判断一个反应是否为化学反应的依据是反应是否生成新的物质。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "23",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "溶液沸腾时，气相中难挥发组分的含量总是小于液相中难挥发的组分的含量。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "24",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "用单位体积溶液中所含溶质的物质的量表示的浓度，叫做物质的量浓度。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "25",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "对溶液进行稀释，稀释前后的体积和浓度发生改变，溶质的物质的量也改变。",
+		"Parsing": "正确答案：溶液进行稀释，稀释前后的体积和浓度发生改变，溶质的物质的量不改变。"
+
+	},
+	{
+		"id": "26",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "在蒸发操作中，通常把物料汽化出来的蒸汽称为一次蒸汽。",
+		"Parsing": "正确答案：在蒸发操作中，通常把物料汽化出来的蒸汽称为二次蒸汽。"
+
+	},
+	{
+		"id": "27",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "气体混合物中某一组分的摩尔分数等于该组分的压力分数亦等于该组分的体积分数。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "28",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "绝对压力是以绝对零值为基准起算的，它总是正值。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "29",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "操作精馏塔时，要注意塔釜温度，防止蒸汽量大产生液泛。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "30",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "当PSH22908动作导致102E0250蒸汽阀FPV122901阀关闭。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "31",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "当102V0254液位过高，LSH122911动作导致XPV122905关闭，停止罐区向02V0254补烷。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "32",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "回流比过大会造成塔内物料的循环增加，导致液泛。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "33",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "塔压差是判断精馏操作加料、出料是否均衡的重要标志之一。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "34",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "精馏塔全回流操作时，可在最短的时间内达到气、液相平衡。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "35",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "为了保证塔顶产品质量，回流越大越好。",
+		"Parsing": "正确答案：为了保证塔顶产品质量，并不是回流越大越好。"
+
+	},
+	{
+		"id": "36",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "精馏塔内上升蒸汽量不足时将发生漏液现象。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "37",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "闪蒸罐的作用有以下三种：1.闪蒸2.烷水共沸3.缓冲",
+		"Parsing": ""
+
+	},
+	{
+		"id": "38",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "再沸器开车时先开进气阀，再开疏水阀。",
+		"Parsing": "正确答案：再沸器开车时先开疏水阀，再开进气阀。"
+
+	},
+	{
+		"id": "39",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "精馏塔釜压升高，将导致釜温降低。",
+		"Parsing": "正确答案：精馏塔釜压升高，将导致釜温升高"
+
+	},
+	{
+		"id": "40",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "区分蒸馏与精馏的必要条件是回流。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "41",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "环己烷的毒性度：中毒。",
+		"Parsing": "正确答案：环乙烷的毒性度：低毒"
+
+	},
+	{
+		"id": "42",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "当塔顶产品重组份增加时，应适当减少回流。",
+		"Parsing": "正确答案：当塔顶产品重组份增加时，应适当增大回流"
+
+	},
+	{
+		"id": "43",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "各种不同的物质具有不同的物理性质，在一定温度和压力下有着不同的饱和蒸汽压，从而表现出沸点不同和挥发度不同，饱和蒸汽压大的物体，沸点难挥发，饱和蒸汽压小的液体，沸点易挥发。",
+		"Parsing": "正确答案：各种不同的物质具有不同的物理性质，在一定温度和压力下有着不同的饱和蒸汽压，从而表现出沸点不同和挥发度不同，饱和蒸汽压小的物体，沸点难挥发，饱和蒸汽压大的液体，沸点易挥发"
+
+	},
+	{
+		"id": "44",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "向汽化器补水时，脱盐水不够可补充一次水。",
+		"Parsing": "正确答案：向汽化器补水时，脱盐水不够不可补充一次水"
+
+	},
+	{
+		"id": "45",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "生产操作时，可以不控制预热器温度，只控制好汽化器温度。",
+		"Parsing": "正确答案：生产操作时，预热器、汽化器都要控制温度"
+
+	},
+	{
+		"id": "46",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "苯的纯度直接影响环己烷含量，必须严格控制苯中杂质含量。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "47",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "苯和氢气大部分在第一反应器反应，少部分在第二反应器中反应。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "48",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "汽水分离器的水液位是确保反应器夹套始终充满水。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "49",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "反应器的反应温度一般要高于180度。",
+		"Parsing": "正确答案：反应器的反应温度一般要低于180度"
+
+	},
+	{
+		"id": "50",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "系统压力一般靠尾气放空来控制。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "51",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "设备热紧能避免所有法兰口泄漏。",
+		"Parsing": "正确答案：设备热紧不能避免所有法兰口泄漏"
+
+	},
+	{
+		"id": "52",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "当102C0251与102C0252无压差时，102V0252则无法向102V0256出料。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "53",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "烷塔尾气压缩机属于活塞式两级压缩机。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "54",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "精馏工序开车前联校的重点是绝压、液位、温度。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "55",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "在冬季停工时如停水先要将架空管线中的水放掉并检查有无死角。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "56",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "泵出口压力过高可能是未打开出口阀。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "57",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "止回阀是用来防止介质倒流的管道阀门。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "58",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "离心泵启动前，灌泵是为了防止产生汽蚀现象。",
+		"Parsing": "正确答案：离心泵启动前，灌泵是为了防止产生气缚现象"
+
+	},
+	{
+		"id": "59",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "机动设备的传动部件，在运转中严禁擦洗式拆卸。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "60",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "降低离心泵的转速它的流量、扬程相应下降，功率升高。",
+		"Parsing": "正确答案：降低离心泵的转速它的流量、扬程相应下降，功率下降"
+
+	},
+	{
+		"id": "61",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "泵盘车的方向可随意，正反向对泵没有影响。",
+		"Parsing": "正确答案：泵盘车的方向按运转方向"
+
+	},
+	{
+		"id": "62",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "离心泵不可在临界转速运行。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "63",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "习惯上把精馏塔的进料板划为提馏段。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "64",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "在塔的操作中应先充氮气置换后再进料。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "65",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "精馏操作中，回流比越大，分离效果越好。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "66",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "降低精馏塔的操作压力，可以降低操作温度，改善分离效果。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "67",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "塔填料的作用是为气、液两相提供充分的接触面。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "68",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "精馏装置的主要设备有精馏塔、回流槽、再沸器、冷凝器。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "69",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "真空精馏保压试验各塔压力控制在0.1-0.15MPa即可。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "70",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "苯加氢反应器中在满足环己烷质量要求的情况下，可以控制较低的温度，这样既能充分利用催化剂中的活化物质，还能延长催化剂的使用寿命。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "71",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "脱氢反应器中的新催化剂经活化投料后，在转化率达到工艺指标要求的情况下，反应器温度应适当控制低点，这样即能充分利用催化剂中的活化物质，又能延长催化剂的使用寿命。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "72",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "醇塔回流控制过大，会造成塔釜含醇偏高。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "73",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "系统在正抽真空时，应该先将真空泵启动再将和真空泵相连接阀门打开。",
+		"Parsing": "正确答案：系统在正抽真空时，应该先将真空泵相连接阀门打开再将真空泵启动。"
+
+	},
+	{
+		"id": "74",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "溴化锂机组在运行时，启动真空泵抽储气室内不凝气，停泵时应该先将真空泵停运，然后再将相关阀门关闭。",
+		"Parsing": "正确答案：溴化锂机组在运行时，启动真空泵抽储气室内不凝气，停泵时应该先将相关阀门关闭，然后再将真空泵停运。"
+
+	},
+	{
+		"id": "75",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "脱氢停压缩机时应与加氢岗位联系，通知加氢停送氢气后再停。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "76",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "离心泵关闭出口阀门启动是为了降低电机起动负荷。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "77",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "屏蔽泵是机泵一体结构，具有无泄漏的特点。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "78",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "屏蔽泵的冷却润滑回路的作用是提供润滑液。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "79",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "屏蔽泵严禁空载试车，离心泵同样严禁空负荷运行。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "80",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "在脱氢催化剂用量的计算中，我们知道了列管的内径、长度、数量，还要知道催化剂的堆密度才能计算出催化剂的装填量。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "81",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "脱氢是吸热反应，反应器温度越高对转化率越有利。",
+		"Parsing": "正确答案：脱氢是吸热反应，但并不是反应器温度越高对转化率越有利"
+
+	},
+	{
+		"id": "82",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "加氢触煤的主要成份是镍和三氧化二铝。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "83",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "脱氢反应器列管选材最主要是需要材质能耐高温。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "84",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "汽蚀现象发生时，泵的振动会突然增大。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "85",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "酮塔真空不稳定是造成真空尾带料的原因之一。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "86",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "(1)02P0259泵加压后与分解液换热进入(1)02C0251。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "87",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "只要达到可燃物的爆炸下限，遇到明火就会发生爆炸。",
+		"Parsing": "正确答案：已超过可燃物的爆炸下限且超过爆炸上限，则遇火不会发生爆炸。"
+
+	},
+	{
+		"id": "88",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "可燃物质在空气中的含量高于爆炸上限时，不会爆炸，但可能燃烧。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "89",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "静电可以引起爆炸、火灾及人身伤害。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "90",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "进入设备罐内或其它设备内部检修，必须办理动火证。",
+		"Parsing": "正确答案：进入设备罐内或其它设备内部检修，必须办理受限空间作业证"
+
+	},
+	{
+		"id": "91",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "当皮肤上沾有酸、碱物时，应立即用清水清洗。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "92",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "燃点越低,越容易着火。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "93",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "封闭式安全阀适用于易燃，易爆，有毒或腐蚀性介质的环境。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "94",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "设备在爆炸的同时，必定会产生新物质。",
+		"Parsing": "正确答案：设备在爆炸的同时，不一定会产生新物质"
+
+	},
+	{
+		"id": "95",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "当一个可逆反应达到平衡状态后，实际上反应已经停止了。",
+		"Parsing": "正确答案：当一个可逆反应达到平衡状态后，实际上反应并未停止"
+
+	},
+	{
+		"id": "96",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "氧气是一种可燃性气体。",
+		"Parsing": "正确答案：氧气是一种助燃气体"
+
+	},
+	{
+		"id": "97",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "以绝对真空为基础测得的压力，称为绝对压力。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "98",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "装有开式或半开式叶轮的离心泵是用来输送浆料或含有固体悬浮物的液体。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "99",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "如果将一台离心泵的叶轮改小那么泵的扬程将会变小。 ",
+		"Parsing": ""
+
+	},
+	{
+		"id": "100",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "对于纯液体来说，一定温度下的饱和蒸汽压就是该液体的挥发度。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "101",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "测量仪表的测量值小数点后的位数愈多，测量愈精确。",
+		"Parsing": "正确答案： 不是测量仪表的测量值小数点后的位数愈多，测量愈精确"
+
+	},
+	{
+		"id": "102",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "一台气动薄膜调节阀，若阀杆在全行程的50%位置，则流过阀的流量也在最大量程的50%。",
+		"Parsing": "正确答案：一台气动薄膜调节阀，若阀杆在全行程的50%位置，则流过阀的流量要大于最大量程的50%"
+
+	},
+	{
+		"id": "103",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "调节阀所能控制的最小流量与调节阀的泄漏量不是一个概念。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "104",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "二次表是指用于记录、指示、报警等的仪表。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "105",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "两台离心泵串联使用后，扬程是两台泵单独使用时之和。",
+		"Parsing": "正确答案：两台离心泵串联使用后，扬程达不到两台泵单独使用时之和"
+
+	},
+	{
+		"id": "106",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "换热器传热面积越大，传递的热量也越多。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "107",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "在静止的液体中，液体内任一点的压强只与流体的密度有关，而与液体的深度无关。",
+		"Parsing": "正确答案：在静止的液体中，液体内任一点的压强既与流体的密度有关，也与液体的深度有关"
+
+	},
+	{
+		"id": "108",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "在连通着的同一种静止流体内，处于同一水平面的各点压强相等，而与容器的形状无关。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "109",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "泵输送液体的粘度越大，则泵的扬程、流量减小，效率及轴功率增大。",
+		"Parsing": "正确答案：泵输送液体的粘度越大，则泵的扬程、流量减小，效率下降，但轴功率增加。"
+
+	},
+	{
+		"id": "110",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "离心泵有机械密封处、轴承轴、联轴器三处润滑点",
+		"Parsing": ""
+
+	},
+	{
+		"id": "111",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "安全阀应安装在被保护设备，管线的最近位置上。  ",
+		"Parsing": ""
+
+	},
+	{
+		"id": "112",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "与无机物相比，有机物的特点是，熔点较高，易燃，又易溶于水和有机溶剂。",
+		"Parsing": "正确答案：与无机物相比，有机物的特点是，熔点较低，易燃，不易溶于水和易溶于有机溶剂"
+
+	},
+	{
+		"id": "113",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "球阀不能作节流用，必须全关或全开，不允许半开半关。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "114",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "球阀可以做节流阀来使用。",
+		"Parsing": "正确答案：球阀不可以做节流阀来使用"
+
+	},
+	{
+		"id": "115",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "闸板阀不能做节流用，球阀能。",
+		"Parsing": "正确答案：闸板阀不能做节流用，球阀也不能"
+
+	},
+	{
+		"id": "116",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "自力式调压阀由指挥器、调节阀、节流针型阀及导压管组成。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "117",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "弹簧式安全阀根据阀瓣的开启高度不同，可分为全启式和微启式。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "118",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "线路快速截断阀有自动关闭控制系统及手压泵操作机构。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "119",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "高级孔板阀平衡阀的作用是平衡阀门上下腔的压力，滑阀的作用是隔断阀门上下腔。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "120",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "闸阀是截断阀类的一种,用来接通或截断管路中的介质。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "121",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "闸阀通过顺时针方向转动手轮时，闸板上升，阀体通道被打开，流体通过阀体由一端流向另一端。",
+		"Parsing": "正确答案：闸阀通过逆时针方向转动手轮时，闸板上升，阀体通道被打开，流体通过阀体由一端流向另一端"
+
+	},
+	{
+		"id": "122",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "安全阀的控制方式是自动的。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "123",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "闸阀属启闭类阀件。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "124",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "闸阀开关完后，应将手轮反向回转1-2圈。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "125",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "反时针旋转明杆闸阀手轮，使阀杆螺母转动，而阀杆和闸板均作上升的直线运动，使闸阀开启。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "126",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "截止阀有节流作用，但一般不允许作为节流阀。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "127",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "安装节流阀应使阀针迎向介质流动方向。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "128",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "流体的沸点与气压有关系，气压增大，沸点升高。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "129",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "主观检查的五自操作法为听、摸、查、闻、看。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "130",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "流体从同一容器出来，经过并联的两根管子到达同一容器，在这两根管子中流体的能量损失相等。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "131",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "两台离心泵并联使用后，所得流量为原来各泵单独使用时的两倍。",
+		"Parsing": "正确答案：两台离心泵并联使用后，所得流量为原来各泵单独使用时不到两倍。"
+
+	},
+	{
+		"id": "132",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "往复泵的流量只与本身尺寸和活塞往复次数有关，而与泵的扬程无关。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "133",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "导热系数是衡量物质导热能力的一个物理量，一般导热系数越大，说明物质的导热性能越好。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "134",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "设备和容器内部动火时，其中氧含量必须在18%以上。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "135",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "烷凝固点低的原因是：触媒活性小，苯或烷中含水，氢苯比小，反应温度偏低，反应温度过高副产物增多，苯中含硫高，触媒中毒",
+		"Parsing": ""
+
+	},
+	{
+		"id": "136",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "脱氢突然停电，处理方法是： ①冷油置换②关加料阀与蒸发器蒸汽阀③系统置换",
+		"Parsing": ""
+
+	},
+	{
+		"id": "137",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "脱氢新装催化剂升温的主要目标的之一是除去催化剂中的水分和激活催化剂中的活性物质。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "138",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "加氢反应热点温度高的处理方法有：①减少苯量②关小蒸汽③缓慢降低管间压力。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "139",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "氢压机在引进氢气前不需用氮气对系统进行置换合格。",
+		"Parsing": "正确答案：氢压机在引进氢气前需用氮气对系统进行置换合格"
+
+	},
+	{
+		"id": "140",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "脱氢反应是体积增大并伴随放热的化学反应。",
+		"Parsing": "正确答案：脱氢反应是体积增大并吸热反应。"
+
+	},
+	{
+		"id": "141",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "脱氢反应温度高，将会使副反应减少。",
+		"Parsing": "正确答案：脱氢反应温度高，将会使副反应增加。"
+
+	},
+	{
+		"id": "142",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "所有泵类都是靠内部吸真空后抽液的。",
+		"Parsing": "正确答案：不是所有泵类都是靠内部吸真空后抽液的。"
+
+	},
+	{
+		"id": "143",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "轻塔、酮塔、醇塔三装置串联生产，即酮塔和醇塔无加料槽，因此轻塔在提量时，不仅要考虑自身的实际工况情况，还应该考虑到酮塔和醇塔的工况情况。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "144",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "在加氢装置的副产蒸汽压力不能满足酮塔和废碱蒸发需要时，应该用低压蒸汽补充。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "145",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "脱氢触媒主要成分是镍和三氧化二铝。",
+		"Parsing": "正确答案：脱氢触媒主要成分是铜锌。"
+
+	},
+	{
+		"id": "146",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "加氢反应是体积缩小并伴随放热的化学反应，高压、低温有利于反应向右进行。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "147",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "脱氢系统压力超高时，会导致系统泄漏起火。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "148",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "脱氢氢气压缩机应保持微正压，防止吸入空气而发生爆炸。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "149",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "过滤器的作用是清除介质中的机械杂质，以保护设备管道上的配件面受磨损和堵塞。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "150",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "屏蔽泵利用屏蔽套将电机的转子和定子隔开，转子在被输送的介质中运转，其动力通过磁场传给转子",
+		"Parsing": ""
+
+	},
+	{
+		"id": "151",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "屏蔽泵长时间在小流量情况下运转，效率较低，会导致发热、使液体蒸发，而造成泵干转，从而损坏滑动轴承。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "152",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "转子流量计的工作原理是当流体自下而上的流经锥形管时，浮子处于平衡状态下时，浮子自身重力、浮子受到流体的浮力和流体对浮子动压力的平衡。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "153",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "大功率机泵开车前应通知电气人员确认启动时是否影响其他设备的运行。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "154",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "严禁在罐区及易燃易爆装置区内用有色金属工具进行敲打撞击作业。",
+		"Parsing": "正确答案：严禁在罐区及易燃易爆装置区内用黑色金属工具进行敲打撞击作业。"
+
+	},
+	{
+		"id": "155",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "燃点是指可燃物在空气充足的条件下，达到某一温度时与火源接触即行着火，并在移去火源后继续燃烧的最低温度。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "156",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "膨胀节的作用是主要用于管道轴向热位移补偿，补偿安装误差，消声隔震。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "157",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "机泵冷却的作用是降低泵体、泵座、轴承箱、轴封处温度，防止这些部位因温升而变形、老化和损坏。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "158",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "机封冲洗是指将密封流体注入到密封腔内，完成润滑、冷却、过滤等功能，改善机械密封工作环境的过程。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "159",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "压力容器按设计压力大小分为四个等级：低压容器、中压容器、高压容器、超高压容器。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "160",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "操作人员在液氨漏点，裸露的手臂被液氨灼烧后，应及时用自来水或凉开水清洗。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "161",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "压力容器带压时不可紧固螺栓及进行修理。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "162",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "机械油的牌号越高，则粘度越大。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "163",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "截止阀与闸阀比较，其优点是结构简单、密封性好、维护方便。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "164",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "根据经验，回流比常取最小回流比的1.2-2倍。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "165",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "脱氢新装催化剂升温的主要目标的之一是除去催化剂中的水分和激活催化剂中的活性物质。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "166",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "脱氢反应床层温度保持基本一致，有利于转化率的提高。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "167",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "精馏负压塔的回流槽液位空时，应关闭回流槽下料阀和停回流泵，防止回流槽变形，以及空气窜入塔内造成安全事故。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "168",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "F",
+		"question": "酮釜含酮呈上涨的趋势，此时加大回流或减少塔顶出料对于降低酮釜含酮是有利的操作。",
+		"Parsing": "正确答案：酮釜含酮呈上涨的趋势，此时加大回流或减少塔顶出料对于降低酮釜含酮是不利的操作。"
+
+	},
+	{
+		"id": "169",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "脱氢催化剂活化是用干燥的气体，在一定的温度下将催化剂中的结晶水及游离水带走。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "170",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "离心泵是依靠高速旋转的叶轮而使液体获得压头的。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "171",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "对设备进行日常检查，目的是及时发现不正常现象并加以排除。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "172",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "当零件磨损后降低了设备的使用性能时，就应该更换。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "173",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "泵停用一周以上必须先测电机绝缘再使用。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "174",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "装置升温后，部分部位会出现泄漏，再次进行紧固，称为热紧。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "175",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "过滤器的作用是清楚介质中的机械杂质，以保护设备管道上的配件面受磨损和堵塞。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "176",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "人体皮肤是化工生产中有毒有害物质侵入人体的主要途径。",
+		"Parsing": ""
+
+	},
+	{
+		"id": "177",
+		"type": "判断",
+		"scores": "1",
+		"isStore": "false",
+		"isAnswer": "0",
+		"checked": "false",
+		"options": [{
+			"label": "T",
+			"text": "对"
+		}, {
+			"label": "F",
+			"text": "错"
+		}],
+		"answer": "T",
+		"question": "填写记录要求及时、准确、客观真实、内容完整、字迹清晰。",
+		"Parsing": ""
+
+	}
+
+]

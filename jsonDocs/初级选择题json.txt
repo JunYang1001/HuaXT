@@ -1,0 +1,6427 @@
+[{
+		"ID": 1020200001,
+		"type": "Elementary_select",
+		"question": "下列哪一项是物质的量的单()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）kg",
+			"B": "（B）t",
+			"C": "（C）mol",
+			"D": "（D）m"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200002,
+		"type": "Elementary_select",
+		"question": "气体的标准摩尔体积()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）22.4L",
+			"B": "（B）2.24L",
+			"C": "（C）224L",
+			"D": "（D）0.224L"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200003,
+		"type": "Elementary_select",
+		"question": "下列属于重量单位的下列属于重量单位的()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）牛顿（N）",
+			"B": "（B）千克（kg）",
+			"C": "（C）吨（t）",
+			"D": "（D）摩尔（mol）"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200004,
+		"type": "Elementary_select",
+		"question": "质量与重量的换算公式()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）G=mg",
+			"B": "（B）m=Gg",
+			"C": "（C）g=mG",
+			"D": "（D）G=m/g"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200005,
+		"type": "Elementary_select",
+		"question": "\"下列不属于重量单位的()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）磅",
+			"B": "（B）吨",
+			"C": "（C）克拉",
+			"D": "（D）盎司"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200006,
+		"type": "Elementary_select",
+		"question": "下列属于密度单位的()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）m/s",
+			"B": "（B）L/m³",
+			"C": "（C）kg/m³",
+			"D": "（D）L/mg"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200007,
+		"type": "Elementary_select",
+		"question": "理想气体状态方程式：PV()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）RT",
+			"B": "（B）nT",
+			"C": "（C）Kt",
+			"D": "（D）nRT"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200008,
+		"type": "Elementary_select",
+		"question": "酸碱度描述的是水溶液的强弱程度，()值来表示。",
+		"answer": "C",
+		"option": {
+			"A": "（A）R",
+			"B": "（B）K",
+			"C": "（C）pH",
+			"D": "（D）W"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200009,
+		"type": "Elementary_select",
+		"question": "热力学标准状况时，pH=7的水溶液()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）酸性",
+			"B": "（B）中性",
+			"C": "（C）碱性",
+			"D": "（D）盐性"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200010,
+		"type": "Elementary_select",
+		"question": "热力学标准状况时，pH<7者()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）酸性",
+			"B": "（B）中性",
+			"C": "（C）碱性",
+			"D": "（D）盐性"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200011,
+		"type": "Elementary_select",
+		"question": "热力学标准状况时，pH>7者()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）酸性",
+			"B": "（B）中性",
+			"C": "（C）碱性",
+			"D": "（D）盐性"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200012,
+		"type": "Elementary_select",
+		"question": "长度的国际单位()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）厘米（cm）",
+			"B": "（B）毫米（mm）",
+			"C": "（C）米(m)",
+			"D": "（D）（km）"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200013,
+		"type": "Elementary_select",
+		"question": "液位计量程常用单位()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）厘米（cm）",
+			"B": "（B）分米（dm）",
+			"C": "（C）米(m)",
+			"D": "（D）毫米（mm）"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200014,
+		"type": "Elementary_select",
+		"question": "下列不属于面积单位的()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）立方米",
+			"B": "（B）平方公里",
+			"C": "（C）平方米",
+			"D": "（D）平方厘米"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200015,
+		"type": "Elementary_select",
+		"question": "在国际单位制（SI）中，标准单位面积()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）平方分米",
+			"B": "（B）平方公里",
+			"C": "（C）平方米",
+			"D": "（D）平方厘米"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200016,
+		"type": "Elementary_select",
+		"question": "在国际单位制（SI）中，体积的单位()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）立方分米",
+			"B": "（B）立方米",
+			"C": "（C）立方毫米",
+			"D": "（D）立方厘米"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200017,
+		"type": "Elementary_select",
+		"question": "下列不属于压强单位的()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）帕斯卡/帕（Pa）",
+			"B": "（B）焦耳",
+			"C": "（C）巴（bar）",
+			"D": "（D）公斤"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200018,
+		"type": "Elementary_select",
+		"question": "1Mpa等()KPa。",
+		"answer": "B",
+		"option": {
+			"A": "（A）10000",
+			"B": "（B）1000",
+			"C": "（C）100",
+			"D": "（D）10"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200019,
+		"type": "Elementary_select",
+		"question": "表压的标注符号()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）（p）",
+			"B": "（B）（A）",
+			"C": "（C）（G）",
+			"D": "（D）（h）"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200020,
+		"type": "Elementary_select",
+		"question": "流()作用于单位面积上的力，称为液体的压强。",
+		"answer": "C",
+		"option": {
+			"A": "（A）流动",
+			"B": "（B）平行",
+			"C": "（C）垂直",
+			"D": "（D）冲击"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200021,
+		"type": "Elementary_select",
+		"question": "我国的法定计量单位是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）英制单位",
+			"B": "（B）国际单位制",
+			"C": "（C）公制单位",
+			"D": "（D）绝对实用单位制"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200022,
+		"type": "Elementary_select",
+		"question": "6.8公斤等()kg。",
+		"answer": "D",
+		"option": {
+			"A": "（A）68",
+			"B": "（B）3.4",
+			"C": "（C）13.6",
+			"D": "（D）6.8"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200023,
+		"type": "Elementary_select",
+		"question": "在国际单位制（SI）中，温度的单位()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）华氏度",
+			"B": "（B）开尔文",
+			"C": "（C）摄氏度",
+			"D": "（D）列式"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200024,
+		"type": "Elementary_select",
+		"question": "下列哪一种不属于分子的存在形()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）气态",
+			"B": "（B）液态",
+			"C": "（C）固态",
+			"D": "（D）游离态"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200025,
+		"type": "Elementary_select",
+		"question": "C6H12的分子量()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）72",
+			"B": "（B）84",
+			"C": "（C）70",
+			"D": "（D）86"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200026,
+		"type": "Elementary_select",
+		"question": "()是一种元素能保持其化学性质的最小单位。",
+		"answer": "A",
+		"option": {
+			"A": "（A）原子",
+			"B": "（B）分子",
+			"C": "（C）离子",
+			"D": "（D）粒子"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200027,
+		"type": "Elementary_select",
+		"question": "化合价是一种(  )与其他元素的原子化合{即构成化合物}时表现出来的性质。",
+		"answer ": "A",
+		"option": {
+			"A": "（A）一个",
+			"B": "（B）多个",
+			"C": "（C）两个",
+			"D": "（D）三个"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200028,
+		"type": "Elementary_select",
+		"question": "化合价为+1的元素()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）Na",
+			"B": "（B）F",
+			"C": "（C）Ca",
+			"D": "（D）Fe"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200029,
+		"type": "Elementary_select",
+		"question": "分子式是用表()分子的组成及的化学组成式。",
+		"answer": "A",
+		"option": {
+			"A": "（A）",
+			"B": "（B）",
+			"C": "（C）化合物",
+			"D": "（D）混合物"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200030,
+		"type": "Elementary_select",
+		"question": "同一种物质在真空状态下沸()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）不变",
+			"B": "（B）升高",
+			"C": "（C）降低",
+			"D": "（D）倍增"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200031,
+		"type": "Elementary_select",
+		"question": "下列那一过程不属于物理反()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）衣服由湿变干",
+			"B": "（B）云层化雨",
+			"C": "（C）花香四溢",
+			"D": "（D）木炭燃烧"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200032,
+		"type": "Elementary_select",
+		"question": "物质由气态变为液态的变化过程称()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）升华",
+			"B": "（B）凝华",
+			"C": "（C）液化",
+			"D": "（D）熔化"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200033,
+		"type": "Elementary_select",
+		"question": "物质由液态变为气态的变化过程称()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）升华",
+			"B": "（B）凝华",
+			"C": "（C）液化",
+			"D": "（D）汽化"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200034,
+		"type": "Elementary_select",
+		"question": "物质由固态变为液态的变化过程称()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）熔化",
+			"B": "（B）凝固",
+			"C": "（C）液化",
+			"D": "（D）汽化"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200035,
+		"type": "Elementary_select",
+		"question": "物质由液态变为固态的变化过程称()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）熔化",
+			"B": "（B）凝固",
+			"C": "（C）液化",
+			"D": "（D）汽化"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200036,
+		"type": "Elementary_select",
+		"question": "下列哪一个不是化学反应的分()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）核反应",
+			"B": "（B）化合反应",
+			"C": "（C）氧化反应",
+			"D": "（D）分解反应"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200037,
+		"type": "Elementary_select",
+		"question": "下列不属于流量单位的()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）m³/s",
+			"B": "（B）t/h",
+			"C": "（C）m/s",
+			"D": "（D）L/h"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200038,
+		"type": "Elementary_select",
+		"question": "燃料热值的单位()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）J/kg",
+			"B": "（B）mol/kg",
+			"C": "（C）J.kg",
+			"D": "（D）N/kg"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200039,
+		"type": "Elementary_select",
+		"question": "溶解度的定义中，溶剂量()g。",
+		"answer": "C",
+		"option": {
+			"A": "（A）200",
+			"B": "（B）10",
+			"C": "（C）100",
+			"D": "（D）1000"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200040,
+		"type": "Elementary_select",
+		"question": "有机物都含()元素。",
+		"answer": "C",
+		"option": {
+			"A": "（A）氧",
+			"B": "（B）氮",
+			"C": "（C）碳",
+			"D": "（D）氯"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200041,
+		"type": "Elementary_select",
+		"question": "因振动或碰撞将热能以动能的形式传给相邻温度较低的分子，这属()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）传导",
+			"B": "（B）对流",
+			"C": "（C）辐射",
+			"D": "（D）传质"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200042,
+		"type": "Elementary_select",
+		"question": "化工企业生产中应用最广的一种换热方式()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）直接混合式换热",
+			"B": "（B）间壁式换热",
+			"C": "（C）热对流",
+			"D": "（D）蓄热式换热"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200043,
+		"type": "Elementary_select",
+		"question": "精馏是一()的过程。",
+		"answer": "D",
+		"option": {
+			"A": "（A）传热",
+			"B": "（B）传导",
+			"C": "（C）传质",
+			"D": "（D）传热与传质同时进行"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200044,
+		"type": "Elementary_select",
+		"question": "将几个蒸发器串联操作，将一个蒸发器所产生的二次蒸汽作为另一个蒸发器的加热蒸汽，这样的操作()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）单效蒸发",
+			"B": "（B）串联蒸发",
+			"C": "（C）多效蒸发",
+			"D": "（D）间歇蒸发"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200045,
+		"type": "Elementary_select",
+		"question": "在单效蒸发操作中，通常()的蒸汽称为生蒸汽。",
+		"answer": "B",
+		"option": {
+			"A": "（A）物料汽化出来",
+			"B": "（B）作热源用",
+			"C": "（C）中压",
+			"D": "（D）低压"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200046,
+		"type": "Elementary_select",
+		"question": "在蒸发操作中，通常()的蒸汽称为二次蒸汽。",
+		"answer": "C",
+		"option": {
+			"A": "（A）作热源用",
+			"B": "（B）中压",
+			"C": "（C）物料汽化出来",
+			"D": "（D）低压"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200047,
+		"type": "Elementary_select",
+		"question": "在精馏操作中，回流量()之比称为回流比。",
+		"answer": "A",
+		"option": {
+			"A": "（A）塔顶采出量",
+			"B": "（B）塔顶气相冷凝量",
+			"C": "（C）塔底采出量",
+			"D": "（D）进料量"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200048,
+		"type": "Elementary_select",
+		"question": "原料苯的分子式()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）C6H6",
+			"B": "（B）C6H12",
+			"C": "（C）C6H10",
+			"D": "（D）C6H10O"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200049,
+		"type": "Elementary_select",
+		"question": "环己烷的分子式()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）C6H6",
+			"B": "（B）C6H12",
+			"C": "（C）C6H10",
+			"D": "（D）C6H10O"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200050,
+		"type": "Elementary_select",
+		"question": "环己酮的分子式()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）C6H6",
+			"B": "（B）C6H12",
+			"C": "（C）C6H10",
+			"D": "（D）C6H10O"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200051,
+		"type": "Elementary_select",
+		"question": "环己醇的分子式()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）C6H6",
+			"B": "（B）C6H12",
+			"C": "（C）C6H12O",
+			"D": "（D）C6H10O"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200052,
+		"type": "Elementary_select",
+		"question": "下列不属于蒸汽正确分类的()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）高压蒸汽",
+			"B": "（B）中压蒸汽",
+			"C": "（C）低压蒸汽",
+			"D": "（D）高效蒸汽"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200053,
+		"type": "Elementary_select",
+		"question": "氧化热回收系统液相出现泄漏时，应用()代替物料。",
+		"answer": "A",
+		"option": {
+			"A": "（A）水",
+			"B": "（B）空气",
+			"C": "（C）氮气",
+			"D": "（D）仪表气"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200054,
+		"type": "Elementary_select",
+		"question": "当液氨泄漏时，应采用()作为吸收剂，防止液氨扩散。",
+		"answer": "A",
+		"option": {
+			"A": "（A）水",
+			"B": "（B）空气",
+			"C": "（C）氮气",
+			"D": "（D）仪表气"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200055,
+		"type": "Elementary_select",
+		"question": "各装置伴热蒸汽用的是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）1.1MPa",
+			"B": "（B）0.1MPa",
+			"C": "（C）1.8MPa",
+			"D": "（D）0.4MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200056,
+		"type": "Elementary_select",
+		"question": "氧化反应系统气相出现泄漏时，应用()代替物料。",
+		"answer": "C",
+		"option": {
+			"A": "（A）水",
+			"B": "（B）环己烷",
+			"C": "（C）氮气　",
+			"D": "（D）仪表气"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200057,
+		"type": "Elementary_select",
+		"question": "氧化岗位废碱蒸发器的蒸汽用的()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）1.1MPa　",
+			"B": "（B）0.4MPa",
+			"C": "（C）1.8MPa",
+			"D": "（D）0.1MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200058,
+		"type": "Elementary_select",
+		"question": "氧化岗位精制反应器的蒸汽用的()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）1.1MPa　",
+			"B": "（B）0.4MPa",
+			"C": "（C）1.8MPa",
+			"D": "（D）0.1MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200059,
+		"type": "Elementary_select",
+		"question": "以下哪一个反应属于吸热反应()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）脱氢反应",
+			"B": "（B）加氢反应",
+			"C": "（C）分解反应",
+			"D": "（D）氧化反应"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200060,
+		"type": "Elementary_select",
+		"question": "换热器为了提高换热效果，两介质的流向一般()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）并流",
+			"B": "（B）逆流",
+			"C": "（C）错流",
+			"D": "（D）平流"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200061,
+		"type": "Elementary_select",
+		"question": "再沸器的作用是提供一定量()流。",
+		"answer": "D",
+		"option": {
+			"A": "（A）上升物料　",
+			"B": "（B）上升组分　",
+			"C": "（C）上升产品　",
+			"D": "（D）上升蒸汽"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200062,
+		"type": "Elementary_select",
+		"question": "若氧化尾气总管出现泄漏应用()替代。",
+		"answer": "C",
+		"option": {
+			"A": "（A）工厂风",
+			"B": "（B）空气　",
+			"C": "（C）氮气　　",
+			"D": "（D）仪表气"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200063,
+		"type": "Elementary_select",
+		"question": "烷精馏采()连续精馏，节约能耗，降低蒸汽成本。",
+		"answer": "D",
+		"option": {
+			"A": "（A）五塔三效",
+			"B": "（B）五塔二效",
+			"C": "（C）四塔二效",
+			"D": "（D）五塔四效"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200064,
+		"type": "Elementary_select",
+		"question": "烷精馏的目的是把氧化液中()从中分离出来。",
+		"answer": "B",
+		"option": {
+			"A": "（A）环己酮",
+			"B": "（B）环己烷",
+			"C": "（C）环己醇",
+			"D": "（D）水"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200065,
+		"type": "Elementary_select",
+		"question": "氧化工序开车前烷精馏首先运转，回流达()时，氧化工序再开车。",
+		"answer": "C",
+		"option": {
+			"A": "（A）最小",
+			"B": "（B）一半",
+			"C": "（C）全回流",
+			"D": "（D）为零"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200066,
+		"type": "Elementary_select",
+		"question": "精馏分离的依据是混合物中各组分()不同。",
+		"answer": "B",
+		"option": {
+			"A": "（A）浓度",
+			"B": "（B）挥发度",
+			"C": "（C）温度",
+			"D": "（D）溶解度"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200067,
+		"type": "Elementary_select",
+		"question": "烷精馏不凝气最终经尾气压缩机压缩后，产生的凝液去()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）精制冷凝器后分离器",
+			"B": "（B）烷三塔冷凝液槽",
+			"C": "（C）回流槽",
+			"D": "（D）烷二塔冷凝液槽"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200068,
+		"type": "Elementary_select",
+		"question": "()是构成汽液两相接触传质使精馏过程得以实现。",
+		"answer": "D",
+		"option": {
+			"A": "（A）蒸发",
+			"B": "（B）萃取",
+			"C": "（C）反应",
+			"D": "（D）回流"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200069,
+		"type": "Elementary_select",
+		"question": "在精馏操作中，塔顶冷凝下来的物料不采出做为回流全部返回塔顶的操作称为()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）全蒸发",
+			"B": "（B）全吸收",
+			"C": "（C）全冷凝",
+			"D": "（D）全回流"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200070,
+		"type": "Elementary_select",
+		"question": "精馏操作的基本原理是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）物料平衡、气液平衡、热量平衡",
+			"B": "\"（B）压力平衡、温度平衡、气液平衡",
+			"C": "（C）气液平衡、热量平衡、温度平衡",
+			"D": "（D）气液平衡、流量平衡、温度平衡"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200071,
+		"type": "Elementary_select",
+		"question": "下面()不是精馏装置所包括的设备。",
+		"answer": "D",
+		"option": {
+			"A": "（A）分离器",
+			"B": "（B）再沸器",
+			"C": "（C）冷凝器",
+			"D": "（D）分解塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200072,
+		"type": "Elementary_select",
+		"question": "烷一塔再沸器蒸汽用的是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）2.1Mpa",
+			"D": "（D）2.9Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200073,
+		"type": "Elementary_select",
+		"question": "烷五塔再沸器蒸汽用的是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）2.1Mpa",
+			"D": "（D）2.9Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200074,
+		"type": "Elementary_select",
+		"question": "填料塔气液传质发生在()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）填料见空隙",
+			"B": "（B）填料表面液层",
+			"C": "（C）塔顶",
+			"D": "（D）塔釜"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200075,
+		"type": "Elementary_select",
+		"question": "废碱预热器蒸汽用的是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）2.1Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200076,
+		"type": "Elementary_select",
+		"question": "脱氢反应原料中对延长触媒使用寿命影响最大的是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）环己酮",
+			"B": "（B）水",
+			"C": "（C）x油",
+			"D": "（D）轻质油"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200077,
+		"type": "Elementary_select",
+		"question": "初馏塔再沸器蒸汽用的是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）2.1Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200078,
+		"type": "Elementary_select",
+		"question": "溴化锂机组所用蒸汽用的是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）2.1Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200079,
+		"type": "Elementary_select",
+		"question": "以下设备用0.4Mpa蒸汽的是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）烷预热器",
+			"B": "（B）烷一塔再沸器",
+			"C": "（C）初馏塔再沸器",
+			"D": "（D）烷五塔再沸器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200080,
+		"type": "Elementary_select",
+		"question": "氧化开车初期通空气前，为缩短反应诱导期需加入一定量的()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）醋酸钴",
+			"B": "（B）HEDP酯",
+			"C": "（C）环烷酸钴",
+			"D": "（D）消泡剂"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200081,
+		"type": "Elementary_select",
+		"question": "氧化废碱蒸发系统开车时必须持续不断的加入()以保证气相不带碱。。",
+		"answer": "D",
+		"option": {
+			"A": "（A）醋酸钴",
+			"B": "（B）HEDP酯",
+			"C": "（C）环烷酸钴",
+			"D": "（D）消泡剂"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200082,
+		"type": "Elementary_select",
+		"question": "氧化分解系统加入的分解催化剂是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）醋酸钴",
+			"B": "（B）HEDP酯",
+			"C": "（C）环烷酸钴",
+			"D": "（D）消泡剂"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200083,
+		"type": "Elementary_select",
+		"question": "氧化正常通空气后，还需不断向氧化釜加入()，以保证氧化反应为无催化氧化。",
+		"answer": "B",
+		"option": {
+			"A": "（A）醋酸钴",
+			"B": "（B）HEDP酯",
+			"C": "（C）环烷酸钴",
+			"D": "（D）消泡剂"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200084,
+		"type": "Elementary_select",
+		"question": "环己基过氧化氢在分解系统反应，在()相中催化分解。",
+		"answer": "A",
+		"option": {
+			"A": "（A）碱水",
+			"B": "（B）环己烷",
+			"C": "（C）环己酮",
+			"D": "（D）环己醇"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200085,
+		"type": "Elementary_select",
+		"question": "氧化反应是在()个氧化反应器中进行的。",
+		"answer": "D",
+		"option": {
+			"A": "（A）一",
+			"B": "（B）二",
+			"C": "（C）三",
+			"D": "（D）五"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200086,
+		"type": "Elementary_select",
+		"question": "对分解反应的影响非主要因素()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）加入碱量",
+			"B": "（B）烷循环量",
+			"C": "（C）触媒含量",
+			"D": "（D）分解压力"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200087,
+		"type": "Elementary_select",
+		"question": "氧化热回收系统的热烷来自烷塔的()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）热烷泵",
+			"B": "（B）烷五塔釜液泵",
+			"C": "（C）初馏塔底液泵",
+			"D": "（D）冷烷泵"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200088,
+		"type": "Elementary_select",
+		"question": "氧化热回收系统的冷烷来自()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）热烷泵",
+			"B": "（B）烷五塔釜液泵",
+			"C": "（C）初馏塔底液泵",
+			"D": "（D）冷烷泵"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200089,
+		"type": "Elementary_select",
+		"question": "尾气吸收系统所用的吸收液是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）环己烷",
+			"B": "（B）环己酮",
+			"C": "（C）环己醇",
+			"D": "（D）粗醇酮"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200090,
+		"type": "Elementary_select",
+		"question": "尾气吸收系统用()冷却吸收液。",
+		"answer": "C",
+		"option": {
+			"A": "（A）循环水",
+			"B": "（B）冷冻水",
+			"C": "（C）液氨",
+			"D": "（D）冰水"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200091,
+		"type": "Elementary_select",
+		"question": "以下区域哪一个生产环己烷()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）氧化工段",
+			"B": "（B）中间罐区",
+			"C": "（C）加氢工段",
+			"D": "（D）原料成品罐区"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200092,
+		"type": "Elementary_select",
+		"question": "以下区域哪一个生产环己酮()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）氧化工段",
+			"B": "（B）中间罐区",
+			"C": "（C）加氢工段",
+			"D": "（D）原料成品罐区"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200093,
+		"type": "Elementary_select",
+		"question": "以下区域哪一个生产粗醇酮()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）氧化工段",
+			"B": "（B）中间罐区",
+			"C": "（C）加氢工段",
+			"D": "（D）原料成品罐区"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200094,
+		"type": "Elementary_select",
+		"question": "以下区域哪一个储存环己酮()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）氧化工段",
+			"B": "（B）中间罐区",
+			"C": "（C）加氢工段",
+			"D": "（D）原料成品罐区"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200095,
+		"type": "Elementary_select",
+		"question": "以下区域哪一个储存环己醇()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）氧化工段",
+			"B": "（B）中间罐区",
+			"C": "（C）加氢工段",
+			"D": "（D）原料成品罐区"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200096,
+		"type": "Elementary_select",
+		"question": "原料成品罐区储存的原料是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）苯",
+			"B": "（B）环己酮",
+			"C": "（C）精醇酮",
+			"D": "（D）环己烷"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200097,
+		"type": "Elementary_select",
+		"question": "原料成品罐区储存的原料是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）环己醇",
+			"B": "（B）环己酮",
+			"C": "（C）精醇酮",
+			"D": "（D）液碱"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200098,
+		"type": "Elementary_select",
+		"question": "脱氢反应的催化剂是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）醋酸钴",
+			"B": "（B）铜锌",
+			"C": "（C）镍",
+			"D": "（D）铝"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200099,
+		"type": "Elementary_select",
+		"question": "原料成品罐区储存的成品是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）苯",
+			"B": "（B）环己酮",
+			"C": "（C）环己醇",
+			"D": "（D）环己烷"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200100,
+		"type": "Elementary_select",
+		"question": "常压下，烷水共沸的温度是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）80℃",
+			"B": "（B）98℃",
+			"C": "（C）68℃",
+			"D": "（D）100℃"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200101,
+		"type": "Elementary_select",
+		"question": "环己酮的熔点()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）5.53℃",
+			"B": "（B）6.67℃",
+			"C": "（C）24℃",
+			"D": "（D）-45℃"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200102,
+		"type": "Elementary_select",
+		"question": "氧化烷预热器的蒸汽用的是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）2.1Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200103,
+		"type": "Elementary_select",
+		"question": "废水汽提塔再沸器的蒸汽用的是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）1.8Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200104,
+		"type": "Elementary_select",
+		"question": "苯加氢反应温度一般控制在()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）145-220℃",
+			"B": "（B）220-245℃",
+			"C": "（C）100-220℃",
+			"D": "（D）145-240℃"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200105,
+		"type": "Elementary_select",
+		"question": "脱氢反应温度一般控制在()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）145-220℃",
+			"B": "（B）220-245℃",
+			"C": "（C）100-220℃",
+			"D": "（D）145-240℃"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200106,
+		"type": "Elementary_select",
+		"question": "以下哪一个塔是真空精馏塔()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）醇塔",
+			"B": "（B）烷一塔",
+			"C": "（C）初馏塔",
+			"D": "（D）废水汽提塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200107,
+		"type": "Elementary_select",
+		"question": "以下哪一个塔是常压塔()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）醇塔",
+			"B": "（B）烷一塔",
+			"C": "（C）初馏塔",
+			"D": "（D）分解塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200108,
+		"type": "Elementary_select",
+		"question": "以下哪一个塔是正压塔()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）醇塔",
+			"B": "（B）烷一塔",
+			"C": "（C）轻一塔",
+			"D": "（D）酮塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200109,
+		"type": "Elementary_select",
+		"question": "轻塔系统蒸出的副产品是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）轻质油",
+			"B": "（B）环己酮",
+			"C": "（C）环己烷",
+			"D": "（D）粗醇酮"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200110,
+		"type": "Elementary_select",
+		"question": "酮二塔顶采出的产品是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）轻质油",
+			"B": "（B）环己酮",
+			"C": "（C）环己烷",
+			"D": "（D）溶剂酮"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200111,
+		"type": "Elementary_select",
+		"question": "环己酮缓冲罐含酮要求大于等于()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）99",
+			"B": "（B）99.9",
+			"C": "（C）99.9",
+			"D": "（D）90"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200112,
+		"type": "Elementary_select",
+		"question": "轻二塔顶轻质油含量要求含酮小于等于()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）10",
+			"B": "（B）",
+			"C": "（C）2",
+			"D": "（D）15"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200113,
+		"type": "Elementary_select",
+		"question": "醇塔塔釜含醇要求小于等于()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）10",
+			"B": "（B）",
+			"C": "（C）2",
+			"D": "（D）15"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200114,
+		"type": "Elementary_select",
+		"question": "环己酮缓冲罐中，总甲基含量小于等于()ppm。",
+		"answer": "B",
+		"option": {
+			"A": "（A）45",
+			"B": "（B）10",
+			"C": "（C）30",
+			"D": "（D）150"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200115,
+		"type": "Elementary_select",
+		"question": "环己酮缓冲罐中己醛加二庚酮含量小于等于()ppm。",
+		"answer": "A",
+		"option": {
+			"A": "（A）45",
+			"B": "（B）10",
+			"C": "（C）30",
+			"D": "（D）150"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200116,
+		"type": "Elementary_select",
+		"question": "环己酮缓冲罐中轻组分含量小于等于()ppm。",
+		"answer": "C",
+		"option": {
+			"A": "（A）45",
+			"B": "（B）10",
+			"C": "（C）30",
+			"D": "（D）150"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200117,
+		"type": "Elementary_select",
+		"question": "环己酮缓冲罐中重组分含量小于等于()ppm。",
+		"answer": "A",
+		"option": {
+			"A": "（A）30",
+			"B": "（B）10",
+			"C": "（C）30",
+			"D": "（D）150"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200118,
+		"type": "Elementary_select",
+		"question": "以下哪一种不是苯加氢工段主要物料()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）苯",
+			"B": "（B）氢气",
+			"C": "（C）环己烷",
+			"D": "（D）液碱"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200119,
+		"type": "Elementary_select",
+		"question": "以下哪一种不是氧化工段主要物料()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）苯",
+			"B": "（B）粗醇酮",
+			"C": "（C）环己烷",
+			"D": "（D）液碱"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200120,
+		"type": "Elementary_select",
+		"question": "精馏工序在开车升温过程中，一定要遵循()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）先升温后抽真空",
+			"B": "（B）先抽真空后升温",
+			"C": "（C）升温时同时抽真空",
+			"D": "（D）开车稳定后抽真空"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200121,
+		"type": "Elementary_select",
+		"question": "两台离心泵串联的流量比单台离心泵的流量()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）大",
+			"B": "（B）小",
+			"C": "（C）相等",
+			"D": "（D）无法比较"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200122,
+		"type": "Elementary_select",
+		"question": "初馏塔顶冷凝的环己烷去()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）102V0252",
+			"B": "（B）102V025",
+			"C": "（C）102V025",
+			"D": "（D）102V0256"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200123,
+		"type": "Elementary_select",
+		"question": "烷精馏不凝气最终经尾气压缩机压缩后，去氧化的()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）102C0201",
+			"B": "（B）102C020",
+			"C": "（C）102C020",
+			"D": "（D）102C0204"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200124,
+		"type": "Elementary_select",
+		"question": "烷一塔向烷二塔釜液靠()走料。",
+		"answer": "A",
+		"option": {
+			"A": "（A）压差",
+			"B": "（B）位差",
+			"C": "（C）泵",
+			"D": "（D）压缩机"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200125,
+		"type": "Elementary_select",
+		"question": "下列物质易溶于水的是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）环己烷",
+			"B": "（B）液氨",
+			"C": "（C）环己酮",
+			"D": "（D）环己醇"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200126,
+		"type": "Elementary_select",
+		"question": "下列物质的相对密度（水=1）为环己烷的密度的是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）0.88",
+			"B": "（B）0.78",
+			"C": "（C）0.95",
+			"D": "（D）0.96"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200127,
+		"type": "Elementary_select",
+		"question": "下列物质的相对密度（水=1）为苯的密度的是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）0.88",
+			"B": "（B）0.78",
+			"C": "（C）0.95",
+			"D": "（D）0.96"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200128,
+		"type": "Elementary_select",
+		"question": "下列物质的相对密度（水=1）为环己酮的密度的是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）0.88",
+			"B": "（B）0.78",
+			"C": "（C）0.95",
+			"D": "（D）0.96"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200129,
+		"type": "Elementary_select",
+		"question": "下列物质的相对密度（水=1）为环己醇的密度的是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）0.88",
+			"B": "（B）0.78",
+			"C": "（C）0.95",
+			"D": "（D）0.96"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200130,
+		"type": "Elementary_select",
+		"question": "下列物质的沸点为环己烷的沸点的是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）80.1℃",
+			"B": "（B）80.7℃",
+			"C": "（C）155.6℃",
+			"D": "（D）161.5℃"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200131,
+		"type": "Elementary_select",
+		"question": "下列物质的沸点为环己酮的沸点的是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）80.1℃",
+			"B": "（B）80.7℃",
+			"C": "（C）155.6℃",
+			"D": "（D）161.5℃"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200132,
+		"type": "Elementary_select",
+		"question": "下列物质的沸点为环己醇的沸点的是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）80.1℃",
+			"B": "（B）80.7℃",
+			"C": "（C）155.6℃",
+			"D": "（D）161.5℃"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200133,
+		"type": "Elementary_select",
+		"question": "下列物质的沸点为氨的沸点的是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）-77.7℃",
+			"B": "（B）-5℃",
+			"C": "（C）-33.5℃",
+			"D": "（D）-10℃"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200134,
+		"type": "Elementary_select",
+		"question": "下列物质的熔点为苯的熔点的是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）6.5℃",
+			"B": "（B）-45℃",
+			"C": "（C）5.5℃",
+			"D": "（D）22℃"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200135,
+		"type": "Elementary_select",
+		"question": "下列物质的熔点为环己烷的熔点的是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）6.5℃",
+			"B": "（B）-45℃",
+			"C": "（C）5.5℃",
+			"D": "（D）22℃"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200136,
+		"type": "Elementary_select",
+		"question": "下列物质的熔点为环己酮的熔点的是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）6.5℃",
+			"B": "（B）-45℃",
+			"C": "（C）5.5℃",
+			"D": "（D）22℃"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200137,
+		"type": "Elementary_select",
+		"question": "下列物质的熔点为环己醇的熔点的是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）6.5℃",
+			"B": "（B）-45℃",
+			"C": "（C）5.5℃",
+			"D": "（D）22℃"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200138,
+		"type": "Elementary_select",
+		"question": "下列物质的气味为环己醇的气味的是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）特殊芳香",
+			"B": "（B）刺激性",
+			"C": "（C）刺激性臭味",
+			"D": "（D）樟脑气味"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200139,
+		"type": "Elementary_select",
+		"question": "下列物质的气味为环己酮的气味的是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）特殊芳香",
+			"B": "（B）刺激性",
+			"C": "（C）刺激性臭味",
+			"D": "（D）樟脑气味"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200140,
+		"type": "Elementary_select",
+		"question": "下列物质的气味为环己烷的气味的是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）特殊芳香",
+			"B": "（B）刺激性",
+			"C": "（C）刺激性臭味",
+			"D": "（D）樟脑气味"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200141,
+		"type": "Elementary_select",
+		"question": "下列物质的气味为苯的气味的是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）特殊芳香",
+			"B": "（B）刺激性",
+			"C": "（C）刺激性臭味",
+			"D": "（D）樟脑气味"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200142,
+		"type": "Elementary_select",
+		"question": "溴化锂制冷水机组可制低温水温度()℃。",
+		"answer": "B",
+		"option": {
+			"A": "（A）10",
+			"B": "（B）7",
+			"C": "（C）5",
+			"D": "（D）12"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200143,
+		"type": "Elementary_select",
+		"question": "溴化锂制冷水机组采()来副产蒸汽。",
+		"answer": "B",
+		"option": {
+			"A": "（A）热水槽",
+			"B": "（B）闪蒸罐",
+			"C": "（C）新鲜蒸汽",
+			"D": "（D）碱精制"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200144,
+		"type": "Elementary_select",
+		"question": "溴化锂制冷水机组采用的蒸汽压力()左右。",
+		"answer": "D",
+		"option": {
+			"A": "（A）0.4MPa",
+			"B": "（B）0.8MPa",
+			"C": "（C）1.8MPa",
+			"D": "（D）0.1MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200145,
+		"type": "Elementary_select",
+		"question": "酮二塔蒸汽用的是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）1.8Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200146,
+		"type": "Elementary_select",
+		"question": "醇二塔（搅拌釜）蒸汽用的是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）1.8Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200147,
+		"type": "Elementary_select",
+		"question": "轻二塔蒸汽用的是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）2.1Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200148,
+		"type": "Elementary_select",
+		"question": "轻一塔蒸汽用的是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）2.1Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200149,
+		"type": "Elementary_select",
+		"question": "酮塔、醇塔真空装置所用蒸汽是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）1.8Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200150,
+		"type": "Elementary_select",
+		"question": "加氢的汽水分离器副产()的蒸汽。",
+		"answer": "B",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）1.8Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200151,
+		"type": "Elementary_select",
+		"question": "苯汽化器的蒸汽用的是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）1.8Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200152,
+		"type": "Elementary_select",
+		"question": "苯预热器的蒸汽用的是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）1.8Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200153,
+		"type": "Elementary_select",
+		"question": "以下哪一个不是苯加氢反应的所用氢气()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）新氢",
+			"B": "（B）循环氢",
+			"C": "（C）脱氢尾氢",
+			"D": "（D）加氢尾氢"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200154,
+		"type": "Elementary_select",
+		"question": "加氢反应产生的热量通过()的蒸发带走。",
+		"answer": "B",
+		"option": {
+			"A": "（A）苯",
+			"B": "（B）水",
+			"C": "（C）环己烷",
+			"D": "（D）环己酮"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200155,
+		"type": "Elementary_select",
+		"question": "真空精馏中酮塔的作用是得到()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）环己酮",
+			"B": "（B）轻质油",
+			"C": "（C）精醇酮",
+			"D": "（D）X油"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200156,
+		"type": "Elementary_select",
+		"question": "精馏中醇塔的作用是去除()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）环己酮",
+			"B": "（B）轻质油",
+			"C": "（C）精醇酮",
+			"D": "（D）X油"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200157,
+		"type": "Elementary_select",
+		"question": "醇塔塔采用真空精馏其真空要求：真空度()KPa。",
+		"answer": "D",
+		"option": {
+			"A": "（A）-80~-85",
+			"B": "（B）-96~-98",
+			"C": "（C）-53~-55",
+			"D": "（D）-99~-100"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200158,
+		"type": "Elementary_select",
+		"question": "轻一塔采用真空精馏其真空要求：真空度()KPa。",
+		"answer": "C",
+		"option": {
+			"A": "（A）-80~-85",
+			"B": "（B）-96~-98",
+			"C": "（C）-55~-57",
+			"D": "（D）-75~-77"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200159,
+		"type": "Elementary_select",
+		"question": "酮塔采用真空精馏其真空要求：真空度()KPa。",
+		"answer": "B",
+		"option": {
+			"A": "（A）-80~-85",
+			"B": "（B）-96~-98",
+			"C": "（C）-53~-55",
+			"D": "（D）-75~-77"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200160,
+		"type": "Elementary_select",
+		"question": "醇塔再沸器蒸汽用的是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）2.1Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200161,
+		"type": "Elementary_select",
+		"question": "酮塔再沸器蒸汽用的是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）1.1Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）2.1Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200162,
+		"type": "Elementary_select",
+		"question": "下列那一项不是化工生产需严格遵守的三大规程()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）工艺技术规程",
+			"B": "（B）操作规程",
+			"C": "（C）科学技术规程",
+			"D": "（D）安全技术规程"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200163,
+		"type": "Elementary_select",
+		"question": "脱氢尾气经氢气压缩机增压后，送到()岗位。",
+		"answer": "A",
+		"option": {
+			"A": "（A）加氢",
+			"B": "（B）氧化",
+			"C": "（C）精馏",
+			"D": "（D）空压"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200164,
+		"type": "Elementary_select",
+		"question": "哪一个反应器不是苯加氢岗位的反应器()。。",
+		"answer": "D",
+		"option": {
+			"A": "（A）加氢前反应器",
+			"B": "（B）加氢后反应器",
+			"C": "（C）第三反应器",
+			"D": "（D）脱氢反应器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200165,
+		"type": "Elementary_select",
+		"question": "苯和氢气在()中混合后并继续加热升温至160℃以上，使苯完全汽化。",
+		"answer": "B",
+		"option": {
+			"A": "（A）苯预热器",
+			"B": "（B）苯汽化器",
+			"C": "（C）混合氢气缓冲罐",
+			"D": "（D）加氢前反应器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200166,
+		"type": "Elementary_select",
+		"question": "加氢岗位尾气所有冷凝、冷却、分离下来的环己烷均下料至()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）环己烷闪蒸罐",
+			"B": "（B）环己烷罐",
+			"C": "（C）烷中间槽",
+			"D": "（D）水封槽"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200167,
+		"type": "Elementary_select",
+		"question": "苯加氢岗位所用氢气来自制氢车间，经调节后进入()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）苯汽化器",
+			"B": "（B）循环氢气缓冲罐",
+			"C": "（C）加氢前反应器",
+			"D": "（D）混合氢气缓冲罐"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200168,
+		"type": "Elementary_select",
+		"question": "下列哪一个塔的作用不是除去环己酮中的轻组分()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）醇塔",
+			"B": "（B）轻一塔",
+			"C": "（C）轻二塔",
+			"D": "（D）酮二塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200169,
+		"type": "Elementary_select",
+		"question": "脱氢醇转化泵槽的粗醇酮一路经吸收液加料泵增压送往氧化的()做为吸收液。",
+		"answer": "C",
+		"option": {
+			"A": "（A）烷五塔",
+			"B": "（B）回流槽",
+			"C": "（C）尾气吸收塔",
+			"D": "（D）烷六塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200170,
+		"type": "Elementary_select",
+		"question": "精馏岗位轻一塔底液由底液泵送往()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）轻二塔",
+			"B": "（B）酮二塔",
+			"C": "（C）醇塔",
+			"D": "（D）酮塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200171,
+		"type": "Elementary_select",
+		"question": "精馏岗位轻一塔塔顶除回流外送往()加料。",
+		"answer": "A",
+		"option": {
+			"A": "（A）轻二塔",
+			"B": "（B）酮二塔",
+			"C": "（C）醇塔",
+			"D": "（D）酮塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200172,
+		"type": "Elementary_select",
+		"question": "精馏岗位轻二塔底液由底液泵送往()加料。",
+		"answer": "B",
+		"option": {
+			"A": "（A）轻二塔",
+			"B": "（B）酮二塔",
+			"C": "（C）醇塔",
+			"D": "（D）酮塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200173,
+		"type": "Elementary_select",
+		"question": "精馏岗位酮二塔底液由底液泵送往()加料。",
+		"answer": "D",
+		"option": {
+			"A": "（A）轻一塔",
+			"B": "（B）酮二塔",
+			"C": "（C）醇塔",
+			"D": "（D）酮塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200174,
+		"type": "Elementary_select",
+		"question": "精馏岗位酮塔底液由底液泵送往()加料。",
+		"answer": "C",
+		"option": {
+			"A": "（A）轻一塔",
+			"B": "（B）酮二塔",
+			"C": "（C）醇塔",
+			"D": "（D）酮塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200175,
+		"type": "Elementary_select",
+		"question": "精馏岗位轻二塔塔顶除回流外作为副产品()采出。",
+		"answer": "B",
+		"option": {
+			"A": "（A）X油",
+			"B": "（B）轻质油",
+			"C": "（C）溶剂酮",
+			"D": "（D）粗醇酮"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200176,
+		"type": "Elementary_select",
+		"question": "精馏岗位酮二塔塔顶除回流外作为产品()采出。",
+		"answer": "C",
+		"option": {
+			"A": "（A）X油",
+			"B": "（B）轻质油",
+			"C": "（C）溶剂酮",
+			"D": "（D）粗醇酮"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200177,
+		"type": "Elementary_select",
+		"question": "精馏岗位酮塔塔顶除回流外作为产品()采出。",
+		"answer": "D",
+		"option": {
+			"A": "（A）X油",
+			"B": "（B）轻质油",
+			"C": "（C）溶剂酮",
+			"D": "（D）环己酮"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200178,
+		"type": "Elementary_select",
+		"question": "精馏岗位醇二塔塔釜（搅拌釜）作为副产品()采出。",
+		"answer": "A",
+		"option": {
+			"A": "（A）X油",
+			"B": "（B）轻质油",
+			"C": "（C）溶剂酮",
+			"D": "（D）粗醇酮"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200179,
+		"type": "Elementary_select",
+		"question": "醇塔向醇二塔（搅拌釜）釜液靠()走料。",
+		"answer": "B",
+		"option": {
+			"A": "（A）压差",
+			"B": "（B）位差",
+			"C": "（C）泵",
+			"D": "（D）压缩机"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200180,
+		"type": "Elementary_select",
+		"question": "醇塔回流槽物料走向不包含下列那一项()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）去塔顶打回流",
+			"B": "（B）去精醇酮罐",
+			"C": "（C）去醇二塔（搅拌釜）",
+			"D": "（D）去环己醇罐"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200181,
+		"type": "Elementary_select",
+		"question": "脱氢醇转化蒸发器中大部分环己醇蒸发，约占进料醇15%的未蒸发环己醇在分离器中与环己醇蒸汽分离，由底部经调节返回()底部。",
+		"answer": "A",
+		"option": {
+			"A": "（A）醇塔",
+			"B": "（B）酮塔",
+			"C": "（C）脱氢反应器",
+			"D": "（D）醇转化泵槽"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200182,
+		"type": "Elementary_select",
+		"question": "环己烷经()闪蒸后的气体现场排空，液体经烷输送泵送至环己烷罐。",
+		"answer": "C",
+		"option": {
+			"A": "（A）烷中间槽",
+			"B": "（B）分离器",
+			"C": "（C）环己烷闪蒸罐",
+			"D": "（D）气液分离器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200183,
+		"type": "Elementary_select",
+		"question": "加氢反应所用的催化剂是()。（答案不清晰）",
+		"answer": "C",
+		"option": {
+			"A": "（A）Al2O3",
+			"B": "（B）铜锌",
+			"C": "（C）镍",
+			"D": "（D）铝"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200184,
+		"type": "Elementary_select",
+		"question": "加氢反应生成环己烷，供()工序作原料使用。",
+		"answer": "C",
+		"option": {
+			"A": "（A）脱氢",
+			"B": "（B）精馏",
+			"C": "（C）氧化",
+			"D": "（D）分解"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200185,
+		"type": "Elementary_select",
+		"question": "加氢101P0501泵出口走向不包括()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）加氢汽水分离器",
+			"B": "（B）溴化锂",
+			"C": "（C）锅炉",
+			"D": "（D）空压汽轮机"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200186,
+		"type": "Elementary_select",
+		"question": "环己酮缓冲罐泵出口走向不包括()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）溶剂酮罐",
+			"B": "（B）环己酮罐",
+			"C": "（C）精醇酮罐",
+			"D": "（D）粗醇酮罐"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200187,
+		"type": "Elementary_select",
+		"question": "加氢反应的化学方程式是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）C6H6+3H2===C6H12",
+			"B": "（B）C6H12+O2===C6H11OOH",
+			"C": "（C）C6H11OH===C6H10O+H2",
+			"D": "（D）C6H11OOH===C6H10O+H2O"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200188,
+		"type": "Elementary_select",
+		"question": "脱氢反应的化学方程式是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）C6H6+3H2===C6H12",
+			"B": "（B）C6H12+O2==C6H11OOH",
+			"C": "（C）C6H11OH===C6H10O+H2",
+			"D": "（D）C6H11OOH===C6H10O+H2O"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200189,
+		"type": "Elementary_select",
+		"question": "氧化反应的化学方程式是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）C6H6+3H2===C6H12",
+			"B": "（B）C6H12+O2==C6H11OOH",
+			"C": "（C）C6H11OH===C6H10O+H2",
+			"D": "（D）C6H11OOH===C6H10O+H2O"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200190,
+		"type": "Elementary_select",
+		"question": "苯加氢系统引入氢气前必须先用()置换系统。",
+		"answer": "A",
+		"option": {
+			"A": "（A）氮气",
+			"B": "（B）氧气",
+			"C": "（C）空气",
+			"D": "（D）仪表气"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200191,
+		"type": "Elementary_select",
+		"question": "精馏岗位水封槽内工艺水经水封槽泵增压后，一路去()，一路去氧化工艺水管线。",
+		"answer": "A",
+		"option": {
+			"A": "（A）废水汽提塔",
+			"B": "（B）废碱蒸发器",
+			"C": "（C）冷却洗涤塔",
+			"D": "（D）尾气吸收塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200192,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求尾气吸收塔放空压力为()MPa。",
+		"answer": "C",
+		"option": {
+			"A": "（A）1.25",
+			"B": "（B）0.35",
+			"C": "（C）1.15",
+			"D": "（D）0.40"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200193,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求烷四塔塔顶压力为()KPa。",
+		"answer": "C",
+		"option": {
+			"A": "（A）8-11",
+			"B": "（B）50-10",
+			"C": "（C）0-10",
+			"D": "（D）20-50"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200194,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求烷一塔塔顶压力为()MPa。",
+		"answer": "A",
+		"option": {
+			"A": "（A）0.35-0.5",
+			"B": "（B）0.2-0.",
+			"C": "（C）0.1-0.2",
+			"D": "（D）0.5-0.7"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200195,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求氧化反应器反应温度()℃。",
+		"answer": "A",
+		"option": {
+			"A": "（A）160～181",
+			"B": "（B）82～90",
+			"C": "（C）95～110",
+			"D": "（D）95～98"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200196,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求一段分解反应温度()℃。",
+		"answer": "B",
+		"option": {
+			"A": "（A）160～181",
+			"B": "（B）82～95",
+			"C": "（C）95～110",
+			"D": "（D）110～120"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200197,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求二段分解反应温度()℃。",
+		"answer": "C",
+		"option": {
+			"A": "（A）160～181",
+			"B": "（B）82～95",
+			"C": "（C）95～110",
+			"D": "（D）110～120"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200198,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求皂化反应温度()℃。",
+		"answer": "D",
+		"option": {
+			"A": "（A）160～181",
+			"B": "（B）82～91",
+			"C": "（C）95～110",
+			"D": "（D）95～100"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200199,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求冷却洗涤塔顶温度()℃。",
+		"answer": "A",
+		"option": {
+			"A": "（A）＜25",
+			"B": "（B）＜10",
+			"C": "（C）＜30",
+			"D": "（D）＜5"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200200,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求冷却洗涤塔釜温度()℃。",
+		"answer": "B",
+		"option": {
+			"A": "（A）≥100",
+			"B": "（B）＜95",
+			"C": "（C）＜90",
+			"D": "（D）＜80"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200201,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求直接热交换塔釜温度()℃。",
+		"answer": "C",
+		"option": {
+			"A": "（A）165~172℃",
+			"B": "（B）150~160℃",
+			"C": "（C）158~168℃",
+			"D": "（D）175~183℃"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200202,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求尾气吸收塔顶温度()℃。",
+		"answer": "A",
+		"option": {
+			"A": "（A）≤10",
+			"B": "（B）≤20℃",
+			"C": "（C）≤5℃",
+			"D": "（D）≤30"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200203,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求氨压缩机进口压力()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）0.4~0.5MPa",
+			"B": "（B）0.3~0.4MPa",
+			"C": "（C）0.2~0.3MPa",
+			"D": "（D）0.7~0.8MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200204,
+		"type": "Elementary_select",
+		"question": "氧化工段氧化系统压力为()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）1.21~1.25MPa",
+			"B": "（B）0.8~0.9MPa",
+			"C": "（C）1.0~1.1MPa",
+			"D": "（D）0.7~0.8MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200205,
+		"type": "Elementary_select",
+		"question": "氧化工段分解系统压力为()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）1.21~1.25MPa",
+			"B": "（B）0.4~0.5MPa",
+			"C": "（C）0.35~0.38MPa",
+			"D": "（D）0.7~0.8MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200206,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求废水汽提塔釜液温度()℃。",
+		"answer": "D",
+		"option": {
+			"A": "（A）160～181",
+			"B": "（B）105～107",
+			"C": "（C）95～110",
+			"D": "（D）100～105"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200207,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求废碱蒸发分离器底部温度()℃。",
+		"answer": "B",
+		"option": {
+			"A": "（A）160～181",
+			"B": "（B）105～107",
+			"C": "（C）95～110",
+			"D": "（D）100～105"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200208,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求精制混合器温度()℃。",
+		"answer": "C",
+		"option": {
+			"A": "（A）82～86",
+			"B": "（B）82～90",
+			"C": "（C）70～80",
+			"D": "（D）95～98"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200209,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求初馏塔釜液温度()℃。",
+		"answer": "D",
+		"option": {
+			"A": "（A）95～98",
+			"B": "（B）82～90",
+			"C": "（C）95～110",
+			"D": "（D）82～86"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200210,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求烷一塔釜液温度()℃。",
+		"answer": "A",
+		"option": {
+			"A": "（A）145～153",
+			"B": "（B）130～14",
+			"C": "（C）110～120",
+			"D": "（D）93～99"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200211,
+		"type": "Elementary_select",
+		"question": "氧化工段工艺指标要求烷四塔釜液温度()℃。",
+		"answer": "D",
+		"option": {
+			"A": "（A）145～153",
+			"B": "（B）130～14",
+			"C": "（C）110～120",
+			"D": "（D）93～99"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200212,
+		"type": "Elementary_select",
+		"question": "加氢工段工艺指标要求加氢系统压力()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）0.4~0.5MPa",
+			"B": "（B）0.3~0.4MPa",
+			"C": "（C）0.5~0.7MPa",
+			"D": "（D）0.7~0.8MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200213,
+		"type": "Elementary_select",
+		"question": "加氢工段工艺指标要求气液分离器副产蒸汽压力()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）0.5~0.6MPa",
+			"B": "（B）0.35~0.45MPa",
+			"C": "（C）0.5~0.7MPa",
+			"D": "（D）0.7~0.8MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200214,
+		"type": "Elementary_select",
+		"question": "加氢工段工艺指标要求苯汽化器温度()℃。",
+		"answer": "A",
+		"option": {
+			"A": "（A）150～170",
+			"B": "（B）130～14",
+			"C": "（C）110～120",
+			"D": "（D）130～150"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200215,
+		"type": "Elementary_select",
+		"question": "加氢工段工艺指标要求脱氢系统压力()KPa。",
+		"answer": "C",
+		"option": {
+			"A": "（A）10-20",
+			"B": "（B）50-10",
+			"C": "（C）4-10",
+			"D": "（D）20-50"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200216,
+		"type": "Elementary_select",
+		"question": "加氢工段工艺指标要求轻一塔釜温度()℃。",
+		"answer": "A",
+		"option": {
+			"A": "（A）130～138",
+			"B": "（B）120～13",
+			"C": "（C）110～130",
+			"D": "（D）140～160"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200217,
+		"type": "Elementary_select",
+		"question": "加氢工段工艺指标要求轻二塔釜温度()℃。",
+		"answer": "B",
+		"option": {
+			"A": "（A）130～138",
+			"B": "（B）120～13",
+			"C": "（C）110～130",
+			"D": "（D）140～160"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200218,
+		"type": "Elementary_select",
+		"question": "加氢工段工艺指标要求酮塔釜温度()℃。",
+		"answer": "B",
+		"option": {
+			"A": "（A）130～138",
+			"B": "（B）90～9",
+			"C": "（C）110～130",
+			"D": "（D）140～160"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200219,
+		"type": "Elementary_select",
+		"question": "加氢工段工艺指标要求酮二塔釜温度()℃。",
+		"answer": "A",
+		"option": {
+			"A": "（A）82～91",
+			"B": "（B）95～9",
+			"C": "（C）110～130",
+			"D": "（D）140～160"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200220,
+		"type": "Elementary_select",
+		"question": "加氢工段工艺指标要求醇二塔釜（搅拌釜）温度()℃。",
+		"answer": "D",
+		"option": {
+			"A": "（A）82～91",
+			"B": "（B）95～9",
+			"C": "（C）110～130",
+			"D": "（D）140～160"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200221,
+		"type": "Elementary_select",
+		"question": "加氢工段工艺指标要求醇塔釜温度()℃。",
+		"answer": "C",
+		"option": {
+			"A": "（A）82～91",
+			"B": "（B）95～9",
+			"C": "（C）110～140",
+			"D": "（D）140～160"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200222,
+		"type": "Elementary_select",
+		"question": "循环水岗位工艺指标要求循环水出口温度小于()℃。",
+		"answer": "C",
+		"option": {
+			"A": "（A）40",
+			"B": "（B）12",
+			"C": "（C）32",
+			"D": "（D）25"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200223,
+		"type": "Elementary_select",
+		"question": "循环水岗位工艺指标要求循环水出口压力()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）0.35~0.42MPa",
+			"B": "（B）0.3~0.4MPa",
+			"C": "（C）0.5~0.7MPa",
+			"D": "（D）0.7~0.8MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200224,
+		"type": "Elementary_select",
+		"question": "循环水岗位工艺指标要求循环水浊度()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）≤20㎎/L",
+			"B": "（B）≤50㎎/L",
+			"C": "（C）≤10㎎/L",
+			"D": "（D）≤30㎎/L"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200225,
+		"type": "Elementary_select",
+		"question": "溴化锂机组冷冻水的出口温度()℃。",
+		"answer": "A",
+		"option": {
+			"A": "（A）8",
+			"B": "（B）12",
+			"C": "（C）32",
+			"D": "（D）40"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200226,
+		"type": "Elementary_select",
+		"question": "溴化锂机组冷冻水的进口温度()℃。",
+		"answer": "B",
+		"option": {
+			"A": "（A）8",
+			"B": "（B）12",
+			"C": "（C）32",
+			"D": "（D）40"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200227,
+		"type": "Elementary_select",
+		"question": "环己烷氧化反应的转化率为()左右。",
+		"answer": "C",
+		"option": {
+			"A": "（A）90%",
+			"B": "（B）45-50%",
+			"C": "（C）3.5%",
+			"D": "（D）99%"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200228,
+		"type": "Elementary_select",
+		"question": "苯加氢反应的转化率为()左右。",
+		"answer": "D",
+		"option": {
+			"A": "（A）90%",
+			"B": "（B）45-50%",
+			"C": "（C）3.5%",
+			"D": "（D）99%"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200229,
+		"type": "Elementary_select",
+		"question": "环己醇脱氢反应的转化率为()左右。",
+		"answer": "B",
+		"option": {
+			"A": "（A）90%",
+			"B": "（B）45-50%",
+			"C": "（C）3.5%",
+			"D": "（D）99%"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200230,
+		"type": "Elementary_select",
+		"question": "一段分解反应的转化率为()左右。",
+		"answer": "B",
+		"option": {
+			"A": "（A）50%",
+			"B": "（B）90%",
+			"C": "（C）3.5%",
+			"D": "（D）99%"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200231,
+		"type": "Elementary_select",
+		"question": "二段分解反应的转化率为()左右。",
+		"answer": "D",
+		"option": {
+			"A": "（A）50%",
+			"B": "（B）90%",
+			"C": "（C）3.5%",
+			"D": "（D）99%"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200232,
+		"type": "Elementary_select",
+		"question": "下列哪一个设备不是循环水制冷岗位的设备()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）溴化锂机组",
+			"B": "（B）冰机",
+			"C": "（C）高压循环水泵",
+			"D": "（D）凉水塔风机"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200233,
+		"type": "Elementary_select",
+		"question": "下列哪一种药剂不是循环水里加入的药剂()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）210缓蚀阻垢剂",
+			"B": "（B）消泡剂",
+			"C": "（C）505油污制剂",
+			"D": "（D）509、508杀菌灭藻剂"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200234,
+		"type": "Elementary_select",
+		"question": "经循环水泵加压的循环水通过循环水给水管线不输送至()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）锅炉",
+			"B": "（B）加氢",
+			"C": "（C）氧化",
+			"D": "（D）碱精制"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200235,
+		"type": "Elementary_select",
+		"question": "溴化锂机组的制冷剂是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）水",
+			"B": "（B）溴化锂",
+			"C": "（C）蒸汽",
+			"D": "（D）蒸汽冷凝液"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200236,
+		"type": "Elementary_select",
+		"question": "空压岗位喀麦隆空压机是()压缩。",
+		"answer": "C",
+		"option": {
+			"A": "（A）三级",
+			"B": "（B）二级",
+			"C": "（C）四级",
+			"D": "（D）一级"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200237,
+		"type": "Elementary_select",
+		"question": "下列哪一项不是溴化锂机组0.1MPa蒸汽来源()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）加氢工段副产",
+			"B": "（B）锅炉提供",
+			"C": "（C）氧化工段副产",
+			"D": "（D）加氢工段减压制备"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200238,
+		"type": "Elementary_select",
+		"question": "下列哪一项不是环己酮的主要用途()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）作为工业溶剂",
+			"B": "（B）制造己二酸",
+			"C": "（C）造纸",
+			"D": "（D）制造己内酰胺"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200239,
+		"type": "Elementary_select",
+		"question": "酮塔真空装置是()蒸汽喷射泵。",
+		"answer": "A",
+		"option": {
+			"A": "（A）三级",
+			"B": "（B）二级",
+			"C": "（C）四级",
+			"D": "（D）一级"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200240,
+		"type": "Elementary_select",
+		"question": "醇塔真空装置是()蒸汽喷射泵。",
+		"answer": "A",
+		"option": {
+			"A": "（A）三级",
+			"B": "（B）二级",
+			"C": "（C）四级",
+			"D": "（D）一级"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200241,
+		"type": "Elementary_select",
+		"question": "加氢岗位哪一台设备不用1.1Mpa蒸汽()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）苯汽化器",
+			"B": "（B）苯预热器",
+			"C": "（C）汽水分离器",
+			"D": "（D）加氢反应器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200242,
+		"type": "Elementary_select",
+		"question": "精馏岗位哪一台设备不用1.1Mpa蒸汽()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）轻一塔再沸器",
+			"B": "（B）醇塔再沸器",
+			"C": "（C）酮塔再沸器",
+			"D": "（D）轻二塔再沸器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200243,
+		"type": "Elementary_select",
+		"question": "环己酮装置生产的主要成品不包括()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）粗醇酮",
+			"B": "（B）环己酮",
+			"C": "（C）精醇酮",
+			"D": "（D）溶剂酮"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200244,
+		"type": "Elementary_select",
+		"question": "下列哪一项不是参与苯加氢反应的氢气()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）新氢",
+			"B": "（B）气柜氢气",
+			"C": "（C）循环氢",
+			"D": "（D）脱氢的尾氢"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200245,
+		"type": "Elementary_select",
+		"question": "环己酮生产装置常用的蒸汽不包括()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）1.3MPa",
+			"B": "（B）5.0MPa",
+			"C": "（C）0.4MPa",
+			"D": "（D）2.5MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200246,
+		"type": "Elementary_select",
+		"question": "环己酮精馏岗位采用的是()精馏。",
+		"answer": "C",
+		"option": {
+			"A": "（A）常压",
+			"B": "（B）加压",
+			"C": "（C）负压",
+			"D": "（D）正压"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200247,
+		"type": "Elementary_select",
+		"question": "环己酮加氢工段常用的蒸汽不包括()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）2.5MPa",
+			"B": "（B）3.8MPa",
+			"C": "（C）0.4MPa",
+			"D": "（D）1.3MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200248,
+		"type": "Elementary_select",
+		"question": "环己酮氧化工段常用的蒸汽不包括()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）2.5MPa",
+			"B": "（B）3.8MPa",
+			"C": "（C）0.4MPa",
+			"D": "（D）1.3MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200249,
+		"type": "Elementary_select",
+		"question": "环己酮加氢工段常用的公用工程不包括()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）仪表风",
+			"B": "（B）工厂风",
+			"C": "（C）中压氮气",
+			"D": "（D）低压氮气"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200250,
+		"type": "Elementary_select",
+		"question": "环己酮常用公用工程常见四大类中不包括()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）水",
+			"B": "（B）气",
+			"C": "（C）汽",
+			"D": "（D）油"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200251,
+		"type": "Elementary_select",
+		"question": "环己酮常用的蒸汽来自锅炉和碱精制装置副产的蒸汽是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）1.8MPa",
+			"B": "（B）1.1MPa",
+			"C": "（C）0.4MPa",
+			"D": "（D）3.8MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200252,
+		"type": "Elementary_select",
+		"question": "环己酮装置内来自锅炉，用于装置区内工艺补水，置换，清洗，稀释的是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）一次水",
+			"B": "（B）消防水",
+			"C": "（C）脱盐水",
+			"D": "（D）循环水"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200253,
+		"type": "Elementary_select",
+		"question": "环己烷氧化系统是在一定的压力和温度下，液相环己烷与()反应。",
+		"answer": "A",
+		"option": {
+			"A": "（A）空气中的氧气",
+			"B": "（B）氮气",
+			"C": "（C）二氧化碳",
+			"D": "（D）氢气"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200254,
+		"type": "Elementary_select",
+		"question": "环己烷无催化氧化生成的主要物质是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）有机酸",
+			"B": "（B）酯",
+			"C": "（C）环己基过氧化氢",
+			"D": "（D）醛"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200255,
+		"type": "Elementary_select",
+		"question": "氧化反应产生的热量通过()的蒸发带走。",
+		"answer": "C",
+		"option": {
+			"A": "（A）苯",
+			"B": "（B）水",
+			"C": "（C）环己烷",
+			"D": "（D）环己酮"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200256,
+		"type": "Elementary_select",
+		"question": "以下不是氧化反应副产物的是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）有机酸",
+			"B": "（B）酯",
+			"C": "（C）环己基过氧化氢",
+			"D": "（D）醛"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200257,
+		"type": "Elementary_select",
+		"question": "烷五塔塔釜含烷应控制()％以下。",
+		"answer": "A",
+		"option": {
+			"A": "（A）8",
+			"B": "（B）10",
+			"C": "（C）6",
+			"D": "（D）15"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200258,
+		"type": "Elementary_select",
+		"question": "氧化工段哪一台设备不用1.1Mpa蒸汽()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）烷预热器",
+			"B": "（B）烷一塔再沸器",
+			"C": "（C）反应器前加热器",
+			"D": "（D）烷五塔再沸器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200259,
+		"type": "Elementary_select",
+		"question": "尾气吸收塔吸收尾气所用吸收液是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）环己酮",
+			"B": "（B）环己醇",
+			"C": "（C）液氨",
+			"D": "（D）粗醇酮"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200260,
+		"type": "Elementary_select",
+		"question": "尾气吸收塔深冷吸收剂用的冷剂是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）液氨",
+			"B": "（B）冷冻水",
+			"C": "（C）溴化锂",
+			"D": "（D）循环水"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200261,
+		"type": "Elementary_select",
+		"question": "尾气吸收的主要作用是吸收尾气中的()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）环己酮",
+			"B": "（B）环己烷",
+			"C": "（C）环己醇",
+			"D": "（D）氮气"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200262,
+		"type": "Elementary_select",
+		"question": "下列不属于分解反应的主要产物的是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）环己酮",
+			"B": "（B）环己醇",
+			"C": "（C）环己基过氧化氢",
+			"D": "（D）盐"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200263,
+		"type": "Elementary_select",
+		"question": "分解系统发生的主要反应不包括()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）分解反应",
+			"B": "（B）中和反应",
+			"C": "（C）皂化反应",
+			"D": "（D）还原反应"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200264,
+		"type": "Elementary_select",
+		"question": "废水汽提塔是将环己酮生产装置多余的工艺水汽提，回收其中有用物质，回收的物质中不包括()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）环己烷",
+			"B": "（B）环己酮",
+			"C": "（C）环己醇",
+			"D": "（D）碱水"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200265,
+		"type": "Elementary_select",
+		"question": "经废水汽提塔汽提的废水直接排放至()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）生化处理站",
+			"B": "（B）事故水池",
+			"C": "（C）水封槽",
+			"D": "（D）污水处理厂"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200266,
+		"type": "Elementary_select",
+		"question": "环己烷蒸馏系统是将()中的大部环己烷蒸出返回氧化系统做为加料。",
+		"answer": "A",
+		"option": {
+			"A": "（A）分解液",
+			"B": "（B）氧化液",
+			"C": "（C）皂化液",
+			"D": "（D）吸收液"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200267,
+		"type": "Elementary_select",
+		"question": "烷五塔釜液泵出口走向不包括()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）烷五塔",
+			"B": "（B）精制反应器",
+			"C": "（C）洗涤塔",
+			"D": "（D）回流槽"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200268,
+		"type": "Elementary_select",
+		"question": "热回收系统的作用不包括()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）氧化加料环己烷与氧化反应后的尾气进行热交换",
+			"B": "（B）回收氧化尾气中的热量",
+			"C": "（C）将尾气中的低碳有机酸水冷凝下来，从系统中除去",
+			"D": "（D）环己烷氧化"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200269,
+		"type": "Elementary_select",
+		"question": "皂化精制是将来自烷蒸馏的粗醇酮中的()进一步与氢氧化钠进行皂化反应。",
+		"answer": "C",
+		"option": {
+			"A": "（A）醛类",
+			"B": "（B）醇类",
+			"C": "（C）酯类",
+			"D": "（D）杂酮"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200270,
+		"type": "Elementary_select",
+		"question": "废碱蒸发系统是将分解来的废碱液进一步浓缩并回收其中的物质，回收的物质中不包括()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）环己烷",
+			"B": "（B）环己酮",
+			"C": "（C）环己醇",
+			"D": "（D）酯类"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200271,
+		"type": "Elementary_select",
+		"question": "氨冷却系统的主要设备不包括()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）尾气吸收塔",
+			"B": "（B）氨液分离罐",
+			"C": "（C）氨压缩机",
+			"D": "（D）氨储罐"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200272,
+		"type": "Elementary_select",
+		"question": "氧化加料的冷环己烷来自()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）环己烷冷凝液槽",
+			"B": "（B）环己烷罐",
+			"C": "（C）回流槽",
+			"D": "（D）环己烷闪蒸罐"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200273,
+		"type": "Elementary_select",
+		"question": "氧化加料的热环己烷来自()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）环己烷冷凝液槽",
+			"B": "（B）环己烷罐",
+			"C": "（C）回流槽",
+			"D": "（D）环己烷闪蒸罐"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200274,
+		"type": "Elementary_select",
+		"question": "下列哪一台设备不属于热回收系统()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）尾气吸收塔",
+			"B": "（B）冷却洗涤塔",
+			"C": "（C）直接热交换塔",
+			"D": "（D）烷水分离器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200275,
+		"type": "Elementary_select",
+		"question": "冷却洗涤塔底部环己烷与酸水利用()流入烷水分离器中进行分离。",
+		"answer": "B",
+		"option": {
+			"A": "（A）压差",
+			"B": "（B）位差",
+			"C": "（C）泵",
+			"D": "（D）压缩机"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200276,
+		"type": "Elementary_select",
+		"question": "烷水分离器分离出的酸水经LLPV122201液位调节去()，与其内的废碱中和。",
+		"answer": "C",
+		"option": {
+			"A": "（A）分解静置罐",
+			"B": "（B）1#分解分离器",
+			"C": "（C）2#分解分离器",
+			"D": "（D）1#分解塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200277,
+		"type": "Elementary_select",
+		"question": "烷水分离器的环己烷由烷水分离器泵增压、经液位调节去()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）直接热交换塔",
+			"B": "（B）1#氧化釜",
+			"C": "（C）反应器前加热器",
+			"D": "（D）烷预热器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200278,
+		"type": "Elementary_select",
+		"question": "烷预热器产生的蒸汽冷凝液流入102V0215,经液位调节，送往()MPa蒸汽冷凝液管网。",
+		"answer": "D",
+		"option": {
+			"A": "（A）1.3Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）2.5Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200279,
+		"type": "Elementary_select",
+		"question": "下列哪一管线的物料不进入直接热交换塔()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）经烷预热器加热后的环己烷",
+			"B": "（B）冷却洗涤塔顶的氧化尾气",
+			"C": "（C）热烷泵来的热烷",
+			"D": "（D）氧化反应器尾气总管来的氧化尾气"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200280,
+		"type": "Elementary_select",
+		"question": "直接热交换塔底的环己烷经反应器给料泵增压，经反应器前加热器加热至反应温度后，经液位调节后送至()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）冷却洗涤塔",
+			"B": "（B）5#氧化釜",
+			"C": "（C）1#氧化釜",
+			"D": "（D）初馏塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200281,
+		"type": "Elementary_select",
+		"question": "反应器前加热器产生的蒸汽冷凝液流入102V0210，经液位调节送往()MPa蒸汽冷凝液管网。",
+		"answer": "B",
+		"option": {
+			"A": "（A）1.3Mpa",
+			"B": "（B）0.4Mpa",
+			"C": "（C）2.5Mpa",
+			"D": "（D）0.1Mpa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200282,
+		"type": "Elementary_select",
+		"question": "1#氧化釜至5#氧化釜的环己烷物流通过()方式走料。",
+		"answer": "C",
+		"option": {
+			"A": "（A）压差",
+			"B": "（B）位差",
+			"C": "（C）溢流",
+			"D": "（D）蒸发"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200283,
+		"type": "Elementary_select",
+		"question": "环己烷氧化反应属()反应。",
+		"answer": "B",
+		"option": {
+			"A": "（A）吸热",
+			"B": "（B）放热",
+			"C": "（C）裂变",
+			"D": "（D）硫化"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200284,
+		"type": "Elementary_select",
+		"question": "在氧化反应器生成的环己基过氧化氢在一段分解、二段分解的()系统中完成分解。",
+		"answer": "A",
+		"option": {
+			"A": "（A）非均相",
+			"B": "（B）均相",
+			"C": "（C）有机相",
+			"D": "（D）无水相"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200285,
+		"type": "Elementary_select",
+		"question": "下列哪一管线的物料不进入静态混合器()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）来自氧化釜的氧化液",
+			"B": "（B）水封槽泵送入的工艺水",
+			"C": "（C）来自分解催化剂泵的醋酸钴水溶液",
+			"D": "（D）碱液循环泵送入的循环碱"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200286,
+		"type": "Elementary_select",
+		"question": "分解静置罐下部碱水相，经废碱返回泵增压，流量调节进入()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）分解静置罐",
+			"B": "（B）1#分解分离器",
+			"C": "（C）2#分解分离器",
+			"D": "（D）1#分解塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200287,
+		"type": "Elementary_select",
+		"question": "2#分解分离器内经分离的有机相由顶部返回()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）分解静置罐",
+			"B": "（B）1#分解分离器",
+			"C": "（C）2#分解分离器",
+			"D": "（D）1#分解塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200288,
+		"type": "Elementary_select",
+		"question": "()抽取分解静置罐内经溢流档板后的有机相，增压后进入静态混合器混合，然后进入二段分解系统的分解塔。",
+		"answer": "C",
+		"option": {
+			"A": "（A）废碱返回泵",
+			"B": "（B）碱液循环泵",
+			"C": "（C）分解加压泵",
+			"D": "（D）废碱增压泵"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200289,
+		"type": "Elementary_select",
+		"question": "下列哪一股物流不进入分解加压泵入口()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）来自洗涤塔底液泵经相界位调节的洗水",
+			"B": "（B）来自2#分解分离器的碱液",
+			"C": "（C）来自罐区的新碱",
+			"D": "（D）来自1#废碱液分离器的循环碱"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200290,
+		"type": "Elementary_select",
+		"question": "分解静置罐的的压力由PIC122401控制来调节，压力低时由PPV122401—1向分解静置罐102V0206补充()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）低压氮气",
+			"B": "（B）中压氮气",
+			"C": "（C）工厂空气",
+			"D": "（D）压缩空气"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200291,
+		"type": "Elementary_select",
+		"question": "分解静置罐的的压力由PIC122401控制来调节，压力高时由PPV122401—2向()排放不凝汽。",
+		"answer": "C",
+		"option": {
+			"A": "（A）压缩机缓冲罐",
+			"B": "（B）闪蒸罐",
+			"C": "（C）分离器",
+			"D": "（D）废液收集罐"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200292,
+		"type": "Elementary_select",
+		"question": "烷塔尾气压缩机出口的尾气进入氧化的()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）尾气吸收塔",
+			"B": "（B）冷却洗涤塔",
+			"C": "（C）洗涤塔",
+			"D": "（D）精制混合器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200293,
+		"type": "Elementary_select",
+		"question": "下列哪一项不是进入精制冷凝器102E0234的气相()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）来自废碱闪蒸罐闪蒸后的气相",
+			"B": "（B）废碱蒸发分离器的气相",
+			"C": "（C）废水汽提塔的气相",
+			"D": "（D）烷六塔的气相"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200294,
+		"type": "Elementary_select",
+		"question": "氧化岗位旋液分离器顶部物料去()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）闪蒸罐",
+			"B": "（B）初馏塔",
+			"C": "（C）烷一塔",
+			"D": "（D）分离器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200295,
+		"type": "Elementary_select",
+		"question": "氧化岗位旋液分离器底部的洗水进入()进口。",
+		"answer": "C",
+		"option": {
+			"A": "（A）废碱返回泵",
+			"B": "（B）碱液循环泵",
+			"C": "（C）分解加压泵",
+			"D": "（D）废碱增压泵"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200296,
+		"type": "Elementary_select",
+		"question": "根据开车初期或正常开车工况分别加入氧化反应催化剂和氧化添加剂，由泵增压后去()泵入口管线。",
+		"answer": "C",
+		"option": {
+			"A": "（A）烷水分离器泵",
+			"B": "（B）碱液循环泵",
+			"C": "（C）反应器给料泵",
+			"D": "（D）分解加压泵"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200297,
+		"type": "Elementary_select",
+		"question": "开车时为缩短引发期，可向系统加入一定量的物质作为引发剂，保证氧气与环己烷的正常反应，不包括()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）醋酸钴",
+			"B": "（B）环烷酸钴",
+			"C": "（C）环己醇",
+			"D": "（D）环己酮"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200298,
+		"type": "Elementary_select",
+		"question": "开车中，当有机物进入设备时，设备中被认为是“无氧”的，其氧含量应低于()VoL，以避免形成爆炸性混合物。",
+		"answer": "B",
+		"option": {
+			"A": "（A）<5％",
+			"B": "（B）<2％",
+			"C": "（C）<10％",
+			"D": "（D）<8％"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200299,
+		"type": "Elementary_select",
+		"question": "氧化吸收液进入吸收液加料冷却器与液氨换热，液氨以()形式带走热量。",
+		"answer": "D",
+		"option": {
+			"A": "（A）蒸发",
+			"B": "（B）凝固",
+			"C": "（C）挥发",
+			"D": "（D）汽化"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200300,
+		"type": "Elementary_select",
+		"question": "消泡剂配制完后，经泵增压送入()系统。",
+		"answer": "C",
+		"option": {
+			"A": "（A）一段分解",
+			"B": "（B）二段分解",
+			"C": "（C）废碱蒸发",
+			"D": "（D）废碱液分离系统"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200301,
+		"type": "Elementary_select",
+		"question": "精制反应器和精制混合器的闪蒸气相都去()冷凝。",
+		"answer": "C",
+		"option": {
+			"A": "（A）烷六塔冷凝器",
+			"B": "（B）精制冷却器",
+			"C": "（C）精制冷凝器",
+			"D": "（D）烷六塔冷却器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200302,
+		"type": "Elementary_select",
+		"question": "混合器前环己烷泵的环己烷来自()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）精制冷凝器后分离器",
+			"B": "（B）烷六塔回流槽",
+			"C": "（C）回流槽",
+			"D": "（D）环己烷储罐"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200303,
+		"type": "Elementary_select",
+		"question": "混合器前环己烷泵出口管线不包括()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）去干燥塔管线",
+			"B": "（B）去回流槽管线",
+			"C": "（C）去烷四塔管线",
+			"D": "（D）去精制混合器管线"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200304,
+		"type": "Elementary_select",
+		"question": "干燥塔的作用不包括()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）除去洗涤塔顶产品中的水",
+			"B": "（B）除去洗涤塔顶产品中的环己烷",
+			"C": "（C）除去脱氢来的粗酮中的环己烷",
+			"D": "（D）除去脱氢来的粗酮中的水"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200305,
+		"type": "Elementary_select",
+		"question": "环己烷氧化络合催化剂组分不包括()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）环己烷",
+			"B": "（B）醋酸钴",
+			"C": "（C）环烷酸钴",
+			"D": "（D）HEDP酯"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200306,
+		"type": "Elementary_select",
+		"question": "5#氧化反应器的氧化液经过两组分解换热器的顺序是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）1#分解换热器b-1#分解换热器a-2#分解换热器b-2#分解换热器a",
+			"B": "（B）1#分解换热器b-1#分解换热器a-2#分解换热器a-2#分解换热器b",
+			"C": "（C）1#分解换热器a-1#分解换热器b-2#分解换热器a-2#分解换热器b",
+			"D": "（D）1#分解换热器a-1#分解换热器b-2#分解换热器b-2#分解换热器a"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200307,
+		"type": "Elementary_select",
+		"question": "初馏塔底液泵来的水洗分解液经过两组分解换热器的顺序是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）1#分解换热器b-1#分解换热器a-2#分解换热器b-2#分解换热器a",
+			"B": "（B）1#分解换热器b-1#分解换热器a-2#分解换热器a-2#分解换热器b",
+			"C": "（C）2#分解换热器a-2#分解换热器b-1#分解换热器a-1#分解换热器b",
+			"D": "（D）2#分解换热器a-2#分解换热器b-1#分解换热器b-2#分解换热器a"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200308,
+		"type": "Elementary_select",
+		"question": "氧化工段常使用的泵不包括()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）屏蔽泵",
+			"B": "（B）蒸汽喷射泵",
+			"C": "（C）计量泵",
+			"D": "（D）水环真空泵"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200309,
+		"type": "Elementary_select",
+		"question": "环己烷回流泵打回流的塔不包括()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）烷一塔",
+			"B": "（B）初馏塔",
+			"C": "（C）烷二塔",
+			"D": "（D）烷三塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200310,
+		"type": "Elementary_select",
+		"question": "()氧化釜不需要环己烷降温。",
+		"answer": "A",
+		"option": {
+			"A": "（A）1#",
+			"B": "（B）2#",
+			"C": "（C）3#",
+			"D": "（D）4#"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200311,
+		"type": "Elementary_select",
+		"question": "回流槽内环己烷的去向不包括()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）冷却洗涤塔",
+			"B": "（B）直接热交换塔",
+			"C": "（C）烷四塔",
+			"D": "（D）初馏塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200312,
+		"type": "Elementary_select",
+		"question": "氧化开车通气前，用空气和氮气混合配制贫氧空气，这是利用该气体的惰性，贫氧空气的氧含量为()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）3-5%",
+			"B": "（B）8-10%",
+			"C": "（C）5-8%",
+			"D": "（D）2.5-4.0%"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200313,
+		"type": "Elementary_select",
+		"question": "氧化工段有NaOH参与的反应不包括()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）分解反应",
+			"B": "（B）酸碱中和反应",
+			"C": "（C）皂化反应",
+			"D": "（D）氧化反应"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200314,
+		"type": "Elementary_select",
+		"question": "尾气吸收塔釜液靠()采入精制混合器。",
+		"answer": "A",
+		"option": {
+			"A": "（A）压差",
+			"B": "（B）位差",
+			"C": "（C）泵",
+			"D": "（D）压缩机"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200315,
+		"type": "Elementary_select",
+		"question": "系统加环己烷之前，需用工艺水加至正常界面液位的设备不包括()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）回流槽",
+			"B": "（B）烷水分离器",
+			"C": "（C）1#分解分离器",
+			"D": "（D）2#分解分离器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200316,
+		"type": "Elementary_select",
+		"question": "环己烷精馏系统共有()个塔。",
+		"answer": "A",
+		"option": {
+			"A": "（A）6",
+			"B": "（B）5",
+			"C": "（C）4",
+			"D": "（D）7"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200317,
+		"type": "Elementary_select",
+		"question": "产生热烷的塔不包括()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）烷一塔",
+			"B": "（B）烷二塔",
+			"C": "（C）烷三塔",
+			"D": "（D）烷四塔"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200318,
+		"type": "Elementary_select",
+		"question": "苯的爆炸极限()V。",
+		"answer": "D",
+		"option": {
+			"A": "（A）4.0%～75.6%",
+			"B": "（B）1.1%—9.4%",
+			"C": "（C）1.2%—8.4%",
+			"D": "（D）1.2%—8.0%"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200319,
+		"type": "Elementary_select",
+		"question": "环己烷的爆炸极限()V。",
+		"answer": "C",
+		"option": {
+			"A": "（A）4.0%～75.6%",
+			"B": "（B）1.1%—9.4%",
+			"C": "（C）1.2%—8.4%",
+			"D": "（D）1.2%—8.0%"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200320,
+		"type": "Elementary_select",
+		"question": "环己酮的爆炸极限()V。",
+		"answer": "B",
+		"option": {
+			"A": "（A）4.0%～75.6%",
+			"B": "（B）1.1%—9.4%",
+			"C": "（C）1.2%—8.4%",
+			"D": "（D）1.2%—8.0%"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200321,
+		"type": "Elementary_select",
+		"question": "氢气的爆炸极限()V。",
+		"answer": "A",
+		"option": {
+			"A": "（A）4.0%～75.6%",
+			"B": "（B）1.1%—9.4%",
+			"C": "（C）1.2%—8.4%",
+			"D": "（D）1.2%—8.0%"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200322,
+		"type": "Elementary_select",
+		"question": "环己烷的闪点()℃。",
+		"answer": "A",
+		"option": {
+			"A": "（A）-16.5",
+			"B": "（B）-11",
+			"C": "（C）43",
+			"D": "（D）67"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200323,
+		"type": "Elementary_select",
+		"question": "苯的闪点()℃。",
+		"answer": "B",
+		"option": {
+			"A": "（A）-16.5",
+			"B": "（B）-11",
+			"C": "（C）43",
+			"D": "（D）67"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200324,
+		"type": "Elementary_select",
+		"question": "环己酮的闪点()℃。",
+		"answer": "C",
+		"option": {
+			"A": "（A）-16.5",
+			"B": "（B）-11",
+			"C": "（C）43",
+			"D": "（D）67"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200325,
+		"type": "Elementary_select",
+		"question": "环己醇的闪点()℃。",
+		"answer": "D",
+		"option": {
+			"A": "（A）-16.5",
+			"B": "（B）-11",
+			"C": "（C）43",
+			"D": "（D）67"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200326,
+		"type": "Elementary_select",
+		"question": "环己酮装置容易造成人体冻伤的物质是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）氢氧化钠",
+			"B": "（B）环己醇",
+			"C": "（C）环己烷",
+			"D": "（D）液氨"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200327,
+		"type": "Elementary_select",
+		"question": "环己酮装置容易造成人体强烈腐蚀的物质是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）氢氧化钠",
+			"B": "（B）环己醇",
+			"C": "（C）环己烷",
+			"D": "（D）液氨"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200328,
+		"type": "Elementary_select",
+		"question": "环己酮装置产生的废气来源不包括()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）蒸汽尾气",
+			"B": "（B）苯加氢尾气",
+			"C": "（C）氧化尾气",
+			"D": "（D）烷塔尾气"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200329,
+		"type": "Elementary_select",
+		"question": "环己酮装置通过火炬放散的废气不包括()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）皂化尾气",
+			"B": "（B）苯加氢尾气",
+			"C": "（C）氧化尾气",
+			"D": "（D）烷塔尾气"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200330,
+		"type": "Elementary_select",
+		"question": "环己酮装置产生的危废不包括()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）废碱液",
+			"B": "（B）废氧化催化剂",
+			"C": "（C）废加氢催化剂",
+			"D": "（D）废脱氢催化剂"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200331,
+		"type": "Elementary_select",
+		"question": "环己酮装置废水产生的来源不包括()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）废碱蒸发系统",
+			"B": "（B）精馏真空装置",
+			"C": "（C）烷塔回流槽",
+			"D": "（D）加氢反应器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200332,
+		"type": "Elementary_select",
+		"question": "碱灼伤后不正确的处理方法是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）用硼酸清洗",
+			"B": "（B）用大量清水清洗",
+			"C": "（C）上医院处理",
+			"D": "（D）用干净的布擦拭"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200333,
+		"type": "Elementary_select",
+		"question": "离心泵有汽蚀现象的处理可以()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）开大出口阀",
+			"B": "（B）关小出口阀",
+			"C": "（C）停泵排气",
+			"D": "（D）运行中排气"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200334,
+		"type": "Elementary_select",
+		"question": "氧化工段的最终产物()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）醇酮混合物",
+			"B": "（B）环己酮",
+			"C": "（C）环己醇",
+			"D": "（D）环己烷"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200335,
+		"type": "Elementary_select",
+		"question": "氧化烷塔联运可以使装()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）生产出产品",
+			"B": "（B）升温达到通气条件",
+			"C": "（C）建立分解水相",
+			"D": "（D）平衡物料"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200336,
+		"type": "Elementary_select",
+		"question": "压力容器及压力管道上常用的一种泄压保护装置()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）截止阀",
+			"B": "（B）调节阀",
+			"C": "（C）安全阀",
+			"D": "（D）止回阀"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200337,
+		"type": "Elementary_select",
+		"question": "安全阀一般至少多长时间校验一()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）半年",
+			"B": "（B）一年",
+			"C": "（C）二年",
+			"D": "（D）三年"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200338,
+		"type": "Elementary_select",
+		"question": "按生产工艺过程中的作用原理，压力容器分四类：反应容器()、分离容器、贮运容器。",
+		"answer": "C",
+		"option": {
+			"A": "（A）危险容器",
+			"B": "（B）常温容器",
+			"C": "（C）换热容器",
+			"D": "（D）高压容器"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200339,
+		"type": "Elementary_select",
+		"question": "水击现象发生后的正确处理()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）管道增压",
+			"B": "（B）管道泄压",
+			"C": "（C）管道排凝水",
+			"D": "（D）管道排蒸汽"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200340,
+		"type": "Elementary_select",
+		"question": "判断机泵汽蚀现象之一()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）出口压力增高",
+			"B": "（B）出口流量增大",
+			"C": "（C）出口压力异常",
+			"D": "（D）爆振异常响后"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200341,
+		"type": "Elementary_select",
+		"question": "爆炸极限范围越宽，爆炸下限越()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）爆炸危险性越大",
+			"B": "（B）爆炸危险性越小",
+			"C": "（C）爆炸危险性相同",
+			"D": "（D）爆炸危险性递减"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200342,
+		"type": "Elementary_select",
+		"question": "评定气体火灾爆炸危险的主要指标()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）闪点",
+			"B": "（B）自燃点",
+			"C": "（C）爆炸极限",
+			"D": "（D）闪点和自然点"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200343,
+		"type": "Elementary_select",
+		"question": "评定液体火灾爆炸危险的主要指标()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）爆炸下限",
+			"B": "（B）闪点",
+			"C": "（C）闪点和自燃点",
+			"D": "（D）爆炸极限"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200344,
+		"type": "Elementary_select",
+		"question": "评定固体火灾爆炸危险的主要指标()。",
+		"answer": "C",
+		"option": {
+			"A": "\"（A）闪点和自燃点",
+			"B": "（B）比表面积、热分解性和熔点",
+			"C": "（C）熔点、燃点、自燃点、比表面积和热分解",
+			"D": "（D）爆炸极限"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200345,
+		"type": "Elementary_select",
+		"question": "污水分析指标中，COD是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）生化需氧量",
+			"B": "（B）半数致死量",
+			"C": "（C）化学需氧量",
+			"D": "（D）全部致死量"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200346,
+		"type": "Elementary_select",
+		"question": "我公司污水处理采用()方法。",
+		"answer": "A",
+		"option": {
+			"A": "（A）生化处理",
+			"B": "（B）物化处理",
+			"C": "（C）其他",
+			"D": "（D）稀释吸附"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200347,
+		"type": "Elementary_select",
+		"question": "空气中氮气的体积百分数()方法。",
+		"answer": "A",
+		"option": {
+			"A": "（A）78%",
+			"B": "（B）75%",
+			"C": "（C）85%",
+			"D": "（D）70%"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200348,
+		"type": "Elementary_select",
+		"question": "纯净的氢气在空气中点燃时发()的火焰，放出热量，有水产生。",
+		"answer": "C",
+		"option": {
+			"A": "（A）无色",
+			"B": "（B）黄色",
+			"C": "（C）淡蓝色",
+			"D": "（D）红色"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200349,
+		"type": "Elementary_select",
+		"question": "离心泵是在()作用下工作的。",
+		"answer": "D",
+		"option": {
+			"A": "（A）重力",
+			"B": "（B）分子内作用力",
+			"C": "（C）分子间作用力",
+			"D": "（D）离心力"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200350,
+		"type": "Elementary_select",
+		"question": "精馏塔内的温度自上而下逐板()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）升高",
+			"B": "（B）降低",
+			"C": "（C）不变",
+			"D": "（D）变化无规律"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200351,
+		"type": "Elementary_select",
+		"question": "控制()是预防易燃易爆气体着火的基本措施。",
+		"answer": "C",
+		"option": {
+			"A": "（A）生产制造",
+			"B": "（B）温度",
+			"C": "（C）着火源或热源",
+			"D": "（D）压力"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200352,
+		"type": "Elementary_select",
+		"question": "空压岗位存储的气体主要有()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）氮气、氧气、空气",
+			"B": "（B）氮气、氢气、工厂风",
+			"C": "（C）氮气、氧气、仪表气",
+			"D": "（D）氮气、仪表风、工厂风"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200353,
+		"type": "Elementary_select",
+		"question": "对()人员进行紧急救护时不能进行人工呼吸。",
+		"answer": "A",
+		"option": {
+			"A": "（A）有毒气体中毒",
+			"B": "（B）触电假死",
+			"C": "（C）溺水",
+			"D": "（D）中暑休克"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200354,
+		"type": "Elementary_select",
+		"question": "在发生危化品泄漏事故现场，疏散人员可通过旗帜、树枝或利用手帕等迅速辨明方向并向()撤离。",
+		"answer": "A",
+		"option": {
+			"A": "（A）上风向或侧风向",
+			"B": "（B）下风向",
+			"C": "（C）低洼处",
+			"D": "（D）高处"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200355,
+		"type": "Elementary_select",
+		"question": "噪声是()的祸根。",
+		"answer": "B",
+		"option": {
+			"A": "（A）高血压",
+			"B": "（B）冠心病",
+			"C": "（C）中风",
+			"D": "（D）糖尿病"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200356,
+		"type": "Elementary_select",
+		"question": "火灾使人致命的最主要原因是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）被人践踏",
+			"B": "（B）窒息",
+			"C": "（C）烧伤",
+			"D": "（D）坠落"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200357,
+		"type": "Elementary_select",
+		"question": "加氢岗位不合格的产品送往()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）苯罐",
+			"B": "（B）环己烷罐",
+			"C": "（C）粗醇酮罐",
+			"D": "（D）轻质油罐"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200358,
+		"type": "Elementary_select",
+		"question": "精馏工序在开车升温过程中一定要遵循()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）先抽真空后升温",
+			"B": "（B）先升温后抽真空",
+			"C": "（C）同时升温抽真空",
+			"D": "（D）都可以"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200359,
+		"type": "Elementary_select",
+		"question": "精馏岗位旋涡分离器底部采出去()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）水封槽",
+			"B": "（B）1#低压蒸汽闪蒸罐",
+			"C": "（C）2#低压蒸汽闪蒸罐",
+			"D": "（D）轻质油储罐"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200360,
+		"type": "Elementary_select",
+		"question": "机泵汽蚀后的处理可以是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）开大出口阀",
+			"B": "（B）关小出口阀",
+			"C": "（C）停泵排气",
+			"D": "（D）运行中排气"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200361,
+		"type": "Elementary_select",
+		"question": "化工生产存在许多不安全因素，其中易燃，易爆有毒有()的物质较多是主要的不安全因素。",
+		"answer": "B",
+		"option": {
+			"A": "（A）异味",
+			"B": "（B）腐蚀性",
+			"C": "（C）挥发性",
+			"D": "（D）放射性"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200362,
+		"type": "Elementary_select",
+		"question": "从事苯、石油液化气等易燃液体作业人员应穿()工作服。",
+		"answer": "D",
+		"option": {
+			"A": "（A）耐腐蚀",
+			"B": "（B）阻燃",
+			"C": "（C）隔热",
+			"D": "（D）防静电"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200363,
+		"type": "Elementary_select",
+		"question": "场内行人要注意风向及风力，以防止在突发事故中被有毒气体侵害，遇到情况时，要绕行、停行()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）逆风而行",
+			"B": "（B）顺风而行",
+			"C": "（C）快行",
+			"D": "（D）穿行"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200364,
+		"type": "Elementary_select",
+		"question": "高处作业是指在坠落高度基准面含()米以上，有坠落可能的位置进行的作业。",
+		"answer": "A",
+		"option": {
+			"A": "（A）2",
+			"B": "（B）2.5",
+			"C": "（C）5",
+			"D": "（D）3"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200365,
+		"type": "Elementary_select",
+		"question": "工作地点有有毒的气体、粉尘、雾滴时，为保护呼吸系统，作业人员应按规定佩戴()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）防护服",
+			"B": "（B）口罩",
+			"C": "（C）过滤式防毒面具",
+			"D": "（D）防护面罩"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200366,
+		"type": "Elementary_select",
+		"question": "气体测爆仪测定的是可燃气体的()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）爆炸下限",
+			"B": "（B）爆炸上限",
+			"C": "（C）浓度",
+			"D": "（D）爆炸极限范围"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200367,
+		"type": "Elementary_select",
+		"question": "溴化锂机组冷水机组溶液加入()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）缓蚀剂",
+			"B": "（B）阻垢剂",
+			"C": "（C）杀菌剂",
+			"D": "（D）制冷剂"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200368,
+		"type": "Elementary_select",
+		"question": "爆炸现象的最主要特征是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）温度升高",
+			"B": "（B）压力急剧升高",
+			"C": "（C）周围介质震动",
+			"D": "（D）发光发热"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200369,
+		"type": "Elementary_select",
+		"question": "日常管理中要对运行中的机电设备进行()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）例行保养",
+			"B": "（B）例行操作",
+			"C": "（C）清扫工作",
+			"D": "（D）不间断巡视"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200370,
+		"type": "Elementary_select",
+		"question": "计量泵启动前必须()出口阀。",
+		"answer": "A",
+		"option": {
+			"A": "（A）打开",
+			"B": "（B）关闭",
+			"C": "（C）开大",
+			"D": "（D）关小"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200371,
+		"type": "Elementary_select",
+		"question": "离心泵启动前，应()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）关闭出口阀",
+			"B": "（B）打开出口阀",
+			"C": "（C）关闭入口阀",
+			"D": "（D）同时打开出入口阀"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200372,
+		"type": "Elementary_select",
+		"question": "作业场所含氧量低于()时，严禁入内以免造成窒息。",
+		"answer": "A",
+		"option": {
+			"A": "（A）18%",
+			"B": "（B）21%",
+			"C": "（C）30%",
+			"D": "（D）15%"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200373,
+		"type": "Elementary_select",
+		"question": "腐蚀品作业应带()手套。",
+		"answer": "B",
+		"option": {
+			"A": "（A）帆布",
+			"B": "（B）橡胶",
+			"C": "（C）棉布",
+			"D": "（D）化纤"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200374,
+		"type": "Elementary_select",
+		"question": "无法准确判断润滑油已经变质的方法是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）看颜色",
+			"B": "（B）测量黏度",
+			"C": "（C）含水分析",
+			"D": "（D）测闪点"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200375,
+		"type": "Elementary_select",
+		"question": "安全阀的整定压力范围一般是工作压力的()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）1.05-1.1",
+			"B": "（B）1.1-1.2",
+			"C": "（C）1.05-1.2",
+			"D": "（D）1.0-1.2"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200376,
+		"type": "Elementary_select",
+		"question": "环己酮氧化装置的特点是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）大循环量，低转化率",
+			"B": "（B）大循环量，高转化率",
+			"C": "（C）小循环量，高转化率",
+			"D": "（D）小循环量，低收率"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200377,
+		"type": "Elementary_select",
+		"question": "以下机泵出口没有安全阀的是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）分解催化剂泵",
+			"B": "（B）反应器给料泵",
+			"C": "（C）分解加压泵",
+			"D": "（D）初馏塔底液泵"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200378,
+		"type": "Elementary_select",
+		"question": "机泵由于过载性保护跳停，应()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）紧固机泵地脚螺栓",
+			"B": "（B）泵和电机找正",
+			"C": "（C）降低泵出口流量",
+			"D": "（D）维修机泵"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200379,
+		"type": "Elementary_select",
+		"question": "由于氢气系统压力过高使安全阀起跳，排空管内气速过快产生静电引起氢气起火，此时应()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）用石棉布包裹排空口灭火",
+			"B": "（B）用手提干粉灭火器对准排空口灭火",
+			"C": "（C）用高压消防水对准排空口喷淋降温和灭火",
+			"D": "（D）操作人员迅速关闭氢气总阀，关闭系统尾气总阀"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200380,
+		"type": "Elementary_select",
+		"question": "溴化锂制冷的原理是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）负压蒸发",
+			"B": "（B）正压蒸发",
+			"C": "（C）常压蒸发",
+			"D": "（D）高压蒸发"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200381,
+		"type": "Elementary_select",
+		"question": "螺杆空压机的进气压力()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）0.6MPa",
+			"B": "（B）常压",
+			"C": "（C）0.5MPa",
+			"D": "（D）0.4MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200382,
+		"type": "Elementary_select",
+		"question": "氮气增压机的一级排气压力为()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）0.6MPa",
+			"B": "（B）1.2-1.4MPa",
+			"C": "（C）常压",
+			"D": "（D）0.4MPa"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200383,
+		"type": "Elementary_select",
+		"question": "氮气是一种无色()的气体。",
+		"answer": "C",
+		"option": {
+			"A": "（A）甜味",
+			"B": "（B）臭鸡蛋",
+			"C": "（C）无味",
+			"D": "（D）酸味"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200384,
+		"type": "Elementary_select",
+		"question": "衡量电流大小的物理量叫做()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）电源",
+			"B": "（B）电流",
+			"C": "（C）电阻",
+			"D": "（D）电动势"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200385,
+		"type": "Elementary_select",
+		"question": "导电性能很差的材料称为()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）导体",
+			"B": "（B）半导体",
+			"C": "（C）绝缘体",
+			"D": "（D）超导体"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200386,
+		"type": "Elementary_select",
+		"question": "保护接零就是将电气设备的金属外壳接到()上。",
+		"answer": "C",
+		"option": {
+			"A": "（A）大地",
+			"B": "（B）避雷针",
+			"C": "（C）中性线",
+			"D": "（D）火线"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200387,
+		"type": "Elementary_select",
+		"question": "在潮湿的容器内作业的安全电压是()上。",
+		"answer": "A",
+		"option": {
+			"A": "（A）12",
+			"B": "（B）2",
+			"C": "（C）3",
+			"D": "（D）48"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200388,
+		"type": "Elementary_select",
+		"question": "两相触电比单相触电()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）更安全",
+			"B": "（B）更危险",
+			"C": "（C）一样",
+			"D": "（D）无法判断"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200389,
+		"type": "Elementary_select",
+		"question": "测量误差通常有()两种表示方法。",
+		"answer": "D",
+		"option": {
+			"A": "（A）偶然误差和相对误差",
+			"B": "（B）偶然误差和绝对误差",
+			"C": "（C）系统误差和绝对误差",
+			"D": "（D）绝对误差和相对误差"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200390,
+		"type": "Elementary_select",
+		"question": "由仪表本身的缺陷造成的误差属于()上。",
+		"answer": "A",
+		"option": {
+			"A": "（A）系统误差",
+			"B": "（B）绝对误差",
+			"C": "（C）相对误差",
+			"D": "（D）偶然误差"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200391,
+		"type": "Elementary_select",
+		"question": "差压式液位计，是利用容器内的液位改变时，由液柱产生的()相应变化的原理而工作的。",
+		"answer": "D",
+		"option": {
+			"A": "（A）高度",
+			"B": "（B）势能",
+			"C": "（C）动能",
+			"D": "（D）静压"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200392,
+		"type": "Elementary_select",
+		"question": "翻板式液位计是利用浮子高度随()变化而变化的原理工作的。",
+		"answer": "A",
+		"option": {
+			"A": "（A）液位",
+			"B": "（B）压力",
+			"C": "（C）温度",
+			"D": "（D）流量"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200393,
+		"type": "Elementary_select",
+		"question": "玻璃板式液位计是利用()原理工作的。",
+		"answer": "B",
+		"option": {
+			"A": "（A）浮力",
+			"B": "（B）连通器",
+			"C": "（C）磁力",
+			"D": "（D）光学"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200394,
+		"type": "Elementary_select",
+		"question": "热电偶温度计是基于()原理测量温度的。",
+		"answer": "B",
+		"option": {
+			"A": "（A）光电效应",
+			"B": "（B）热电效应",
+			"C": "（C）热阻效应",
+			"D": "（D）牛顿第一定律"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200395,
+		"type": "Elementary_select",
+		"question": "热电偶是由两种()材料焊接而成。",
+		"answer": "A",
+		"option": {
+			"A": "（A）不同",
+			"B": "（B）相同",
+			"C": "（C）任意",
+			"D": "（D）电导率低"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200396,
+		"type": "Elementary_select",
+		"question": "热电阻温度计是利用金属导体的()随温度变化而变化的特性来进行温度测量的。",
+		"answer": "A",
+		"option": {
+			"A": "（A）电阻",
+			"B": "（B）热电阻",
+			"C": "（C）电势",
+			"D": "（D）长度"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200397,
+		"type": "Elementary_select",
+		"question": "仪表的完好率是反映仪表完好状况的重要指标，一般要求仪表完好率要大于等于()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）90%",
+			"B": "（B）95%",
+			"C": "（C）98%",
+			"D": "（D）99.8%"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200398,
+		"type": "Elementary_select",
+		"question": "按照规定，标准表的允许误差不应超过被校表的()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）1/2",
+			"B": "（B）1/",
+			"C": "（C）1/",
+			"D": "（D）2/3"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200399,
+		"type": "Elementary_select",
+		"question": "物位是指()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）液位",
+			"B": "（B）料位",
+			"C": "（C）界位",
+			"D": "（D）以上都是"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200400,
+		"type": "Elementary_select",
+		"question": "过程自动化的核心是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）自动检测装置",
+			"B": "（B）自动保护装置",
+			"C": "（C）自动执行装置",
+			"D": "（D）自动调节装置"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200401,
+		"type": "Elementary_select",
+		"question": "调节机构根据气动调节阀在有信号作用时阀芯的位置不同分为()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）气开式和气关式",
+			"B": "（B）快开、直线性、抛物线和对数",
+			"C": "（C）单芯阀、双芯阀",
+			"D": "（D）直行程和角行程"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200402,
+		"type": "Elementary_select",
+		"question": "气动调节阀当信号增加，阀杆向下移动，阀芯与阀座之间的流通面积增大的是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）正作用风关阀",
+			"B": "（B）正作用风开阀",
+			"C": "（C）反作用风关阀",
+			"D": "（D）反作用风开阀"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200403,
+		"type": "Elementary_select",
+		"question": "气动调节阀当信号增加，阀杆向下移动，阀芯与阀座之间的流通面积减小的是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）正作用风关阀",
+			"B": "（B）正作用风开阀",
+			"C": "（C）反作用风关阀",
+			"D": "（D）反作用风开阀"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200404,
+		"type": "Elementary_select",
+		"question": "气动调节阀当信号增加，阀杆向上移动，阀芯与阀座之间的流通面积减小的是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）正作用风关阀",
+			"B": "（B）正作用风开阀",
+			"C": "（C）反作用风关阀",
+			"D": "（D）反作用风开阀"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200405,
+		"type": "Elementary_select",
+		"question": "气动调节阀当信号增加，阀杆向上移动，阀芯与阀座之间的流通面积增大的是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）正作用风关阀",
+			"B": "（B）正作用风开阀",
+			"C": "（C）反作用风关阀",
+			"D": "（D）反作用风开阀"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200406,
+		"type": "Elementary_select",
+		"question": "三线电缆中的红线代表()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）零线",
+			"B": "（B）火线",
+			"C": "（C）地线",
+			"D": "（D）中线"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200407,
+		"type": "Elementary_select",
+		"question": "静电电压最高可达()，可现场放电，产生静电火花，引起火灾。",
+		"answer": "B",
+		"option": {
+			"A": "（A）50伏",
+			"B": "（B）数万伏",
+			"C": "（C）220伏",
+			"D": "（D）110伏"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200408,
+		"type": "Elementary_select",
+		"question": "停电检修时，在一经合闸即可送电到工作地点的开关或刀闸的操作把手上，应悬挂如下哪种标示牌？()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）在此工作",
+			"B": "（B）止步，高压危险",
+			"C": "（C）禁止合闸，有人工作",
+			"D": "（D）小心触电"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200409,
+		"type": "Elementary_select",
+		"question": "触电事故中，绝大部分是()导致人身伤亡的。",
+		"answer": "A",
+		"option": {
+			"A": "（A）人体接受电流遭到电击",
+			"B": "（B）烧伤",
+			"C": "（C）电休克",
+			"D": "（D）摔倒"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200410,
+		"type": "Elementary_select",
+		"question": "如果触电者伤势严重，呼吸停止或心脏停止跳动，应竭力施行()和胸外心脏挤压。",
+		"answer": "C",
+		"option": {
+			"A": "（A）按摩",
+			"B": "（B）点穴",
+			"C": "（C）人工呼吸",
+			"D": "（D）抚摸"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200411,
+		"type": "Elementary_select",
+		"question": "漏电保护器的使用时防止()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）触电事故",
+			"B": "（B）电压波动",
+			"C": "（C）电荷超负荷",
+			"D": "（D）电流波动"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200412,
+		"type": "Elementary_select",
+		"question": "下列哪种灭火器适于扑灭电气火灾？()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）二氧化碳灭火器",
+			"B": "（B）干粉灭火器",
+			"C": "（C）泡沫灭火器",
+			"D": "（D）四氯化碳"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200413,
+		"type": "Elementary_select",
+		"question": "在遇到高压电线断落地面时，导线断落点()米内，禁止人员进入。",
+		"answer": "B",
+		"option": {
+			"A": "（A）10",
+			"B": "（B）2",
+			"C": "（C）3",
+			"D": "（D）40"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200414,
+		"type": "Elementary_select",
+		"question": "发生触电事故的危险电压一般是从()伏开始。",
+		"answer": "C",
+		"option": {
+			"A": "（A）24",
+			"B": "（B）2",
+			"C": "（C）6",
+			"D": "（D）220"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200415,
+		"type": "Elementary_select",
+		"question": "雷电放电具有()的特点。",
+		"answer": "A",
+		"option": {
+			"A": "（A）电流大，电压高",
+			"B": "（B）电流小，电压高",
+			"C": "（C）电流大，电压低",
+			"D": "（D）电流小，电压小"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200416,
+		"type": "Elementary_select",
+		"question": "车间内的明、暗插座距地面的高度一般不低于()米。",
+		"answer": "A",
+		"option": {
+			"A": "（A）0.3",
+			"B": "（B）0.",
+			"C": "（C）0.",
+			"D": "（D）0.2"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200417,
+		"type": "Elementary_select",
+		"question": "任何电气设备在未验明无电之前，一律按()对待。",
+		"answer": "C",
+		"option": {
+			"A": "（A）无电",
+			"B": "（B）也许有电",
+			"C": "（C）有电",
+			"D": "（D）也许无电"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200418,
+		"type": "Elementary_select",
+		"question": "使用的电气设备按有关安全规程，其外壳应有什么防护措施()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）无",
+			"B": "（B）保护性接零或接地",
+			"C": "（C）防锈漆",
+			"D": "（D）防护膜"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200419,
+		"type": "Elementary_select",
+		"question": "扑救爆炸物品火灾时()用沙盖压，以防造成更大伤害。",
+		"answer": "B",
+		"option": {
+			"A": "（A）必须",
+			"B": "（B）禁止",
+			"C": "（C）可以",
+			"D": "（D）允许"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200420,
+		"type": "Elementary_select",
+		"question": "易燃易爆区域是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）火灾危险类别为甲、乙类的区域",
+			"B": "（B）火灾危险类别为甲、乙、丙类的区域",
+			"C": "（C）火灾危险类别为甲类的区域",
+			"D": "（D）火灾危险类别为乙类的区域"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200421,
+		"type": "Elementary_select",
+		"question": "常用的阻火设备()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）灭火器，消防水车",
+			"B": "（B）消防栓，消防水池",
+			"C": "（C）阻火器，安全水封",
+			"D": "（D）阻火器，消防栓"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200422,
+		"type": "Elementary_select",
+		"question": "安全阀、止逆阀和防爆片()设备。",
+		"answer": "B",
+		"option": {
+			"A": "（A）消防专用",
+			"B": "（B）防爆泄压",
+			"C": "（C）安全生产",
+			"D": "（D）防火"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200423,
+		"type": "Elementary_select",
+		"question": "安全阀应()由指定专业部门校验一次，并加铅封。",
+		"answer": "B",
+		"option": {
+			"A": "（A）半年",
+			"B": "（B）一年",
+			"C": "（C）两年",
+			"D": "（D）三年"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200424,
+		"type": "Elementary_select",
+		"question": "工业三废是指()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）废水、废料、废渣",
+			"B": "（B）废水、废气、废料",
+			"C": "（C）废水、废气、废渣",
+			"D": "（D）废料、废气、废渣"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200425,
+		"type": "Elementary_select",
+		"question": "污水处理站外排污水执行《山东省南水北调沿线水污染物综合排放标准》中的重点保护区域标准，要求COD浓度在()以内。",
+		"answer": "A",
+		"option": {
+			"A": "（A）60mg/L",
+			"B": "（B）100mg/L",
+			"C": "（C）80mg/L",
+			"D": "（D）90mg/L"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200426,
+		"type": "Elementary_select",
+		"question": "“世界环境日”是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）4月22日",
+			"B": "（B）6月5日",
+			"C": "（C）3月12日",
+			"D": "（D）9月11日"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200427,
+		"type": "Elementary_select",
+		"question": "下列哪一项不属于新环保法立法的目的？()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）保护和改善环境，防治污染和其他公害",
+			"B": "（B）保障公众健康",
+			"C": "（C）促进社会主义现代化建设的发展",
+			"D": "（D）推进生态文明建设，促进经济社会可持续发展"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200428,
+		"type": "Elementary_select",
+		"question": "违反新环保法规定，构成犯罪的，依法追（）重点排污单位不公开或者不如实公开环境信息的，（）责令公开，处以罚款，并予以公告.()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）民事责任；县级以上地方人民政府环境保护主管部门",
+			"B": "（B）刑事责任；县级以上地方人民政府环境保护主管部门",
+			"C": "（C）民事责任；县级以上人民政府环境保护主管部门",
+			"D": "（D）刑事责任；县级以上人民政府环境保护主管部门"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200429,
+		"type": "Elementary_select",
+		"question": "县级以上人民政府对发生的重大环境事件应当及时向本级（）报告，依法接受监督()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）安全监督管理部门",
+			"B": "（B）人民代表大会常务委员会",
+			"C": "（C）人民政府",
+			"D": "（D）环保主管部门"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200430,
+		"type": "Elementary_select",
+		"question": "公民、法人和其他组织发（）有污染环境和破坏生态行为的，有权向环境保护主管部门或者其他负有环境保护监督管理职责的部（）()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）企事业单位；检举",
+			"B": "（B）任何单位和个人；举报 ",
+			"C": "（C）企事业单位；报告",
+			"D": "（D）任何单位和个人；投诉"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200431,
+		"type": "Elementary_select",
+		"question": "《职业病防治法》规定，对产生严重职业病危害的作业岗位，应当在其醒目位置，设置警示标识和中文警示说明,警示说明应当载()等内容。",
+		"answer": "A",
+		"option": {
+			"A": "（A）应急救治措施",
+			"B": "（B）逃生路线",
+			"C": "（C）岗位操作规程",
+			"D": "（D）应急预案"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200432,
+		"type": "Elementary_select",
+		"question": "倒淋阀（放净阀）安装在设备的()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）最底部",
+			"B": "（B）管段上",
+			"C": "（C）最高处",
+			"D": "（D）始端"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200433,
+		"type": "Elementary_select",
+		"question": "不属于机泵盘车作用的是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）防止机泵卡涩",
+			"B": "（B）防止大转轴弯曲变形",
+			"C": "（C）保证随时备用",
+			"D": "（D）确认设备能够运行"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200434,
+		"type": "Elementary_select",
+		"question": "机泵抽空后不会出现的现象是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）出口流量为零",
+			"B": "（B）泵体震动",
+			"C": "（C）出口流量增大",
+			"D": "（D）出口压力为零"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200435,
+		"type": "Elementary_select",
+		"question": "机泵在运行的过程中，造成电机电流过大的原因是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）过载",
+			"B": "（B）空载",
+			"C": "（C）泵的出口阀未关",
+			"D": "（D）泵的出口阀开度过小"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200436,
+		"type": "Elementary_select",
+		"question": "水击现象发生后的正确处理是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）管道增压",
+			"B": "（B）管道泄压",
+			"C": "（C）管道排凝水",
+			"D": "（D）管道排蒸汽"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200437,
+		"type": "Elementary_select",
+		"question": "仪表PIC-200中的I功能()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）记录",
+			"B": "（B）指示",
+			"C": "（C）调节",
+			"D": "（D）报警"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200438,
+		"type": "Elementary_select",
+		"question": "工艺流程图上仪表TIC-12200中的C功能()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）记录",
+			"B": "（B）指示",
+			"C": "（C）调节",
+			"D": "（D）报警"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200439,
+		"type": "Elementary_select",
+		"question": "安全阀的作用在于，当管线、设备内的压力超过其()时，便自动开启，放空、泄压。",
+		"answer": "D",
+		"option": {
+			"A": "（A）允许压力",
+			"B": "（B）最高工作压力",
+			"C": "（C）最高工作压力为1.05~1.10倍",
+			"D": "（D）给定压力值"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200440,
+		"type": "Elementary_select",
+		"question": "用来防止流体反向流动的阀门称为()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）球阀",
+			"B": "（B）止回阀",
+			"C": "（C）安全阀",
+			"D": "（D）截止阀"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200441,
+		"type": "Elementary_select",
+		"question": "为阀门注入密封脂、润滑脂时，正常情况下每年加注()次。",
+		"answer": "B",
+		"option": {
+			"A": "（A）1次",
+			"B": "（B）2次",
+			"C": "（C）3次",
+			"D": "（D）4次"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200442,
+		"type": "Elementary_select",
+		"question": "球阀由阀体、()、密封机构、执行机构等主要部件组成。",
+		"answer": "B",
+		"option": {
+			"A": "（A）圆柱体",
+			"B": "（B）球体",
+			"C": "（C）阀板",
+			"D": "（D）球板"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200443,
+		"type": "Elementary_select",
+		"question": "电动阀的()指示灯亮表示阀门全开。",
+		"answer": "A",
+		"option": {
+			"A": "（A）红色",
+			"B": "（B）绿色",
+			"C": "（C）黄色",
+			"D": "（D）白色"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200444,
+		"type": "Elementary_select",
+		"question": "电动阀的()指示灯亮表示全关。",
+		"answer": "B",
+		"option": {
+			"A": "（A）红色",
+			"B": "（B）绿色",
+			"C": "（C）黄色",
+			"D": "（D）白色"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200445,
+		"type": "Elementary_select",
+		"question": "关闭件为一个球体，用球体绕阀体中心线作旋转，来达到通、断目的阀门是()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）球阀",
+			"B": "（B）止回阀",
+			"C": "（C）安全阀",
+			"D": "（D）截止阀"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200446,
+		"type": "Elementary_select",
+		"question": "填料室对旋转的泵轴和固定的泵体之间的间隙起()。 ",
+		"answer": "A",
+		"option": {
+			"A": "（A）密封作用",
+			"B": "（B）固定作用",
+			"C": "（C）润滑作用",
+			"D": "（D）冷却作用"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200447,
+		"type": "Elementary_select",
+		"question": "下列说法中，不是换热器效率下降的原因有()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）硫腐蚀",
+			"B": "（B）结垢",
+			"C": "（C）气温低",
+			"D": "（D）堵塞"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200448,
+		"type": "Elementary_select",
+		"question": "对于离心压缩机的喘震，下列处理方法正确的是()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）关小出口阀门",
+			"B": "（B）降低出口压力",
+			"C": "（C）减小流量",
+			"D": "（D）立即停机"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200449,
+		"type": "Elementary_select",
+		"question": "公称压力为PN1.6的管道，其最高承受压力为()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）16公斤力/平方厘米",
+			"B": "（B）0.6MPa",
+			"C": "（C）16MPa",
+			"D": "（D）160公斤力/平方厘米"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200450,
+		"type": "Elementary_select",
+		"question": "对于阀门，下列说法正确的是()。",
+		"answer": "D",
+		"option": {
+			"A": "（A）截止阀阻力较小，但严密性较差",
+			"B": "（B）阀门就是用来隔断流动介质的，可以作为动火作业的隔断手段",
+			"C": "（C）闸阀阻力较大，严密性较好",
+			"D": "（D）蝶阀容易内漏"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200451,
+		"type": "Elementary_select",
+		"question": "动火等级分为()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）一、二、三级",
+			"B": "（B）甲、乙、丙级",
+			"C": "（C）特、一、二、三级",
+			"D": "（D）一、二、三、四级"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200452,
+		"type": "Elementary_select",
+		"question": "环己烷、环己酮遇明火易燃烧，当发生着火或火灾时，不能能用的灭火剂是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）泡沫",
+			"B": "（B）",
+			"C": "（C）水",
+			"D": "（D）"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200453,
+		"type": "Elementary_select",
+		"question": "在环己烷与氮气、氧气混合物的爆炸特性图中，爆炸上、下限的交会点，表示在该点的条件下，环己烷的爆炸上下限重合,它表明只要混合气体中氧含量少于()，则不论氮-环己烷混合物是任何浓度，都不会爆炸。",
+		"answer": "A",
+		"option": {
+			"A": "（A）10%",
+			"B": "（B）5%",
+			"C": "（C）3.5%",
+			"D": "（D）8%"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200454,
+		"type": "Elementary_select",
+		"question": "离心泵的扬程一般随流量的增大而()。",
+		"answer": "B",
+		"option": {
+			"A": "（A）增大",
+			"B": "（B）减小",
+			"C": "（C）不变",
+			"D": "（D）可能增大可能减小"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200455,
+		"type": "Elementary_select",
+		"question": "离心泵的轴功率随流量的增大而()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）增大",
+			"B": "（B）减小",
+			"C": "（C）不变",
+			"D": "（D）可能增大可能减小"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200456,
+		"type": "Elementary_select",
+		"question": "2014年新修订的环境保护法，“保护环境”被确立为我国的一项()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）基本国策",
+			"B": "（B）基本政策",
+			"C": "（C）基本方针",
+			"D": "（D）基本策略"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200457,
+		"type": "Elementary_select",
+		"question": "环境保护坚持保护优先、预防为主、综合治理、()、损害担责的原则。",
+		"answer": "B",
+		"option": {
+			"A": "（A）政府为主",
+			"B": "（B）公众参与",
+			"C": "（C）部门配合",
+			"D": "（D）社区配合"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200458,
+		"type": "Elementary_select",
+		"question": "\"环境监测的对象有()。",
+		"answer": "A",
+		"option": {
+			"A": "（A）大气、水体、土壤、生物、噪声",
+			"B": "（B）大气、市容、土壤、生物、噪声",
+			"C": "（C）大气、交通、土壤、生物、噪声",
+			"D": "（D）大气、交通、水体、生物、噪声"
+		},
+		"scores": 1,
+		"checked": false
+	},
+	{
+		"ID": 1020200459,
+		"type": "Elementary_select",
+		"question": "形成“温室效应”的最主要气体是()。",
+		"answer": "C",
+		"option": {
+			"A": "（A）SO2",
+			"B": "（B）CO",
+			"C": "（C）CO2",
+			"D": "（D）N2"
+		},
+		"scores": 1,
+		"checked": false
+	}
+]

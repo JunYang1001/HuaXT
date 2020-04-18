@@ -1,0 +1,2203 @@
+[{
+	"id": "1",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "1、分解釜加水的主要目的是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、提供反应相 "
+	}, {
+		"label": "B",
+		"text": " B、降低温度 "
+	}, {
+		"label": "C",
+		"text": " C、提高压力 "
+	}, {
+		"label": "D",
+		"text": " D、萃取醇酮"
+	}]
+}, {
+	"id": "2",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "2、新鲜碱未参与的反应是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、过氧化物分解 "
+	}, {
+		"label": "B",
+		"text": " B、醇脱氢 "
+	}, {
+		"label": "C",
+		"text": " C、酸碱中和 "
+	}, {
+		"label": "D",
+		"text": " D、酯的皂化"
+	}]
+}, {
+	"id": "3",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "3、对皂化反应影响非主要因素的是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、温度 "
+	}, {
+		"label": "B",
+		"text": " B、压力 "
+	}, {
+		"label": "C",
+		"text": " C、碱度 "
+	}, {
+		"label": "D",
+		"text": " D、环己烷含量"
+	}]
+}, {
+	"id": "4",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "4、脱氢反应原料中对延长触媒使用寿命影响最大的是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、环己酮 "
+	}, {
+		"label": "B",
+		"text": " B、环己醇 "
+	}, {
+		"label": "C",
+		"text": " C、X油 "
+	}, {
+		"label": "D",
+		"text": " D、轻质油"
+	}]
+}, {
+	"id": "5",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "5、精馏工序在开车升温过程中，一定要遵循先（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、先升温后抽真空 "
+	}, {
+		"label": "B",
+		"text": " B、先抽真空后升温"
+	}, {
+		"label": "C",
+		"text": " C、升温同时抽真空 "
+	}, {
+		"label": "D",
+		"text": " D、开车稳定后抽真空"
+	}]
+}, {
+	"id": "6",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "6、下列因素对氧化率有影响的是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、烷循环量 "
+	}, {
+		"label": "B",
+		"text": " B、新碱加料量 "
+	}, {
+		"label": "C",
+		"text": " C、分解触媒浓度 "
+	}, {
+		"label": "D",
+		"text": " D、油水相比"
+	}]
+}, {
+	"id": "7",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "7、碱水不分层对工况最大的影响是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、分解收率下降 "
+	}, {
+		"label": "B",
+		"text": " B、氧化副反应增多 "
+	}, {
+		"label": "C",
+		"text": " C、尾气带料 "
+	}, {
+		"label": "D",
+		"text": " D、烷一塔再沸器结渣"
+	}]
+}, {
+	"id": "8",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "8、碱水不分层的处理方法正确的是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、增大分解催化剂量 "
+	}, {
+		"label": "B",
+		"text": " B、增大分解进水量"
+	}, {
+		"label": "C",
+		"text": " C、增大新碱加入量 "
+	}, {
+		"label": "D",
+		"text": " D、增大水洗出水量"
+	}]
+}, {
+	"id": "9",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "9、氧化釜尾气带料可以造成（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、氧化釜压力上升 "
+	}, {
+		"label": "B",
+		"text": " B、氧化釜压力下降"
+	}, {
+		"label": "C",
+		"text": " C、氧化釜进料温度高 "
+	}, {
+		"label": "D",
+		"text": " C、氧化釜空气流量增加"
+	}]
+}, {
+	"id": "10",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "10、不会造成烷一塔塔顶温度偏高的是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、回流过小 "
+	}, {
+		"label": "B",
+		"text": " B、塔顶压力升高"
+	}, {
+		"label": "C",
+		"text": " C、组分发生变化 "
+	}, {
+		"label": "D",
+		"text": " D、塔中物料含水"
+	}]
+}, {
+	"id": "11",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "11、氧化联锁的联校最终目的是（ ）。",
+	"options": [{
+		"label": "A",
+		"text": "A.冷热烷泵停运。"
+	}, {
+		"label": "B",
+		"text": " B.空气快速切断阀正确开关。"
+	}, {
+		"label": "C",
+		"text": " C.总管尾氧超高及时停车 "
+	}, {
+		"label": "D",
+		"text": " D.氧化系统压力调节阀及时全开"
+	}]
+}, {
+	"id": "12",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "12、对分解反应的影响非主要原因（ ）。",
+	"options": [{
+		"label": "A",
+		"text": "A.加入碱量"
+	}, {
+		"label": "B",
+		"text": " B.烷循环量"
+	}, {
+		"label": "C",
+		"text": " C.触媒含量"
+	}, {
+		"label": "D",
+		"text": " D.分解压力"
+	}]
+}, {
+	"id": "13",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "13、烷塔系统压力过高不会导致（）。",
+	"options": [{
+		"label": "A",
+		"text": "A.蒸发量变大"
+	}, {
+		"label": "B",
+		"text": " B.蒸发量变小"
+	}, {
+		"label": "C",
+		"text": " C.釜温升高"
+	}, {
+		"label": "D",
+		"text": " D.顶温升高"
+	}]
+}, {
+	"id": "14",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "14、氧化尾氧的要求正确范围是（）。",
+	"options": [{
+		"label": "A",
+		"text": "A.1-2%"
+	}, {
+		"label": "B",
+		"text": " B.3-4%"
+	}, {
+		"label": "C",
+		"text": " C.1.5—3%"
+	}, {
+		"label": "D",
+		"text": " D.2-3.5%"
+	}]
+}, {
+	"id": "15",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "15、对于氧化尾氧要求正确的是（)。",
+	"options": [{
+		"label": "A",
+		"text": "A.控制的越低越好，利用效率越高"
+	}, {
+		"label": "B",
+		"text": " B.控制的越高越好，转化率低"
+	}, {
+		"label": "C",
+		"text": " C.没有具体要求，只要在安全范围内"
+	}, {
+		"label": "D",
+		"text": " D.控制在1.5-3%的范围内"
+	}]
+}, {
+	"id": "16",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "16、离心泵的切换，停泵时不正确的处理方法是( )",
+	"options": [{
+		"label": "A",
+		"text": "A.马上关闭冷却密封水"
+	}, {
+		"label": "B",
+		"text": " B.关闭压力表手阀"
+	}, {
+		"label": "C",
+		"text": " C.切断电源"
+	}, {
+		"label": "D",
+		"text": " D.关闭泵的出口，入口阀"
+	}]
+}, {
+	"id": "17",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "17、可以判断分解搅拌调停的现象有( )",
+	"options": [{
+		"label": "A",
+		"text": "A.搅拌泵运行开关显示停"
+	}, {
+		"label": "B",
+		"text": " B.循环碱流量加大"
+	}, {
+		"label": "C",
+		"text": " C.分解压力上涨"
+	}, {
+		"label": "D",
+		"text": "D,搅拌泵运行开关显示开"
+	}]
+}, {
+	"id": "18",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "18、氧化釜尾气带料可以造成( )",
+	"options": [{
+		"label": "A",
+		"text": "A.氧化釜压力上升"
+	}, {
+		"label": "B",
+		"text": " B.氧化釜压力下降"
+	}, {
+		"label": "C",
+		"text": " C.氧化釜进料温度高"
+	}, {
+		"label": "D",
+		"text": " D.氧化釜空气流量增加"
+	}]
+}, {
+	"id": "19",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "19、碱水不分层对工况最大的影响是( )",
+	"options": [{
+		"label": "A",
+		"text": "A.分解收率下降"
+	}, {
+		"label": "B",
+		"text": "B氧化副反应增多"
+	}, {
+		"label": "C",
+		"text": "C尾气带料"
+	}, {
+		"label": "D",
+		"text": "D 烷一塔再沸器结渣"
+	}]
+}, {
+	"id": "20",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "20、氧化进料中的醇酮含量高，经过氧化反应后（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A苯耗下降"
+	}, {
+		"label": "B",
+		"text": "B碱耗下降"
+	}, {
+		"label": "C",
+		"text": "C转化率升高"
+	}, {
+		"label": "D",
+		"text": "D废碱量降低"
+	}]
+}, {
+	"id": "21",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "21、氧化液位的波动会对氧化反应构成主要影响有（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A系统压力"
+	}, {
+		"label": "B",
+		"text": "B反应停留时间"
+	}, {
+		"label": "C",
+		"text": "C循环量"
+	}, {
+		"label": "D",
+		"text": "D蒸气加热量"
+	}]
+}, {
+	"id": "22",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "22、对于一台离心水泵来说，现在改为输送比水粘度大的液体，那么泵的扬程将___。",
+	"options": [{
+		"label": "A",
+		"text": "A，减小 "
+	}, {
+		"label": "B",
+		"text": "B，增大 "
+	}, {
+		"label": "C",
+		"text": " C，不变"
+	}, {
+		"label": "D",
+		"text": "D，无答案"
+	}]
+}, {
+	"id": "23",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "23、泵对单位重量（1N）液体所能提供的有效能量称泵的_________。",
+	"options": [{
+		"label": "A",
+		"text": "a.功率 "
+	}, {
+		"label": "B",
+		"text": " b.效率 "
+	}, {
+		"label": "C",
+		"text": "c.扬程 "
+	}, {
+		"label": "D",
+		"text": " d.有效功率"
+	}]
+}, {
+	"id": "24",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "24、工业企业的生产车间和作业场所的工作地点的噪声不大于______。",
+	"options": [{
+		"label": "A",
+		"text": "A，65分贝"
+	}, {
+		"label": "B",
+		"text": " B，85分贝"
+	}, {
+		"label": "C",
+		"text": " C，75分贝"
+	}, {
+		"label": "D",
+		"text": " D，100分贝"
+	}]
+}, {
+	"id": "25",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "25、过滤式防毒面具的药盒上,涂有褐色是预防( )。",
+	"options": [{
+		"label": "A",
+		"text": "A.一氧化碳 "
+	}, {
+		"label": "B",
+		"text": " B.氨气和硫化氢 "
+	}, {
+		"label": "C",
+		"text": " C.有机化合物; "
+	}, {
+		"label": "D",
+		"text": " D.酸性气体."
+	}]
+}, {
+	"id": "26",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "26、选用压力表时,压力表的量程应为测量值的多少倍？",
+	"options": [{
+		"label": "A",
+		"text": "A、1.2 "
+	}, {
+		"label": "B",
+		"text": " B、1.5 "
+	}, {
+		"label": "C",
+		"text": " C、2 "
+	}, {
+		"label": "D",
+		"text": " D、2.2"
+	}]
+}, {
+	"id": "27",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "27、不适宜做调节流体流量及输送含颗粒物料的阀门是_______。",
+	"options": [{
+		"label": "A",
+		"text": "A. 旋塞阀 "
+	}, {
+		"label": "B",
+		"text": " B.截止阀 "
+	}, {
+		"label": "C",
+		"text": " C. 闸阀"
+	}, {
+		"label": "D",
+		"text": "D.无答案"
+	}]
+}, {
+	"id": "28",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "28、在化工生产中，管子与阀门连接一般都采用___连接。",
+	"options": [{
+		"label": "A",
+		"text": "A，法兰"
+	}, {
+		"label": "B",
+		"text": " B，焊接 "
+	}, {
+		"label": "C",
+		"text": "C，承插式"
+	}, {
+		"label": "D",
+		"text": " D，螺纹"
+	}]
+}, {
+	"id": "29",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "29、在其它条件不变的情况下，增压气体反应的总压力，平衡将向气体分子数________的方向移动。",
+	"options": [{
+		"label": "A",
+		"text": "A. 增加 "
+	}, {
+		"label": "B",
+		"text": " B.减少 "
+	}, {
+		"label": "C",
+		"text": " C. 不变"
+	}, {
+		"label": "D",
+		"text": "D.无答案"
+	}]
+}, {
+	"id": "30",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "30、气体的溶解度一般随（ ）的增加成正比例关系增大。",
+	"options": [{
+		"label": "A",
+		"text": "A、温度 "
+	}, {
+		"label": "B",
+		"text": " B、体积 "
+	}, {
+		"label": "C",
+		"text": " C、压力"
+	}, {
+		"label": "D",
+		"text": "D.无答案"
+	}]
+}, {
+	"id": "31",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "31、有一台离心泵，原来以3000转/分的转速转动，现在改为2000转/分，那么泵的流量为原来的____。",
+	"options": [{
+		"label": "A",
+		"text": "A，2/3 "
+	}, {
+		"label": "B",
+		"text": " B，1/2"
+	}, {
+		"label": "C",
+		"text": " C，不变"
+	}, {
+		"label": "D",
+		"text": "D.无答案"
+	}]
+}, {
+	"id": "32",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "32、列管式换热器中，管子的排列一般有直列和错列两种，当传热面积一定时，采用____排列对流传热系数稍大。",
+	"options": [{
+		"label": "A",
+		"text": "A，直列 "
+	}, {
+		"label": "B",
+		"text": "B，错列 "
+	}, {
+		"label": "C",
+		"text": " C，无法确定"
+	}, {
+		"label": "D",
+		"text": "D.无答案"
+	}]
+}, {
+	"id": "33",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "33、在化工生产中，设备里的热量主要不以___方式损失。",
+	"options": [{
+		"label": "A",
+		"text": "A，热传导 "
+	}, {
+		"label": "B",
+		"text": "B，对流传热 "
+	}, {
+		"label": "C",
+		"text": " C，辐射"
+	}, {
+		"label": "D",
+		"text": "D.无答案"
+	}]
+}, {
+	"id": "34",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "34、不是塔检修的内容是（）。",
+	"options": [{
+		"label": "A",
+		"text": "\""
+	}, {
+		"label": "B",
+		"text": "A.清扫管束和壳体\""
+	}, {
+		"label": "C",
+		"text": " B.检查修理或更换塔盘板和内衬的腐蚀、变形和各部焊缝"
+	}, {
+		"label": "D",
+		"text": " C.检查修理或更换塔盘板和鼓泡元件",
+		"undefined": " D.检查校验安全附件"
+	}]
+}, {
+	"id": "35",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "35、不属于换热器检修内容的是（）",
+	"options": [{
+		"label": "A",
+		"text": "\""
+	}, {
+		"label": "B",
+		"text": "A.清扫管束和壳体\""
+	}, {
+		"label": "C",
+		"text": " B.管束焊口、胀口处理及单管更换"
+	}, {
+		"label": "D",
+		"text": " C.检查修复管箱、前后盖、大小浮头、接管及其密封面，更换垫片",
+		"undefined": " D.检查校验安全附件"
+	}]
+}, {
+	"id": "36",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "36、当尾氧偏高时，为降低尾氧，下列操作正确的是( )",
+	"options": [{
+		"label": "A",
+		"text": "A降低氧化釜液位"
+	}, {
+		"label": "B",
+		"text": "B降低温度"
+	}, {
+		"label": "C",
+		"text": "C提高氧化釜液位"
+	}, {
+		"label": "D",
+		"text": "D提高气量"
+	}]
+}, {
+	"id": "37",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "37、离心泵的切换，停泵时不正确的处理方法是( )",
+	"options": [{
+		"label": "A",
+		"text": "A、马上关闭冷却密封水"
+	}, {
+		"label": "B",
+		"text": " B.关闭压力表手阀"
+	}, {
+		"label": "C",
+		"text": " C.切断电源"
+	}, {
+		"label": "D",
+		"text": " D.关闭泵的出口，入口阀"
+	}]
+}, {
+	"id": "38",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "38、可以判断分解搅拌调停的现象有( )",
+	"options": [{
+		"label": "A",
+		"text": "A.搅拌泵运行开关显示停"
+	}, {
+		"label": "B",
+		"text": " B.循环碱流量加大"
+	}, {
+		"label": "C",
+		"text": " C.分解压力上涨"
+	}, {
+		"label": "D",
+		"text": "D,搅拌泵运行开关显示开"
+	}]
+}, {
+	"id": "39",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "39、氧化釜尾气带料可以造成( )",
+	"options": [{
+		"label": "A",
+		"text": "A.氧化釜压力上升"
+	}, {
+		"label": "B",
+		"text": " B.氧化釜压力下降"
+	}, {
+		"label": "C",
+		"text": " C.氧化釜进料温度高"
+	}, {
+		"label": "D",
+		"text": " D.氧化釜空气流量增加"
+	}]
+}, {
+	"id": "40",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "40、氧化进料中的醇酮含量高，经过氧化反应后（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A苯耗下降"
+	}, {
+		"label": "B",
+		"text": "B碱耗下降"
+	}, {
+		"label": "C",
+		"text": "C转化率升高"
+	}, {
+		"label": "D",
+		"text": "D废碱量降低"
+	}]
+}, {
+	"id": "41",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "41、 氧化液位的波动会对氧化反应构成主要影响有（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A系统压力"
+	}, {
+		"label": "B",
+		"text": "B反应停留时间"
+	}, {
+		"label": "C",
+		"text": "C循环量"
+	}, {
+		"label": "D",
+		"text": "D蒸气加热量"
+	}]
+}, {
+	"id": "42",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "42、对于一台离心水泵来说，现在改为输送比水粘度大的液体，那么泵的扬程将___。",
+	"options": [{
+		"label": "A",
+		"text": "A，减小 "
+	}, {
+		"label": "B",
+		"text": " B，增大 "
+	}, {
+		"label": "C",
+		"text": " C，不变"
+	}, {
+		"label": "D",
+		"text": "D.无答案"
+	}]
+}, {
+	"id": "43",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "43、下列因素对氧化转化率有影响的是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A烷循环量"
+	}, {
+		"label": "B",
+		"text": "B新碱加料量"
+	}, {
+		"label": "C",
+		"text": "C分解触媒浓度"
+	}, {
+		"label": "D",
+		"text": "D 油水相比"
+	}]
+}, {
+	"id": "44",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "44、烷大量带水造成（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A 烷水分离器液位下降很快"
+	}, {
+		"label": "B",
+		"text": " B烷水分离器液位上涨很快"
+	}, {
+		"label": "C",
+		"text": "C 氧化系统压力下降"
+	}, {
+		"label": "D",
+		"text": "D氧化反应温度上涨"
+	}]
+}, {
+	"id": "45",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "45、下列不是造成氧化系统压力波动的是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A 氧化釜液位失真 "
+	}, {
+		"label": "B",
+		"text": "B 烷循环量波动"
+	}, {
+		"label": "C",
+		"text": "C 压力调节阀故障"
+	}, {
+		"label": "D",
+		"text": " D 氧化吸收塔塔盘堵塞"
+	}]
+}, {
+	"id": "46",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "46、烷塔进料带碱水对系统再沸器的影响有（ )",
+	"options": [{
+		"label": "A",
+		"text": "A 蒸汽耗量增加"
+	}, {
+		"label": "B",
+		"text": "B 传热系数提高"
+	}, {
+		"label": "C",
+		"text": "C 蒸汽压力上升"
+	}, {
+		"label": "D",
+		"text": "D 蒸汽压力下降"
+	}]
+}, {
+	"id": "47",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "47、由于（)引起氧化釜飞温",
+	"options": [{
+		"label": "A",
+		"text": "A 进氧化釜环己烷温度过高"
+	}, {
+		"label": "B",
+		"text": "B 系统压力过高"
+	}, {
+		"label": "C",
+		"text": "C进氧化釜空气温度过高"
+	}, {
+		"label": "D",
+		"text": " D 进氧化釜环己烷中含酮醇过高"
+	}]
+}, {
+	"id": "48",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "48、下列不是影响氧化尾气吸收效果的有（）",
+	"options": [{
+		"label": "A",
+		"text": "A 气量分配 "
+	}, {
+		"label": "B",
+		"text": "B 粗醇酮中含水"
+	}, {
+		"label": "C",
+		"text": "C 氨冷却器气氨压力"
+	}, {
+		"label": "D",
+		"text": " D 吸收液中含烷量"
+	}]
+}, {
+	"id": "49",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "49、在往烷塔中加水清洗的过程中，控制应注意（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A液位控制较高"
+	}, {
+		"label": "B",
+		"text": "B加大回流"
+	}, {
+		"label": "C",
+		"text": "C 水量不超过0.1 "
+	}, {
+		"label": "D",
+		"text": " D 塔釜液位控制较低"
+	}]
+}, {
+	"id": "50",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "50、氧化腐蚀出现漏点其周围会有（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A 很重的酸味"
+	}, {
+		"label": "B",
+		"text": " B很重的芳香味"
+	}, {
+		"label": "C",
+		"text": " C 大量的物料跑出"
+	}, {
+		"label": "D",
+		"text": " D 着火"
+	}]
+}, {
+	"id": "51",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "51、分解釜加水的主要目的是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、提供反应无机相 "
+	}, {
+		"label": "B",
+		"text": " B、降低温度 "
+	}, {
+		"label": "C",
+		"text": " C、提高压力 "
+	}, {
+		"label": "D",
+		"text": " D、萃取醇酮"
+	}]
+}, {
+	"id": "52",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "52、氧化尾气吸收原理是利用气体在吸收溶剂中的（ ）不同来达到吸收的目的",
+	"options": [{
+		"label": "A",
+		"text": "A、温度 "
+	}, {
+		"label": "B",
+		"text": " B、挥发度 "
+	}, {
+		"label": "C",
+		"text": " C、溶解度 "
+	}, {
+		"label": "D",
+		"text": " D、黏度"
+	}]
+}, {
+	"id": "53",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "53、自调阀的气开、气关型式选择是从工艺生产的（ ）要求考虑而定的。",
+	"options": [{
+		"label": "A",
+		"text": "A、方便 "
+	}, {
+		"label": "B",
+		"text": " B、安全 "
+	}, {
+		"label": "C",
+		"text": " C、节约仪表空气 "
+	}, {
+		"label": "D",
+		"text": " D、稳定"
+	}]
+}, {
+	"id": "54",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "54、单位质量的液体由泵入口输送到出口所获得的能量称为该泵的（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、效率 "
+	}, {
+		"label": "B",
+		"text": " B、功率 "
+	}, {
+		"label": "C",
+		"text": " C、气蚀余量 "
+	}, {
+		"label": "D",
+		"text": " D、扬程"
+	}]
+}, {
+	"id": "55",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "55、质量流量计是一种以测量流体流过的（）为依据的流量计",
+	"options": [{
+		"label": "A",
+		"text": "质量 "
+	}, {
+		"label": "B",
+		"text": " B、速度 "
+	}, {
+		"label": "C",
+		"text": " C、容积 "
+	}, {
+		"label": "D",
+		"text": " D、压差"
+	}]
+}, {
+	"id": "56",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "56、加热脱氢导热油炉所用的燃料是 （）",
+	"options": [{
+		"label": "A",
+		"text": "氢气 "
+	}, {
+		"label": "B",
+		"text": " B、天然气 "
+	}, {
+		"label": "C",
+		"text": " C、氢气和天然气 "
+	}, {
+		"label": "D",
+		"text": " D、氮气和天然气"
+	}]
+}, {
+	"id": "57",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "57、加氢催化剂成分主要是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、镍和铜粒 "
+	}, {
+		"label": "B",
+		"text": " B、铜和锌粒"
+	}, {
+		"label": "C",
+		"text": " C、镍和锌粒 "
+	}, {
+		"label": "D",
+		"text": " D、镍和铝粒"
+	}]
+}, {
+	"id": "58",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "58、槽式液体分布器开多排孔的作用是 （）",
+	"options": [{
+		"label": "A",
+		"text": "A、防止分布器漏液 "
+	}, {
+		"label": "B",
+		"text": " B、蒸汽快速上升"
+	}, {
+		"label": "C",
+		"text": " C、防止分布器部分堵塞 "
+	}, {
+		"label": "D",
+		"text": " D、美观好看"
+	}]
+}, {
+	"id": "59",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "59、脱氢尾气引入苯加氢岗位，需要（ ）。",
+	"options": [{
+		"label": "A",
+		"text": "A.提高脱氢反应温度"
+	}, {
+		"label": "B",
+		"text": " B.开启脱氢压缩机"
+	}, {
+		"label": "C",
+		"text": " C.保持加氢系统低压力 "
+	}, {
+		"label": "D",
+		"text": " D.增大脱氢进料量"
+	}]
+}, {
+	"id": "60",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "60、精馏塔淹塔的正确处理方法是（）",
+	"options": [{
+		"label": "A",
+		"text": "A、增加回流量 "
+	}, {
+		"label": "B",
+		"text": " B、提高系统压力"
+	}, {
+		"label": "C",
+		"text": " C、降低回流量 "
+	}, {
+		"label": "D",
+		"text": " D、减少再沸器加热蒸汽量"
+	}]
+}, {
+	"id": "61",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "61、精馏塔淹塔的正确处理方法是（）",
+	"options": [{
+		"label": "A",
+		"text": "A、增加回流量 "
+	}, {
+		"label": "B",
+		"text": " B、提高系统压力"
+	}, {
+		"label": "C",
+		"text": " C、降低回流量 "
+	}, {
+		"label": "D",
+		"text": " D、减少再沸器加热蒸汽量"
+	}]
+}, {
+	"id": "62",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "62、判断机泵汽蚀现象之一的是 （ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、出口压力高 "
+	}, {
+		"label": "B",
+		"text": " B、出口流量增大"
+	}, {
+		"label": "C",
+		"text": " C、振动异常大 "
+	}, {
+		"label": "D",
+		"text": " D、地脚螺栓松动"
+	}]
+}, {
+	"id": "63",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "63、发生水锤的现象有 （）",
+	"options": [{
+		"label": "A",
+		"text": "管线压力高 "
+	}, {
+		"label": "B",
+		"text": " B、设备管线振动大"
+	}, {
+		"label": "C",
+		"text": " C、设备操作压力升高 "
+	}, {
+		"label": "D",
+		"text": " D、设备管线无异常"
+	}]
+}, {
+	"id": "64",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "64、防爆膜爆破的现象有（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、膜前压力下降，膜后管线温度升高"
+	}, {
+		"label": "B",
+		"text": " B、膜前压力不变，膜后管线温度不变"
+	}, {
+		"label": "C",
+		"text": " C、膜前压力上升，膜后管线温度上升"
+	}, {
+		"label": "D",
+		"text": " D、膜后压力下降，膜后管线温度下降"
+	}]
+}, {
+	"id": "65",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "65、润滑油的三级过滤是指（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、润滑油出厂装桶时一级过滤，润滑油进润滑站点固定油桶时二级过滤，润滑油进润滑点时三级过滤"
+	}, {
+		"label": "B",
+		"text": " B、领油桶进润滑油站固定油桶一级过滤，固定油桶到油提壶二级过滤，油提壶到各注油点三级过滤"
+	}, {
+		"label": "C",
+		"text": " C、润滑油站点固定油桶到油提壶一级过滤，油提壶到润滑点二级过滤，换油时三级过滤，"
+	}, {
+		"label": "D",
+		"text": " D、领油桶进润滑油站固定油桶一级过滤，固定油桶到润滑油二级过滤，换油时三级过滤 "
+	}]
+}, {
+	"id": "66",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "66、物料流向不受安装方向限制的阀门是( )",
+	"options": [{
+		"label": "A",
+		"text": "A 、截止阀 "
+	}, {
+		"label": "B",
+		"text": " B、 闸阀 "
+	}, {
+		"label": "C",
+		"text": " C、球阀 "
+	}, {
+		"label": "D",
+		"text": " D、蝶阀"
+	}]
+}, {
+	"id": "67",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "67、氨压机J51001是螺杆压缩机，冷冻机油的作用是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、润滑 "
+	}, {
+		"label": "B",
+		"text": " B、冷却 "
+	}, {
+		"label": "C",
+		"text": " C、润滑冷却 "
+	}, {
+		"label": "D",
+		"text": " D、引导气氨进行压缩"
+	}]
+}, {
+	"id": "68",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "68、正常情况下退空气的操作是（）",
+	"options": [{
+		"label": "A",
+		"text": "A、缓慢逐步减少空气量，空气退出后氮气吹扫空气管线"
+	}, {
+		"label": "B",
+		"text": " B、迅速关闭空气快切阀"
+	}, {
+		"label": "C",
+		"text": " C、从最后一台氧化釜开始依次退出"
+	}, {
+		"label": "D",
+		"text": " D、停止冷烷后依次退出"
+	}]
+}, {
+	"id": "69",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "69、脱氢氮气吹扫时不正确的操作是（）",
+	"options": [{
+		"label": "A",
+		"text": "A、下料阀关闭 "
+	}, {
+		"label": "B",
+		"text": " B、尾气排空阀打开 "
+	}, {
+		"label": "C",
+		"text": " C、进蒸发器处的氮气阀门打开 "
+	}, {
+		"label": "D",
+		"text": " D、打开蒸发器加热蒸汽阀门"
+	}]
+}, {
+	"id": "70",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "70、塔釜液位控制要求正确的是（）",
+	"options": [{
+		"label": "A",
+		"text": "A、控制在高液位比较好 "
+	}, {
+		"label": "B",
+		"text": " B、控制在低液位比较好"
+	}, {
+		"label": "C",
+		"text": " C、控制在50%左右范围 "
+	}, {
+		"label": "D",
+		"text": " D、控制在10%以下"
+	}]
+}, {
+	"id": "71",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "71、对于氧化尾气含氧的正确要求是（）",
+	"options": [{
+		"label": "A",
+		"text": "A、充分利用氧气，尾气含氧越低越好 "
+	}, {
+		"label": "B",
+		"text": " B、保证低转化率副产物生成少，尾气含氧越高越好"
+	}, {
+		"label": "C",
+		"text": " C、不做具体要求，只要安全生产就行"
+	}, {
+		"label": "D",
+		"text": " D、控制在1.5%~3.0%之间的范围"
+	}]
+}, {
+	"id": "72",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "72、化工装置用氮气置换有机气体是利用氮气的（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、高压性 "
+	}, {
+		"label": "B",
+		"text": " B、惰性 "
+	}, {
+		"label": "C",
+		"text": " C、方便性"
+	}, {
+		"label": "D",
+		"text": " D。无毒性"
+	}]
+}, {
+	"id": "73",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "73、下列不属于蒸汽正确分类的是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、高压蒸汽 "
+	}, {
+		"label": "B",
+		"text": " B、副产蒸汽 "
+	}, {
+		"label": "C",
+		"text": " C、饱和蒸汽 "
+	}, {
+		"label": "D",
+		"text": " D、高效蒸汽"
+	}]
+}, {
+	"id": "74",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "74、下面不属于仪表空气的作用是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、使电磁阀动作 "
+	}, {
+		"label": "B",
+		"text": " B、使调节阀打开 "
+	}, {
+		"label": "C",
+		"text": " C、使调节阀关闭 "
+	}, {
+		"label": "D",
+		"text": " D、使气动快切阀动作"
+	}]
+}, {
+	"id": "75",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "75、压力0.43Mpa的液氨沸点为（ ）K",
+	"options": [{
+		"label": "A",
+		"text": "A、253 "
+	}, {
+		"label": "B",
+		"text": " B、233 "
+	}, {
+		"label": "C",
+		"text": " C、293 "
+	}, {
+		"label": "D",
+		"text": " D、273"
+	}]
+}, {
+	"id": "76",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "76、废碱的颜色呈（ ）",
+	"options": [{
+		"label": "A",
+		"text": "无色透明 "
+	}, {
+		"label": "B",
+		"text": " B、黑色 "
+	}, {
+		"label": "C",
+		"text": " C、黄色 "
+	}, {
+		"label": "D",
+		"text": " D、黑褐色"
+	}]
+}, {
+	"id": "77",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "77、尾气吸收塔的吸收剂粗醇酮经过氨蒸发器后温度会（ ）",
+	"options": [{
+		"label": "A",
+		"text": "恒定 "
+	}, {
+		"label": "B",
+		"text": " B、上升 "
+	}, {
+		"label": "C",
+		"text": " C、下降 "
+	}, {
+		"label": "D",
+		"text": " D、汽化"
+	}]
+}, {
+	"id": "78",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "78、氨制冷系统中产生和输出冷量的设备是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "氨压机 "
+	}, {
+		"label": "B",
+		"text": " B、氨蒸发器 "
+	}, {
+		"label": "C",
+		"text": " C、氨冷器 "
+	}, {
+		"label": "D",
+		"text": " D、节流阀"
+	}]
+}, {
+	"id": "79",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "79、新建环己酮装置进行水联运所用的介质是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "环己烷 "
+	}, {
+		"label": "B",
+		"text": " B、水 "
+	}, {
+		"label": "C",
+		"text": " C、环己酮 "
+	}, {
+		"label": "D",
+		"text": " D、酮醇混合液"
+	}]
+}, {
+	"id": "80",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "80、氧化烷塔烷联运可以使装置（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A生产出合格的混合液 "
+	}, {
+		"label": "B",
+		"text": " B、升温达到通空气条件"
+	}, {
+		"label": "C",
+		"text": "C建立分解水相 "
+	}, {
+		"label": "D",
+		"text": " D、平衡物料"
+	}]
+}, {
+	"id": "81",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "81、烷三塔回流槽退料使用的泵是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "冷烷泵 "
+	}, {
+		"label": "B",
+		"text": " B、热烷泵 "
+	}, {
+		"label": "C",
+		"text": " C、烷三塔回流泵 "
+	}, {
+		"label": "D",
+		"text": " D、烷一二塔回流泵"
+	}]
+}, {
+	"id": "82",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "82、精馏系统建立真空，向蒸汽喷射泵引蒸汽前应（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、关闭间冷器的循环冷却水阀门 "
+	}, {
+		"label": "B",
+		"text": " B、关闭排气阀门"
+	}, {
+		"label": "C",
+		"text": " C、打开吸气阀门 "
+	}, {
+		"label": "D",
+		"text": " D、打开间冷器与水封槽的连通阀门"
+	}]
+}, {
+	"id": "83",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "83、启动水环真空泵前应盘车、打开（ ），然后再启泵",
+	"options": [{
+		"label": "A",
+		"text": "A、进口阀 "
+	}, {
+		"label": "B",
+		"text": " B、出口阀 "
+	}, {
+		"label": "C",
+		"text": " C、引水阀 "
+	}, {
+		"label": "D",
+		"text": " D、排水阀"
+	}]
+}, {
+	"id": "84",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "84、分解所用催化剂是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、Co（CH3COO)3.4H2O "
+	}, {
+		"label": "B",
+		"text": " B、Co（CH3COO)2.4H2O "
+	}, {
+		"label": "C",
+		"text": " C、Co（CH3COO)4.4H2O "
+	}, {
+		"label": "D",
+		"text": " D、Co（CH3COO)5.4H2O "
+	}]
+}, {
+	"id": "85",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "85、配置分解催化剂所用的溶剂是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、水 "
+	}, {
+		"label": "B",
+		"text": " B、环己烷 "
+	}, {
+		"label": "C",
+		"text": " C、环己酮 "
+	}, {
+		"label": "D",
+		"text": " D、酮醇混合液"
+	}]
+}, {
+	"id": "86",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "86、氧化尾气吸收塔补加的粗酮醇液含水会使（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、尾气吸收塔顶温下降 "
+	}, {
+		"label": "B",
+		"text": " B、塔釜含烷下降"
+	}, {
+		"label": "C",
+		"text": " C、尾气含烷下降 "
+	}, {
+		"label": "D",
+		"text": " D、尾气含烷上升"
+	}]
+}, {
+	"id": "87",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "87、对分解反应的影响非主要因素是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、加入碱量 "
+	}, {
+		"label": "B",
+		"text": " B、环己烷循环量 "
+	}, {
+		"label": "C",
+		"text": " C、催化剂加入量 "
+	}, {
+		"label": "D",
+		"text": " D、分解压力"
+	}]
+}, {
+	"id": "88",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "88、烷三效精馏系统的压力要求（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、依次递增 "
+	}, {
+		"label": "B",
+		"text": " B、依次递减 "
+	}, {
+		"label": "C",
+		"text": " C、压力相等 "
+	}, {
+		"label": "D",
+		"text": " D、一塔高、二塔三塔相等"
+	}]
+}, {
+	"id": "89",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "89、烷塔系统压力过高不会导致下列哪些情况发生（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、蒸发量变大 "
+	}, {
+		"label": "B",
+		"text": " B、蒸发量变小 "
+	}, {
+		"label": "C",
+		"text": " C、釜温升高 "
+	}, {
+		"label": "D",
+		"text": " D、顶温升高"
+	}]
+}, {
+	"id": "90",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "90、废碱分离系统相界位的正确要求是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、50%以上 "
+	}, {
+		"label": "B",
+		"text": " B、10%以下 "
+	}, {
+		"label": "C",
+		"text": " C、20%~30% "
+	}, {
+		"label": "D",
+		"text": " D、越低越好"
+	}]
+}, {
+	"id": "91",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "91、脱氢反应原料中对延长催化剂使用寿命影响最大的是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "环己酮 "
+	}, {
+		"label": "B",
+		"text": " B、环己醇 "
+	}, {
+		"label": "C",
+		"text": " C、X油 "
+	}, {
+		"label": "D",
+		"text": " D、轻质油"
+	}]
+}, {
+	"id": "92",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "92、轻塔顶质量的要求之一是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "塔顶含酮＞75% "
+	}, {
+		"label": "B",
+		"text": " B、塔顶含轻＞75% "
+	}, {
+		"label": "C",
+		"text": " C、塔顶含醇＞75% "
+	}, {
+		"label": "D",
+		"text": " D、塔顶含X油＞75%"
+	}]
+}, {
+	"id": "93",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "93、正常情况下轻塔顶出料成分含量最多的是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "轻质油 "
+	}, {
+		"label": "B",
+		"text": " B、环己酮 "
+	}, {
+		"label": "C",
+		"text": " C、环己醇 "
+	}, {
+		"label": "D",
+		"text": " D、X油"
+	}]
+}, {
+	"id": "94",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "94、正常情况下酮塔顶出来的合格产品中不应该含有（ ）",
+	"options": [{
+		"label": "A",
+		"text": "轻质油 "
+	}, {
+		"label": "B",
+		"text": " B、环己酮 "
+	}, {
+		"label": "C",
+		"text": " C、环己醇 "
+	}, {
+		"label": "D",
+		"text": " D、X油"
+	}]
+}, {
+	"id": "95",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "95、精馏工序在开车升温过程中遵守的原则是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "先升温后抽真空 "
+	}, {
+		"label": "B",
+		"text": " B、先抽真空后四位 "
+	}, {
+		"label": "C",
+		"text": " C、升温同时抽真空 "
+	}, {
+		"label": "D",
+		"text": " D、开车稳定后抽真空"
+	}]
+}, {
+	"id": "96",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "96、酮顶产品不合格时，需将塔顶出料切至（ ）",
+	"options": [{
+		"label": "A",
+		"text": "环己醇槽 "
+	}, {
+		"label": "B",
+		"text": " B、粗酮醇槽 "
+	}, {
+		"label": "C",
+		"text": " C、环己烷槽 "
+	}, {
+		"label": "D",
+		"text": " D、废碱槽"
+	}]
+}, {
+	"id": "97",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "97、隔膜式计量泵计量异常，精度降低的原因是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "润滑油量不够 "
+	}, {
+		"label": "B",
+		"text": "调节手柄设定到超过100%"
+	}, {
+		"label": "C",
+		"text": "C.单向阀内漏 "
+	}, {
+		"label": "D",
+		"text": " D、隔膜破裂"
+	}]
+}, {
+	"id": "98",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "98、下列对蒸汽喷射泵工作过程不正确的描述项是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "绝热膨胀阶段 "
+	}, {
+		"label": "B",
+		"text": " B、混合阶段 "
+	}, {
+		"label": "C",
+		"text": " C、压缩阶段 "
+	}, {
+		"label": "D",
+		"text": " D、排放阶段"
+	}]
+}, {
+	"id": "99",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "99、输送高温介质的离心泵一般没有配冷却水管的部位是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "轴承箱 "
+	}, {
+		"label": "B",
+		"text": " B、泵体 "
+	}, {
+		"label": "C",
+		"text": " C、电机 "
+	}, {
+		"label": "D",
+		"text": " D、轴封处"
+	}]
+}, {
+	"id": "100",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "100、下列对机泵冷却水作用不正确的描述是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "降低轴承温度 "
+	}, {
+		"label": "B",
+		"text": " B、降低填料函温度，改善机械密封的使用条件，延长其使用寿命"
+	}, {
+		"label": "C",
+		"text": " C、带走从轴封渗漏出来的少量液体，并传导出摩擦热"
+	}, {
+		"label": "D",
+		"text": " D、降低泵承温度，延长其使用寿命"
+	}]
+}, {
+	"id": "101",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "101、用泵本身产生的压差或密封腔内泵送装置产生的压差，使被密封介质形成闭合回路实现冲洗是指（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、循环冲洗 "
+	}, {
+		"label": "B",
+		"text": " B、自冲洗 "
+	}, {
+		"label": "C",
+		"text": " C、注入式冲洗 "
+	}, {
+		"label": "D",
+		"text": " D、外冲洗"
+	}]
+}, {
+	"id": "102",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "102、机泵试车前轴承箱润滑油按规定加至视镜处（ ）",
+	"options": [{
+		"label": "A",
+		"text": "A、1/4位置 "
+	}, {
+		"label": "B",
+		"text": " B、1/3位置 "
+	}, {
+		"label": "C",
+		"text": " C、1/2位置 "
+	}, {
+		"label": "D",
+		"text": " D、2/3位置"
+	}]
+}, {
+	"id": "103",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "103、环己酮装置最常用的阻火器是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "石棉板阻火器 "
+	}, {
+		"label": "B",
+		"text": " B、波形散热式阻火器 "
+	}, {
+		"label": "C",
+		"text": " C、金属网阻火器 "
+	}, {
+		"label": "D",
+		"text": " D、砾石阻火器"
+	}]
+}, {
+	"id": "104",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "104、转动设备备用时超过（ ）必须盘车",
+	"options": [{
+		"label": "A",
+		"text": "A、12 "
+	}, {
+		"label": "B",
+		"text": " B、24 "
+	}, {
+		"label": "C",
+		"text": " C、36 "
+	}, {
+		"label": "D",
+		"text": " D、8"
+	}]
+}, {
+	"id": "105",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "105、转动设备的转动轴上装有配件，在重力长期作用下会使轴变形，经常（ ）可以改变轴的受力方向，使轴的弯曲变形最小。",
+	"options": [{
+		"label": "A",
+		"text": "盘车 "
+	}, {
+		"label": "B",
+		"text": " B、备用 "
+	}, {
+		"label": "C",
+		"text": " C、弯曲 "
+	}, {
+		"label": "D",
+		"text": " D、变形"
+	}]
+}, {
+	"id": "106",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "C",
+	"question": "106、压力容器和压力管道上常用的一种泄压保护装置是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "截止阀 "
+	}, {
+		"label": "B",
+		"text": " B、调节阀 "
+	}, {
+		"label": "C",
+		"text": " C、安全阀 "
+	}, {
+		"label": "D",
+		"text": " D、止回阀"
+	}]
+}, {
+	"id": "107",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "B",
+	"question": "107、下列对搅拌作用的描述不正确的是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "使反应物混合均匀，温度均匀 "
+	}, {
+		"label": "B",
+		"text": "降低反应物浓度"
+	}, {
+		"label": "C",
+		"text": "C.防止爆沸 "
+	}, {
+		"label": "D",
+		"text": " D、加快反应速度，缩短反.应时间"
+	}]
+}, {
+	"id": "108",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "108、安全阀的整定压力范围一般是工作压力的（ ）倍",
+	"options": [{
+		"label": "A",
+		"text": "A、1.05~1.1 "
+	}, {
+		"label": "B",
+		"text": " B、1.1~1.25 "
+	}, {
+		"label": "C",
+		"text": " C、1.05~1.25 "
+	}, {
+		"label": "D",
+		"text": " D、1.0~1.2"
+	}]
+}, {
+	"id": "109",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "D",
+	"question": "109、倒泵操作中错误的做法是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "检查备用泵后，开启备用泵 "
+	}, {
+		"label": "B",
+		"text": "降低原来运行泵的负荷，相应提高运行备用泵的负荷"
+	}, {
+		"label": "C",
+		"text": "停运原来运行泵，备用泵开至工艺要求负荷"
+	}, {
+		"label": "D",
+		"text": "直接停运行泵，再开备用泵"
+	}]
+}, {
+	"id": "110",
+	"type": "单选",
+	"isStore": "FALSE",
+	"isAnswer": "0",
+	"answer": "A",
+	"question": "110、泵水夹套的主要作用是（ ）",
+	"options": [{
+		"label": "A",
+		"text": "保护电机端不超温 "
+	}, {
+		"label": "B",
+		"text": " B、冷却作用 "
+	}, {
+		"label": "C",
+		"text": " C、密封作用 "
+	}, {
+		"label": "D",
+		"text": " D、保护转子"
+	}]
+}]
